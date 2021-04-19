@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Small talk on affirmative action.
-image: 'https://www.nwfolklife.org/wp-content/uploads/2013/02/Vineyard-March.jpg'
+image: 'https://www.cranbrooktownsman.com/wp-content/uploads/2019/10/19103994_web1_mother-and-child.jpg'
 date: '2018-04-23 10:47:26'
 ---
 Exercise of power has a sole purpose - to create exclusive right over resources. Like it or not - people will monopolise resources to the best of their abilities.

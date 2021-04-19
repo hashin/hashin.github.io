@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When I typed at night.
-image: http://www.portland5.com/sites/default/files/events/Nightmare%20before%20christmas.jpg
+image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1135px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg'
 date: '2015-10-07 19:13:01'
 tags:
 - writing
