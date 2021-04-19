@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  Does Compassion Correlate with Wealth?
+image: 'https://i.pinimg.com/originals/9b/01/4b/9b014b8604e5e27045b0be14374149f5.png'
+date: '2021-04-19 11:46:39'
+published: true
 ---
 I am not trying to answer this question (in the title) from an individualistic perspective. That’d be a philosophical quest, which is well beyond my remit here. However, it is possible to answer this at a community or national level. How do these entities behave in the face of a crisis that disproportionately affects the weakest among them?
 
