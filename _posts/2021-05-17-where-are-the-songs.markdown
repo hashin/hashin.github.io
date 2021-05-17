@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  Where are the songs when we have death all around?
+image: 'https://axiswebmedia.blob.core.windows.net/www/usermedia/106220/work/0/gp9emjnlreg56qkrxvmvqa_large.jpg'
+date: '2021-05-17 16:35:39'
+published: true
 ---
 You wake up in your village. You see a hundred half burnt bodies washing up your sacred river. Which song will you sing? If the voice is stuck in your lumpen throat, how will you let the grief escape you?
 
