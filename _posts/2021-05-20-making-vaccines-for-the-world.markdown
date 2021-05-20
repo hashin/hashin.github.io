@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  Making vaccines for the world
+image: 'https://images.theconversation.com/files/370126/original/file-20201118-19-c5f8an.jpg'
+date: '2021-05-20 11:46:39'
+published: true
 ---
 Vaccinating the world is, needless to emphasize, a complicated problem. It has technological, economic, social and political aspects that aren’t easily solved. As studies suggest that there is a huge supply-demand gap in vaccine delivery, we must know that this quagmire will not be resolved without system wide changes.
 
