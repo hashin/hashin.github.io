@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  Remembering Abhimanyu.
+image: 'https://3.bp.blogspot.com/-0jk4-mEVlCg/W1wnkKXZZwI/AAAAAAAABf0/Bg4M0jcObxwP4HJLoRVU4VaBBq9ILzbtQCLcBGAs/s1600/Abhimanyu.jpg'
+date: '2021-07-02 10:51:39'
+published: true
 ---
 Martyrs always command over a contentious legacy. To some, they are heroes. To some, they are perverted criminals. To others, they are not nobodies. To form a learned opinion on all the cases is an extremely difficult thing to do.
 
