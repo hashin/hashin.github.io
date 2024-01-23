@@ -1,0 +1,12 @@
+File containing the stuff for meta-data
+
+ ---
+layout: post
+title:  Title.
+image: 'link'
+date: '2023-01-01 10:51:39'
+published: true
+ ---
+
+Remember to backspace one space before the three hyphens!
+
