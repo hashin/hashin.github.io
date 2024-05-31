@@ -1,3 +1,11 @@
+---
+layout: post
+title:  Direct Democracy is Dictatorship.
+image: 'https://i.imgur.com/FWw4BKx.jpg'
+date: '2024-05-31 01:51:39'
+published: true
+---
+
 Perhaps psychology will help us design political systems better than philosophy. Of course, there is a lot of haggling around why psychology is hardly a science. But a few will dispute the fact that it is more sciencier (albeit less sexy) than philosophy. Polity that works for the populi cannot be learned from the philosophy or high ideals that our (and others) constitutional texts propagate. What actually matters to the citizen is how those in power have acted when presented with an opportunity.
 
 There is a cottage industry that teaches us how to acquire power and preserve it. They quote from Sun Tsu to Machiavelli as if these men have written something that we don’t already know. The Hoi Polloi is definitely taught to be sceptical and, to some extent, selfish by the larger society. Irrespective of the ardent religious appeal of the propaganda in favour of altruistic morality, most of them grow up to not trust others unless there is a compelling reason to do so. Most enduring systems of power are designed to override this suspicion by abusing the organis gullibilties of the masses.
