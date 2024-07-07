@@ -1,3 +1,10 @@
+---
+layout: post
+title:  Death of a Cow Slaughterer.
+image: 'https://i0.wp.com/www.opindia.com/wp-content/uploads/2019/06/Mob-Lynching.jpg'
+date: '2024-07-07 10:51:39'
+published: true
+---
 I, Arif Mohammed Khan, 34 years old, is lying on this road awaiting my death. Death was always that remote shapeless demon, whom I never expected to see face to face. An unbidden nightmare that lurked in the backwaters of my mind - this death that I was forever successful in evading!
 
 At every moment of unease, I saw death somewhere around me. When the piece of my heart, my youngest son Dawood, was late from the madrassa - I saw it. When my Abu won’t pick up my late night calls seeking business advice. When my younger brother Isa’s phone was unreachable. In sweet afternoon naps when Ammi’s face flashed over my mind and I am suddenly awake - I think about death and reach over to my phone. The moment they pick up the phone or I am appraised of their continuing existence, I quickly get back to normalcy.
