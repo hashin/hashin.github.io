@@ -76,3 +76,5 @@ But I am dead now, for no reason. Maybe I shouldn’t have involved myself in th
 At that moment, I turned vegetarian and vowed not to eat beef again. I once again looked at my dead body, shrunk like a rotting vegetable. Blood and lymph flowing out through the lacerations dug upon it by those men of virtue. They were nothing but the arms of god - through whom I shall now be reunited with Allah. From the temptations of the flesh and machinations of the devil, I shall now finally attain peace. My loins are shredded, and I am free. God is great and I shall live forever - away from my sins. Only God knows the best!
 
 These terse emotions piled upon each other when a final solution dawned upon me. My mind was growing sullen with these chaotic thoughts that made me human. Azrael advised me to retract all of them and dissolve myself into this vast abyss. I did it at once.
+
+> I wrote this in 2019, publishing after lying in my google drive for five years.
