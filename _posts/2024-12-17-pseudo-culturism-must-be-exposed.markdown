@@ -1,3 +1,11 @@
+---
+layout: post
+title:  Pseudo-Cultarism must be discussed, its practitioners exposed.
+image: 'https://map-india.org/wp-content/uploads/2022/11/MAC.00819.jpg'
+date: '2024-12-07 10:51:39'
+published: true
+---
+
 The phrase, “Cultural Nationalism” is an oxymoron at best.
 
 Let me explain.
