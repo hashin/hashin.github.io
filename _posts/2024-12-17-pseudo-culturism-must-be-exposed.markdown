@@ -16,7 +16,7 @@ For example, when you talk about a place of worship to a foreigner, it is imposs
 
 You must be familiar with the cultural context in which the deity is placed. Also, the comprehensive survey of rituals. Even if that is done, how do you place the vast differences in the way each devotee perceives and submit herself to the deity?
 
-This is true for artforms, imagined or real histories, monuments. Anything that you can pick about the culture is not amenable to summary articulation neither can it be taught by bombarding an outsider with conventional “information”. 
+This is true for artforms, imagined or real histories, monuments etc. Anything that you can pick about the culture is not amenable to summary articulation neither can it be taught by bombarding an outsider with conventional “information”. 
 
 Culture has to be imbibed through prolonged exposure and constant interaction with your community. And by nature, this is limited to your immediate surroundings. Whatever national culture you are talking about - is the distilled sum total of a cross section of national life that you have vicariously experienced. More often, national life is too diverse and complex for you to imbibe a reliable cross section of it.
 
