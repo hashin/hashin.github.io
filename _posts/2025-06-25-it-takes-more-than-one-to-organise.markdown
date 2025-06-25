@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  It takes more than one to organise.
-image: 'link'
+image: 'https://www.aljazeera.com/wp-content/uploads/2025/06/2025-06-25T050151Z_1268639625_RC2H9FAP92SU_RTRMADP_3_USA-NEW-YORK-MAYOR-ELECTION-1750831365.jpg'
 date: '2025-06-25 10:51:39'
 published: true
 ---
