@@ -1,3 +1,11 @@
+---
+layout: post
+title:  It takes more than one to organise.
+image: 'link'
+date: '2025-06-25 10:51:39'
+published: true
+---
+
 The spirited campaign of Zohran Mamdani has caught my attention. It has all the bells and whistles of an underdog campaign, adapted to the social media needs of the Generation Z and beyond. His “online first” campaign is being celebrated all across the globe, with the “progressive” bandwagon jumping right behind his peppy reels and zestful online persona.
 
 The democratic party is not united,  of course. Editorial board of the New York Times, just two weeks ago, did not believe that Mr. Mamdani deserves a spot on New Yorkers' ballots", labelling his experience "too thin" and comparing his campaign platform to "a turbocharged version of Mr. de Blasio's dismaying mayoralty". It is understandable that the Democratic Party would take a little while before they turn the corner. The support of Democratic Socialists of America (DSA), is not too much of a clout when it comes to capturing the large political machine that the Democratic Party is.
