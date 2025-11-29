@@ -1,5 +1,9 @@
---- --- //
+---
+---
+
+//
 // IMPORTS
+//
 
 @import "reset";
 @import "variables";
@@ -14,98 +18,82 @@ html {
 }
 
 body {
-  background: $white;
-  font: 20px/1.58 $serif;
-  color: $darkerGray;
-  -webkit-font-smoothing: antialiased;
+	background: $white;
+  font: 18px/1.4 $helvetica;
+  color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 680px;
-  padding: 0 20px;
+  max-width: 740px;
+  padding: 0 10px;
   width: 100%;
 }
 
-.iframe-container {
+.iframe-container{
   position: relative;
   width: 100%;
-  padding-bottom: 56.25%;
+  padding-bottom: 56.25%; 
   height: 0;
 }
-
-.iframe-container iframe {
+.iframe-container iframe{
   position: absolute;
-  top: 0;
+  top:0;
   left: 0;
   width: 100%;
   height: 100%;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: $sans;
-  color: $black;
-  font-weight: 700;
+h1, h2, h3, h4, h5, h6 {
+  font-family: $helveticaNeue;
+  color: $darkerGray;
+  font-weight: bold;
 
-  line-height: 1.2;
-  margin: 1.5em 0 0.5em;
+  line-height: 1.7;
+  margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
-    line-height: 1.2;
+    line-height: 1.4;
   }
 }
 
 h1 {
-  font-size: 42px;
-  letter-spacing: -0.02em;
-
+  font-size: 30px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 32px;
-  letter-spacing: -0.02em;
+  font-size: 24px;
 }
 
 h3 {
-  font-size: 26px;
+  font-size: 20px;
 }
 
 h4 {
-  font-size: 22px;
-  color: $darkGray;
+  font-size: 18px;
+  color: $gray;
 }
 
 p {
-  margin: 24px 0;
+  margin: 15px 0;
 }
 
 a {
-  color: inherit;
-  text-decoration: underline;
-  text-decoration-color: rgba($black, 0.2);
-  text-underline-offset: 2px;
-  cursor: pointer;
-  transition: all 0.2s ease;
-
-  &:hover,
-  &:active {
-    color: $black;
-    text-decoration-color: $black;
+  color: $linkGreen;
+	font-weight: bold;
+  text-decoration: none;
+	cursor: pointer;
+  &:hover, &:active {
+    color: $blue;
   }
 }
 
-ul,
-ol {
-  margin: 24px 0;
+ul, ol {
+  margin: 15px 0;
   padding-left: 30px;
 }
 
@@ -117,26 +105,20 @@ ol {
   list-style-type: decimal;
 }
 
-ol ul,
-ul ol,
-ul ul,
-ol ol {
+ol ul, ul ol, ul ul, ol ol {
   margin: 0;
 }
 
-ul ul,
-ol ul {
+ul ul, ol ul {
   list-style-type: circle;
 }
 
-em,
-i {
+em, i {
   font-style: italic;
 }
 
-strong,
-b {
-  font-weight: 700;
+strong, b {
+  font-weight: bold;
 }
 
 img {
@@ -149,34 +131,30 @@ img {
 }
 
 .date {
-  font-family: $sans;
-  font-size: 14px;
+  font-style: italic;
   color: $gray;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: rgba($blue, 0.2);
+  background: $lightGray;
 }
-
 ::selection {
   color: $black;
-  background: rgba($blue, 0.2);
+  background: $lightGray;
 }
 
 // Nicolas Gallagher's micro clearfix hack
 // http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
 .clearfix:after {
-  content: " ";
-  display: table;
+    content: " ";
+    display: table;
 }
 
 .clearfix:after {
-  clear: both;
+    clear: both;
 }
 
 /*********************/
@@ -188,15 +166,32 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 60px;
-  border-bottom: 1px solid rgba($black, 0.05);
+  margin-bottom: 50px;
 }
 
 .masthead {
   padding: 20px 0;
+  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
+  }
+}
+
+.site-avatar {
+  float: left;
+  width: 70px;
+  height: 70px;
+  margin-right: 15px;
+
+  @include mobile {
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+
+  img {
+    border-radius: 5px;
   }
 }
 
@@ -212,27 +207,18 @@ img {
 
 .site-name {
   margin: 0;
-  color: $black;
+  color: $darkGray;
   cursor: pointer;
-  font-family: $sans;
-  font-weight: 800;
-  font-size: 24px;
-  letter-spacing: -0.02em;
-
-  a {
-    text-decoration: none;
-
-    &:hover {
-      text-decoration: none;
-    }
-  }
+  font-family: $helveticaNeue;
+  font-weight: 300;
+  font-size: 28px;
+  letter-spacing: 1px;
 }
 
 .site-description {
-  margin: 5px 0 0 0;
+  margin: -5px 0 0 0;
   color: $gray;
-  font-size: 14px;
-  font-family: $sans;
+  font-size: 16px;
 
   @include mobile {
     margin: 3px 0;
@@ -241,28 +227,27 @@ img {
 
 nav {
   float: right;
-  margin-top: 10px;
-  font-family: $sans;
-  font-size: 15px;
+  margin-top: 23px; // @TODO: Vertically middle align
+  font-family: $helveticaNeue;
+  font-size: 18px;
 
   @include mobile {
     float: none;
-    margin-top: 20px;
+    margin-top: 9px;
     display: block;
+    font-size: 16px;
   }
 
   a {
     margin-left: 20px;
-    color: $gray;
-    text-decoration: none;
-    font-weight: 500;
+    color: $darkGray;
+    text-align: right;
+    font-weight: 300;
+    letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-    }
-
-    &:hover {
-      color: $black;
+      color: $linkGreen;
     }
   }
 }
@@ -271,46 +256,24 @@ nav {
 // .main
 //
 
-.posts>.post {
-  padding-bottom: 40px;
-  margin-bottom: 40px;
-  border-bottom: 1px solid rgba($black, 0.05);
+.posts > .post {
+  padding-bottom: 2em;
+  border-bottom: 1px solid $lightGray;
 }
 
-.posts>.post:last-child {
-  padding-bottom: 0;
+.posts > .post:last-child {
+  padding-bottom: 1em;
   border-bottom: none;
 }
 
 .post {
-  h1 {
-    font-size: 32px;
-    margin-bottom: 8px;
-
-    a {
-      text-decoration: none;
-      color: $black;
-
-      &:hover {
-        color: $black;
-      }
-    }
-  }
-
-  .entry {
-    margin-bottom: 16px;
-    color: $darkGray;
-    font-family: $serif;
-  }
-
   blockquote {
-    margin: 2em 0;
-    border-left: 3px solid $black;
-    padding-left: 20px;
-    color: $darkerGray;
-    font-size: 24px;
+    margin: 1.8em .8em;
+    border-left: 2px solid $gray;
+    padding: 0.1em 1em;
+    color: $gray;
+    font-size: 22px;
     font-style: italic;
-    font-family: $serif;
   }
 
   .comments {
@@ -318,32 +281,21 @@ nav {
   }
 
   .read-more {
-    font-family: $sans;
-    font-size: 14px;
-    font-weight: 500;
-    color: $blue;
-    text-decoration: none;
-
-    &:hover {
-      text-decoration: underline;
-    }
+    text-transform: uppercase;
+    font-size: 15px;
   }
 }
 
 .wrapper-footer {
-  margin-top: 80px;
+  margin-top: 50px;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
   background-color: $lightGray;
-  padding: 40px 0;
 }
 
 footer {
+  padding: 20px 0;
   text-align: center;
-
-  p {
-    font-family: $sans;
-    font-size: 14px;
-    color: $gray;
-  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
