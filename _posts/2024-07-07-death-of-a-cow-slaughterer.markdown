@@ -3,7 +3,7 @@ layout: post
 title:  Death of a Cow Slaughterer.
 image: 'https://i0.wp.com/www.opindia.com/wp-content/uploads/2019/06/Mob-Lynching.jpg'
 date: '2024-07-07 10:51:39'
-published: true
+published: false
 ---
 I, Arif Mohammed Khan, 34 years old, is lying on this road awaiting my death. Death was always that remote shapeless demon, whom I never expected to see face to face. An unbidden nightmare that lurked in the backwaters of my mind - this death that I was forever successful in evading!
 
