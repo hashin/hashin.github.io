@@ -3,7 +3,9 @@ layout: default
 ---
 
 <h1 class="post-title">{{ page.title }}</h1>
-<p class="post-sub"><a href="{{ '/' | relative_url }}">&larr; All essays</a></p>
+{% if page.category %}
+<p class="post-sub"><a href="{{ '/all/' | relative_url }}">&larr; All essays</a></p>
+{% endif %}
 
 <main class="index-list">
   {% assign _year = '' %}
@@ -14,7 +16,13 @@ layout: default
     {% assign combined = _tagstr | append: ' ' | append: _catstr | strip %}
     {% if combined contains 'malayalam-1' %}{% assign combined = combined | append: ' malayalam' %}{% endif %}
     {% assign _tags_arr = combined | split: ' ' %}
-    {% if _tags_arr contains _cat_slug %}
+    {% assign _show_row = false %}
+    {% if page.category %}
+      {% if _tags_arr contains _cat_slug %}{% assign _show_row = true %}{% endif %}
+    {% else %}
+      {% assign _show_row = true %}
+    {% endif %}
+    {% if _show_row %}
       {% assign _py = post.date | date: '%Y' %}
       {% if _py != _year %}
         {% assign _year = _py %}

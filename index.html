@@ -5,7 +5,7 @@ layout: default
 <div class="findbar">
   <input class="search" type="text" placeholder="Search essays… try “gandhi”, “malayalam”, or a year" oninput="hjSearch(this.value)">
   <div class="tagsline">
-    <a class="tag" href="{{ '/' | relative_url }}">All</a>
+    <a class="tag" href="{{ '/all/' | relative_url }}">All</a>
     {% assign _cats = 'politics,policy,philosophy,malayalam,personal,books,tech' | split: ',' %}
     {% assign _labels = 'Politics,Policy,Philosophy,Malayalam,Personal,Books,Tech' | split: ',' %}
     {% for _s in _cats %}
