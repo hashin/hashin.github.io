@@ -2,7 +2,7 @@ name: Deploy Jekyll site to Pages
 
 on:
   push:
-    branches: ["master", "redesign/spectral-grayscale"]
+    branches: ["master"]
   workflow_dispatch:
 
 permissions:
