@@ -1,13 +1,13 @@
 ---
 layout: post
 title: The Joy of writing!
+categories: [philosophy]
 date: '2014-10-04 09:37:41'
 tags:
 - writing
 - ghost-tag
 - blog
 ---
-
 I just finished setting up my first ghost blog. Thanks to a lot of wonderful people on Internet, I was able to get my blog running on the Openshift Red hat server with a beautiful responsive theme.
 
 Currently I am not in a mood to write, but I cannot resist myself from thanking the numerous awesome people, without whose help, I wouldn't have had this blog up and running. 

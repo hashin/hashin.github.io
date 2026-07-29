@@ -1,6 +1,7 @@
 ---
 layout: post
 title: മാരൻ ദൈവത്തിന്റെ നാണം കെട്ട മരണം.
+categories: [malayalam]
 image: 'https://m.media-amazon.com/images/I/81blAgNlyuL._AC_UF1000,1000_QL80_.jpg'
 date: '2024-01-23 10:51:39'
 published: false

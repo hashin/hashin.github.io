@@ -1,15 +1,13 @@
 ---
 layout: post
 title: Some of my favorite xkcd's.
+categories: [philosophy]
 date: '2014-10-15 14:32:57'
 tags:
 - fun
 - comics
 - xkcd
 ---
-
-
-
 Warning: This comic occasionally contains strong language (which may be unsuitable for children), unusual humor (which may be unsuitable for adults), and advanced mathematics (which may be unsuitable for liberal-arts majors).
 
 A random, non-exhaustive list of xkcd's that were highly effective in making me think ( and laugh! :P)

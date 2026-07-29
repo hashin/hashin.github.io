@@ -6,9 +6,9 @@ layout: default
   <input class="search" type="text" placeholder="Search essays… try “gandhi”, “malayalam”, or a year" oninput="hjSearch(this.value)">
   <div class="tagsline" id="tagsline">
     <span class="tag active" data-tag="all" onclick="hjSetTag('all', this)">All</span>
-    {% assign _six = 'politics,philosophy,malayalam,personal,books,tech' | split: ',' %}
-    {% assign _labels = 'Politics,Philosophy,Malayalam,Personal,Books,Tech' | split: ',' %}
-    {% for _s in _six %}
+    {% assign _cats = 'politics,policy,philosophy,malayalam,personal,books,tech' | split: ',' %}
+    {% assign _labels = 'Politics,Policy,Philosophy,Malayalam,Personal,Books,Tech' | split: ',' %}
+    {% for _s in _cats %}
       {% assign _n1 = site.tags[_s].size | default: 0 %}
       {% assign _n2 = site.categories[_s].size | default: 0 %}
       {% assign _n = _n1 | plus: _n2 %}
@@ -37,7 +37,7 @@ layout: default
     {% if post.categories.size > 0 %}
       {% assign cat_label = post.categories[0] %}
     {% else %}
-      {% for _s in _six %}
+      {% for _s in _cats %}
         {% if cat_label == '' and combined contains _s %}{% assign cat_label = _s %}{% endif %}
       {% endfor %}
     {% endif %}

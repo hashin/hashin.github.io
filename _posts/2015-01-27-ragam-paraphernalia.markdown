@@ -1,10 +1,10 @@
 ---
 layout: post
 title: The Ragam Paraphernalia.
+categories: [personal]
 image: http://artpartiesforchildren.com/wp-content/uploads/2011/05/Art3l.jpg
 date: '2015-01-27 14:38:32'
 ---
-
 First, look at this word - "Paraphernalia."
 
 Many of you must be knowing what it means. Some of you may not. Whatever, please don't run to google. Something is coming up in the following paragraphs, that will change the way you are looking at Ragam. Or towards any other festival of cultural exchange for that matter. So please hang on if you wish to. Or just ignore. Nobody really cares.

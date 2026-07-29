@@ -1,4 +1,6 @@
 ---
+categories: [politics]
+
 layout: post
 title: How to kill a Democracy.
 image: 'https://guardian.ng/wp-content/uploads/2017/05/GLS-1-7-5-17.jpg'

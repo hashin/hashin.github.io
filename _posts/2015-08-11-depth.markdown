@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Ideas
+categories: [philosophy]
 date: '2015-08-11 18:39:39'
 ---
-
 The depth that life can get into is much more than our normal minds can render.
 
 But is doesn't matter, whenever in trouble, we find ourselves looking at the past. We believe that the solution lies there.

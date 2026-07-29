@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: About Identity Politics.
+categories: [politics]
 image: 'https://wikibengdotcom.files.wordpress.com/2017/09/multitude.jpg'
 date: '2018-04-01 12:42:39'
 ---

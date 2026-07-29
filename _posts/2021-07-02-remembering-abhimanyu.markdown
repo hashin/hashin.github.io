@@ -1,4 +1,6 @@
 ---
+categories: [philosophy]
+
 layout: post
 title:  Remembering Abhimanyu.
 image: 'https://3.bp.blogspot.com/-0jk4-mEVlCg/W1wnkKXZZwI/AAAAAAAABf0/Bg4M0jcObxwP4HJLoRVU4VaBBq9ILzbtQCLcBGAs/s1600/Abhimanyu.jpg'

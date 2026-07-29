@@ -1,13 +1,13 @@
 ---
 layout: post
 title: High
+categories: [philosophy]
 date: '2015-07-06 17:58:19'
 tags:
 - writing
 - blog
 - english
 ---
-
 <h1>High</h1>
 <h2>High</h2>
 <h3>High</h3>

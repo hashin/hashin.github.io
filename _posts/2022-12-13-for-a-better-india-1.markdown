@@ -1,11 +1,12 @@
 ---
+categories: [politics]
+
 layout: post
 title:  Attack on fraternity is an attack on the Indian Constitution.
 image: 'https://i.pinimg.com/736x/88/7f/f7/887ff73e7e23fcf2cf62f6f6440eda19.jpg'
 date: '2022-12-13 02:30:39'
 published: true
 ---
-
 One of the hallmarks of Indian public discourse is the inexplicable urge to deflect a sane analysis of the nature of political processes. This doesn’t mean that the political processes are incredibly complex and the public unable to understand it. 
 
 Of course, there are many layers to the Indian political process that makes it hard to “analyse” based on a truly cause-effect investigation. I will touch upon that another day. Here, our discussion pertains to how Indians are shielded from the nuances of political process.

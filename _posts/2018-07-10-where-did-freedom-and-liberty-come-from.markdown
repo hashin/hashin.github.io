@@ -1,4 +1,6 @@
 ---
+categories: [politics]
+
 layout: post
 title: >-
   Where did the American ideals of Liberty, Equality and unalienable rights come

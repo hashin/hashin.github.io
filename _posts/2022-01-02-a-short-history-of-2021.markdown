@@ -1,11 +1,12 @@
 ---
+categories: [personal]
+
 layout: post
 title:  A short history of 2021.
 image: 'link'
 date: '2022-01-01 10:51:39'
 published: true
 ---
-
 As we get on with 2022, a few reflections about my 2021 is due.
 
 It was a beautiful year. I travelled a lot, especially across the length and breadth of the state. I learnt a lot. Then came an exhilarating two months period, working on a project - single mindedly with possibly the best team out there. We, as a triumvirate, sat together to pull off something interesting. And we did it. In terms of learning, 2021 was a fantastic year.

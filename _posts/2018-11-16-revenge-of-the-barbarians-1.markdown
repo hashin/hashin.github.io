@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Revenge of the Barbarians.
+categories: [philosophy]
 image: 'https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/red-dragon-contemporary-red-dark-abstract-painting-modern-art-prints.jpg'
 date: '2018-11-16 13:53:39'
 published: true

@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  Community transmission in Kerala.
+categories: [policy]
 image: 'link'
 date: '2020-06-04 09:01:39'
 published: true
 ---
-
 Community transmission is not a dirty word. In epidemiology, it is an eventuality that is to be expected.
 
 According to my understanding, community transmission has already started in Kerala and the time has come to treat every person as a potential source of infection.

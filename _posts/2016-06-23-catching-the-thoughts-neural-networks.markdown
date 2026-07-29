@@ -1,10 +1,11 @@
 ---
+categories: [tech]
+
 layout: post
 title: 'Catching the thoughts : Neural Networks.'
 image: https://lh3.googleusercontent.com/0iiVdAI47Pxqqg1PneQCO9PCVID7L9K46eNXpWnENxe8BSn0QhZyYN5yi6DgCPkpk7VPLhmFywrfAKGF1B61-YqObn8dhvstNdrJXTUgF6Sqz_wuJfDvtLz4yHI4H1VUJ673HQJ6cZx4Wd3Om2xMOWdaaDGJNHMQjBV8C2f8imuuzQgk-lCGNCHShA8UNYGlsldG4vMm9eXN2TnQp8DRYdORtOMPRHFr6rrw8751ulPIIQ7A1Q89ugLIrH0IS64P2VGREh68pszKo3cSnT2UrlEW4w5VBUnW37Wf9HkfR7w81dbtijB5we0prmznjX7DkZ_u8FkSbkgmk5vofIajGzvh-r5uQ0lQlUzxo9FuVC8Ca7gOZtdgJTm_O3Vbp6lDrypcCuqHzWw1KoSJctaCUL35zYXEnJtheAgF7w1fA9vXIjB2QmRqFB35sB60fVGoHuEhflEFlk-nHihH6GIPPUkZDPXl60kFfHpxQ6yUb4czyl5JoKA4xhQfeCoxltv3CwbtVBc8APRs29vTt3Orsavy9YiFH09qYOyI7hJMAp0aed4bCDhXSVYmRFy6f1mQgLbpeSqkb4ew5I1oQ4XccY4SurDWyCA=w1200-h800-no
 date: '2016-06-23 18:49:09'
 ---
-
 > ==Research that throws light into the way neural networks work might change our understanding on how human thought process work. Here is how.==
 
 

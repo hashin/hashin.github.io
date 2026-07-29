@@ -1,10 +1,11 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: The Story of Ishi.
 image: http://sometimes-interesting.com/wp-content/uploads/2015/03/Ishi-river-3.jpg
 date: '2017-07-21 07:37:35'
 ---
-
 Ishi was a man, a man who was the last of his tribe.
 
 ![](http://www2.palomar.edu/users/cjohnson/images/ishi.jpg)

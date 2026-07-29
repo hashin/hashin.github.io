@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Does Compassion Correlate with Wealth?
+categories: [philosophy]
 image: 'https://i.pinimg.com/originals/9b/01/4b/9b014b8604e5e27045b0be14374149f5.png'
 date: '2021-04-19 11:46:39'
 published: true

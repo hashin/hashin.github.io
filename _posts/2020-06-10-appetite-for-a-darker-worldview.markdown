@@ -1,4 +1,6 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: Appetite for a darker worldview.
 image: 'https://cms.qz.com/wp-content/uploads/2020/05/dhruvi-2.jpg'

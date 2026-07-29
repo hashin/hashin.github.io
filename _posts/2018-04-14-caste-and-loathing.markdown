@@ -1,4 +1,6 @@
 ---
+categories: [politics]
+
 published: true
 layout: post
 title: Caste and loathing in Indo-Pakistan.

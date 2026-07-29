@@ -1,11 +1,12 @@
 ---
+categories: [politics]
+
 layout: post
 title:  On Bangalore riots.
 image: 'https://www.thegreekfoundation.com/wp-content/uploads/cache/2014/06/featured_new/1015062336.png'
 date: '2020-08-13 11:39:39'
 published: true
 ---
-
 All opinions about communal riots miss a fundamental point that needs to be stressed. The violence is not about any particular ideology. It is more about the conditions that facilitated the violence.
 
 If ideology was the prime culprit, we would routinely see violence in our streets. It is true that most Muslims are enraged when the prophet is insulted. Even a rumour that this has happened will suffice. But then, a cursory glance over social media will prove that prophet Muhammed is insulted on a daily basis. Not just by people who hate Muslims, but also by seculars like me who just want to make a point against the emotional nature of Islam.

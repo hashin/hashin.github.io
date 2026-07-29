@@ -1,4 +1,6 @@
 ---
+categories: [personal]
+
 layout: post
 title: Tikes finally makes the hike.
 image: >-

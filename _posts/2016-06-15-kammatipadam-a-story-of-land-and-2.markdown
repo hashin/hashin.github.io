@@ -1,10 +1,11 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: Kammatti paadam - A tribute to lost souls and the songs they sung.
 image: http://www.todayincity.com/wp-content/uploads/2016/04/Dulquer-Salman-s-Kammattipadam-shooting-wrapped-up-Latest-Malayalam-Movie-News-1000x509.jpg
 date: '2016-06-15 19:29:34'
 ---
-
 Kammatti paadam is an ode to the past, present and future of an upcoming metropolis that stands tall above the boneyards of the proletariat.
 
 Just like Rajiv Ravi's previous movies, the movie doesn't betray any visible politics, but each and every frame of the movie is pregnant with the struggle of proletariat for its rightful share in the 'development pie' that the society as a whole achieved through their labour.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to evaluate a programmer?
+categories: [tech]
 date: '2015-08-31 12:31:31'
 tags:
 - development
@@ -8,7 +9,6 @@ tags:
 - engineering
 - software
 ---
-
 Software engineering is not much different from any other discipline of engineering. You need to create designs that stand the test of time and performs well in conditions to which it is designed to.
 
 Sometimes your design need to function well in conditions it is not designed for. Or you will end up killing everyone on-board ruining your lunar landing.

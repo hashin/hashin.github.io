@@ -1,12 +1,12 @@
 ---
+categories: [politics]
+
 layout: post
 title: Gandhi and his faults - choosing the praxis X idol.
 image: 'https://i.imgur.com/HAlgSvn.png'
 date: '2022-10-02 10:51:39'
 published: true
 ---
-
-
 Critical reading of Gandhi is the order of the day. Despite his portrayal in textbooks and pop culture, the enterprise of 'exposing' Gandhi has grown leaps and bounds in the last a few decades. If you look inside, you'll see all hues of politics inside this body of work. From Ambedkarites to Marxists to cultural nationalists to right wing terror groups and their counterparts - you see the burgeoning industry of 'exposing' Gandhi. And most often, their passionate hate towards Gandhi fuels their politics.
 
 I don't think they are searching for any answers. And this post is not to vindicate Gandhi for his faulty positions whatsoever. From my extensive reading of his OG archives, I know that his corpus is interlaced with pseudoscience, faux pride for culture, an admiration for Caste system etc - to name a few.

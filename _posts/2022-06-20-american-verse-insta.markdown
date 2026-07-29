@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  The American Verse
+categories: [books]
 image: 'https://i.imgur.com/M4VudaB.jpg'
 date: '2022-06-20 10:51:39'
 published: true
 ---
-
 American verse is a queer mixture of everything avant-garde. Strongly drilled into their national culture is the fascination for differences and an almost infectious urge to differ.
 
 Perhaps, this national character have roots in the way that union was formed. And it isn't surprising from a historical pov that a resistance to that political order would be to turn inwards and 'convert' people into insular 'masses'.

@@ -1,9 +1,10 @@
 ---
+categories: [politics]
+
 layout: post
 title: Not to be taken for granted.
 date: '2016-08-08 16:54:42'
 ---
-
 Today I was reflecting deeply about the way we take things for granted. We cannot take this planet for granted (thanks DiCaprio!), we cannot people around us for granted, we cannot take our beloved ones for granted. Even the ones who have sacrificed a lot of things and have toiled for us - we cannot take them for granted.
 
 Just like everything else in my life, I found myself at the centre stage of this debate. I was torn apart between these two conflicting notions. The conflict was primarily about accepting favours from people I love. I have long realised that every offer comes with a tag attached. But due to some reasons, I was forced into believing that certain relations are out of this thumb rule - that relationships could be selfless.

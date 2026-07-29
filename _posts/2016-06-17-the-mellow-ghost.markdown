@@ -1,9 +1,10 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: The Mellow Ghost.
 date: '2016-06-17 15:40:03'
 ---
-
 I met Bhupinder at the Kumbhalgarh fort. He ate on a yellow banana leaf and had the most amazing voice I ever heard. When I asked about the voice, he told me that he inherited it from his great grandfather, who was a peripatetic folk musician and was the farthest traceable point in his family tree.
 
 Oh my, he had very sharp features! An amazing pair of twinkling blue eyes and a long long french beard. It was grey flour interspersed with silver lines. I can't help it but notice him caressing it whenever he uttered a beguiling charm. He let out a booming sigh every twenty seconds. It left me wondering if it was the sigh that kept him alive.

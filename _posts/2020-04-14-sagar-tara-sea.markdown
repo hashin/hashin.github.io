@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  സാഗർ എഴുതുന്നു. 
+categories: [malayalam]
 image: 'link'
 date: '2020-04-14 10:51:39'
 published: true

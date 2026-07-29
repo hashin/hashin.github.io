@@ -1,11 +1,12 @@
 ---
+categories: [politics]
+
 layout: post
 title:  The Disenfranchisement of Indian Farmer.
 image: 'http://www.drshakyacurrentaffairs.com/wp-content/uploads/2017/01/far-768x384.jpg'
 date: '2018-12-06 14:21:44'
 published: true
 ---
-
 Farmers constitute ~55% of Indian population. 75% Indians are directly or indirectly dependent on agricultural income. Put together, they constitute the largest population block in terms of socio-economic status. Common sense dictates that their electoral clout should be able to sway policies in their favour. This should almost be a corollary to our popular democracy. But this is not the case and our farmers are reduced to peripheral nobodies whose existence come to fore only when they march to our capitals in large numbers. 
 
 Why so?

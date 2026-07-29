@@ -1,11 +1,12 @@
 ---
+categories: [personal]
+
 layout: post
 title: 'Come, meet me.'
 image: link
 date: '2019-05-07 15:12:39'
 published: true
 ---
-
 What happens to milestones that are dead?
 
 They don’t die, they are at their oldest when they are erected. They go on getting younger with each passerby looking at it. One day, it is too young to be noticed. We erect another old milestone a bit away from it. From that day onwards, the gaze shifts to the new one. The first milestone, now the younger one, go on to live a life away from all the limelight. This is why we don’t see dead milestones. I didn’t know of this till I was full twenty five years old and spent some time lying with my head on her lap. 

@@ -1,4 +1,6 @@
 ---
+categories: [tech]
+
 layout: post
 title:  Brain is not a computer!
 image: 'https://img.huffingtonpost.com/asset/576d9e561a00002700ceb009.jpeg'

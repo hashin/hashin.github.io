@@ -1,4 +1,6 @@
 ---
+categories: [politics]
+
 layout: post
 title: My Different Nation.
 image: http://www.techicy.com/wp-content/uploads/2015/01/Indian-Flag-Wallpapers-HD-Images-Free-Download-2.jpg
@@ -7,7 +9,6 @@ tags:
 - blog
 - rants
 ---
-
 A sacred nation state is the last thing our founding fathers like Nehru or Ambedkar wanted India to become.
 
 When they wrote about the scientific temper enshrined in the constitution, they wanted this nation to be a dynamic, evolving, inclusive, debating nation full of energetic young men and women who would use logic to look at the world and defy all dogmas to come together and create a new nation.

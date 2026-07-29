@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Price of a Woman.
+categories: [philosophy]
 image: >-
   http://www.altertuemliches.at/files/imagecache/b558xh304/_meer_informatie_head_of_a_prostitute_vincent_van_gogh_1885_0.jpg
 date: '2018-09-04 11:15:39'
 published: true
 ---
-
 In our busy lives, we apparently miss a lot of details that could give us a better understanding of this world around us.
 
 Sometime ago, I overheard a teenager bargaining with a woman (who was a prostitute). Near Shadipur Metro Station, we could see them lined up and waiting for their patrons.

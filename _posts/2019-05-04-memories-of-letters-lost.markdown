@@ -1,4 +1,6 @@
 ---
+categories: [personal]
+
 layout: post
 title: Memories of letters lost.
 image: 'https://i.imgur.com/OJzw9Glg.jpg'

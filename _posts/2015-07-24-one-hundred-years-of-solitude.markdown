@@ -1,13 +1,13 @@
 ---
 layout: post
 title: One hundred years of Solitude.
+categories: [philosophy]
 date: '2015-07-24 19:52:08'
 tags:
 - writing
 - blog
 - reading
 ---
-
 Because I know what solitude is, tonight I am going to sleep with this book close to my heart.
 
 Gabriel García Márquez must have lived a life very close to earth. He must have had a dampened breath polluted by half digested moss he had to eat from his dilapidated ancestral house.

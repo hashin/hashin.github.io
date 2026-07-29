@@ -1,11 +1,12 @@
 ---
+categories: [politics]
+
 layout: post
 title: A way forward for India.
 image: 'https://imgc.artprintimages.com/img/print/gandhi-i-am-love_u-l-f8gkdd0.jpg'
 date: '2019-05-20 11:55:09'
 published: true
 ---
-
 Can potentially dangerous outcomes of democracy be cited as a reason to prove the inefficacy of Democracy?
 
 I will answer this from the perspective of a heavily westernised polity from the classical east - India.

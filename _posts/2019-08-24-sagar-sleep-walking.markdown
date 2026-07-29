@@ -1,11 +1,12 @@
 ---
+categories: [personal]
+
 layout: post
 title:  Sagar, Sleep Walking.
 image: 'https://storage.needpix.com/rsynced_images/abstract-heart.jpg'
 date: '2019-08-24 22:11:44'
 published: true
 ---
-
 Reluctant lovers are the most despicable thing about humanity. It doesn’t matter what they are reluctant about. Whether in indulging with each other or in exploring the more amorous facets of life that exist outside their realm, if they are reluctant, they bring about the worst versions of each other.
 
 This is not a monograph about whatever that can go wrong in love. This is more about everything that has gone wrong in love. Not in any love story in particular. Those of you who have placed your ears close to my chest shall know. Of all the love stories that have ever been written down, mine is nothing but yet another blip. But most importantly, and just like all the letters that I have written to Tara, my love stories are not about love.

@@ -10,8 +10,8 @@ layout: default
 {% if page.categories.size > 0 %}
   {% assign cat_label = page.categories[0] %}
 {% else %}
-  {% assign _six = 'politics,philosophy,malayalam,personal,books,tech' | split: ',' %}
-  {% for _s in _six %}
+  {% assign _cats = 'politics,policy,philosophy,malayalam,personal,books,tech' | split: ',' %}
+  {% for _s in _cats %}
     {% if cat_label == '' and combined contains _s %}{% assign cat_label = _s %}{% endif %}
   {% endfor %}
 {% endif %}

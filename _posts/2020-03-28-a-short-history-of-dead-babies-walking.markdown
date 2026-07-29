@@ -1,4 +1,6 @@
 ---
+categories: [philosophy]
+
 layout: post
 title:  A short history of dead babies walking.
 image: 'https://live.staticflickr.com/2838/33362733400_2e6bda523a_b.jpg'

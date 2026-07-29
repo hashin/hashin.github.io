@@ -1,11 +1,12 @@
 ---
+categories: [personal]
+
 layout: post
 title:  Love, confabulated (2).
 image: 'https://p0.pxfuel.com/preview/740/5/165/art-abstract-form-background.jpg'
 date: '2020-11-18 13:11:39'
 published: true
 ---
-
 [Sagar finding love, as written by Fathima]
 <br>
 <br>

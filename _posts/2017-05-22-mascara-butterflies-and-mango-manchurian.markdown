@@ -1,10 +1,11 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: Mascara, Butterflies and Mango Manchurian.
 image: http://1.bp.blogspot.com/-kaM3BNlP8Gw/U6vEg-0eoCI/AAAAAAAAF6U/JQkzr8EMWOM/s1600/Happy+time.jpg
 date: '2017-05-22 09:37:48'
 ---
-
 When my ancestors died, they were buried near the  paddy fields. Dare someone to hold a funeral procession, it would be more deaths. The eldest male will carry the dead, wrapped in a "*thazha paaya*" (Dried grass mat) to some grave a bit far away from home. When he comes back, he will have the *thazha paaya* folded under his arms.
 
 That simple it was, the death for the downtrodden.

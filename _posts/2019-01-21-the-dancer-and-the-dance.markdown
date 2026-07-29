@@ -1,4 +1,6 @@
 ---
+categories: [politics]
+
 layout: post
 title: The dancer and the dance.
 image: 'https://images.indianexpress.com/2019/01/dance-bars.jpg'

@@ -1,4 +1,6 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: Story of a song entangled in barbed wire fences.
 image: >-

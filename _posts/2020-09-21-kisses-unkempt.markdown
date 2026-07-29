@@ -1,4 +1,6 @@
 ---
+categories: [personal]
+
 layout: post
 title: Kisses unkempt.
 image: >-

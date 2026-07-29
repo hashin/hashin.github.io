@@ -1,4 +1,6 @@
 ---
+categories: [books]
+
 layout: post
 title: Books of 2019.
 image: 'http://www.rsa.ox.ac.uk/images/made/media/images/library_600_400.jpg'

@@ -1,4 +1,6 @@
 ---
+categories: [politics]
+
 layout: post
 title: Thoughts triggered by the death of Qandeel Baloch.
 image: http://mindfulartstudio.com/wp-content/uploads/2015/04/Imperfect-Fish.jpg
@@ -12,7 +14,6 @@ tags:
 - qandeel
 - qandeel-baloch
 ---
-
 The death of Quandeel Baloch comes as a terrible blow to our brothers and sisters in Pakistan who are standing up against an oppressive society that is founded in Islamic fundamentalism.
 
 She was a fighter - someone who stood up against an oppressive society and did whatever that was forbidden for her. She was scared for her life all the time, but still she stood up for everything that she believed in.

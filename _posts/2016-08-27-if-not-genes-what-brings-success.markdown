@@ -1,10 +1,11 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: If it's not the genes, what brings success?
 image: http://www.uncsa.edu/about/news/img/2015/12/teaching-excellence-awards-b.jpg
 date: '2016-08-27 07:31:15'
 ---
-
 We like to believe that genes bring success. It helps us greatly when we are trying to come in terms with the failures in our lives.
 
 Be it a god dude who does only freak things or a natural calamity that washes away the savings of a lifetime, we like to shift the blame from ourselves and deposit it at a place from where it seldom comes back haunting us.

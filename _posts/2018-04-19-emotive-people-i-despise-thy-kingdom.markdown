@@ -1,4 +1,6 @@
 ---
+categories: [politics]
+
 published: true
 layout: post
 title: 'Emotive people, I despise thy kingdom!'

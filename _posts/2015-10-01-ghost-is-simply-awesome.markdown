@@ -1,6 +1,7 @@
 ---
 layout: post
 title: When I met the ghost again!
+categories: [philosophy]
 image: ''
 date: '2015-10-01 08:23:40'
 tags:
@@ -8,7 +9,6 @@ tags:
 - ghost-tag
 - blog
 ---
-
 I recently updated to Ghost 0.6.4 on Openshift. I am currently on the honeymoon period and enjoying the product well. A big thanks to [Kiko Beats](https://github.com/Kikobeats) for providing an amazing theme on which I could build on.
 
 The version I was using was old and lacked almost all the good features that the new Ghost has to offer. Now, writing from the new Ghost dashboard, I can see Ghost evolving into a full-fledged blogging platform.

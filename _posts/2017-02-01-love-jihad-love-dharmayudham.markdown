@@ -1,10 +1,10 @@
 ---
 layout: post
 title: ലവ് ജിഹാദും ലവ് ധർമ്മയുദ്ധവും.
+categories: [malayalam]
 image: http://1.bp.blogspot.com/_pCG_c3Rq788/TTM5_GpmcWI/AAAAAAAAJyg/Jjr4DiBuPwo/s0/Men+unloading+corpses+from+truck+in+preparation+for+cremation+after+bloody+rioting+between+Hindus+and+Muslims+Calcutta+%2528Kolkata%2529+1946.jpg
 date: '2017-02-01 14:26:00'
 ---
-
 പ്രണയം അസ്തിത്വത്തിന്റെ അവിഭാജ്യഘടകമാണ്. ജാരനരകളിൽ വീണുപോകാതെ, പ്രാണനെ കാർന്നു തിന്നുന്ന വിഷാദത്തിന്റെ കരിനീല സലിലത്തിൽ ആണ്ടുപോകാതെ ജീവനെ പിടിച്ചു നിർത്തുന്ന പിടിവള്ളിയാണ് പ്രണയം.
 
 അതുകൊണ്ടാവാം വിദ്വേഷത്തിലും നമ്മൾ പ്രണയത്തെ കണ്ടെത്തുന്നത്.

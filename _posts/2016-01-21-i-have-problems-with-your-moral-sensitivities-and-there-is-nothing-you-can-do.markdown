@@ -1,4 +1,6 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: I have problems with your moral sensitivities and there is nothing that you
   can do about it.
@@ -9,7 +11,6 @@ tags:
 - life
 - humans
 ---
-
 Before I begin, let me state that I am not sad about the suicide of Mr. Rohit Vemula [[1](http://www.thehindu.com/opinion/op-ed/dalit-scholar-rohith-vemulas-suicide-letter-clarity-of-a-suicide-note/article8130703.ece)]. For reference, I didn't feel sad when the dead body of Aylan Kurdi was washed ashore at Turkish beaches on 2nd September 2015 [[2](http://www.independent.co.uk/news/world/europe/aylan-kurdi-s-story-how-a-small-syrian-child-came-to-be-washed-up-on-a-beach-in-turkey-10484588.html)].
 
 What sort of facinorous bastard am I not to feel for these people? Isn't this inhuman? Or could I be termed as a ill brought up individual with neo-Nazi tendencies? 

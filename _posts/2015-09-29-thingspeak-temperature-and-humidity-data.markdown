@@ -1,12 +1,12 @@
 ---
 layout: post
 title: ThingSpeak Temperature and Humidity Data.
+categories: [tech]
 date: '2015-09-29 08:13:12'
 tags:
 - development
 - esp8266
 ---
-
 <center>This data is directly sent from the ESP8266 module to the ThingSpeak Server. </center>
 
 <br>

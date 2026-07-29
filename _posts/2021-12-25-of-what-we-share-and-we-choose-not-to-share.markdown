@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Of what we share and we choose not to share.
+categories: [philosophy]
 image: 'https://i.ytimg.com/vi/5m5zxpj0HN4/maxresdefault.jpg'
 date: '2021-12-24 01:01:39'
 published: true

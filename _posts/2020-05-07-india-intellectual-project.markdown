@@ -1,4 +1,6 @@
 ---
+categories: [policy]
+
 layout: post
 title:  India is an intellectual project too. It must be protected.
 image: 'https://cdn.pixabay.com/photo/2015/02/27/22/28/india-652857_1280.png'

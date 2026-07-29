@@ -1,11 +1,12 @@
 ---
+categories: [policy]
+
 layout: post
 title:  Democratic thinking vs Democracy in Praxis.
 image: 'https://www.cartooningforpeace.org/wp-content/uploads/2016/10/BONIL-Equateur-2-e1476278771718.jpg'
 date: '2023-04-24 10:51:39'
 published: true
 ---
-
 It is very important that we understand the differences between these two. The basis of modern democracy is as much philosophical and ideological as much as it is rooted in practice. The much hackneyed quote of Sir. Winston Churchill (oh, that old doyen of democracy who didn’t bat an eye murdering 43 million Bengalis by deprivation!) that it is the worst form of government - except for all the others that have been tried. The quote looks neat, and gives us a nice pat on the back for having chosen Democracy.
 
 But there is a problem here.

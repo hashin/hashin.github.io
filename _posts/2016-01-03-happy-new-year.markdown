@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Happy New Year!
+categories: [personal]
 date: '2016-01-03 04:45:16'
 tags:
 - rants
 ---
-
 Okay, let's think it this way.
 
 There is a universe inside each one of us. Complex thoughts and experiences. Unknown tastes and untasted spirits. Each human being has a mind which is a universe in itself.

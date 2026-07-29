@@ -1,4 +1,6 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: Feminism and Science.
 image: 'https://i.pinimg.com/originals/ac/3b/a8/ac3ba881972b8e6acc9f5806e4cc3f7f.jpg'

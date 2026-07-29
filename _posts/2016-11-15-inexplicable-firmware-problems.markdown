@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Inexplicable firmware problems.
+categories: [philosophy]
 date: '2016-11-15 06:33:16'
 ---
-
 ![](http://imgs.xkcd.com/comics/keyboard_problems.png)
 
 That's right! I will assemble a few XKCD's for the day!

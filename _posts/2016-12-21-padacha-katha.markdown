@@ -1,10 +1,10 @@
 ---
 layout: post
 title: പടച്ച കഥ.
+categories: [malayalam]
 image: http://www.michelangelo.org/images/artworks/the-creation-of-adam.jpg
 date: '2016-12-21 10:46:24'
 ---
-
 ആദ്യം കണ്ണുകളിലേക്ക് നോക്കി. പിന്നെ നെറ്റിയിലേക്ക്, പിന്നീട് വീണ്ടും കണ്ണുകളിലേക്ക്.
 
 എന്നിട്ടവൾ പറഞ്ഞു.

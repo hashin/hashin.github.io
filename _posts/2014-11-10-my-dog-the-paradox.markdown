@@ -1,12 +1,12 @@
 ---
 layout: post
 title: My Dog- The Paradox.
+categories: [philosophy]
 date: '2014-11-10 09:29:03'
 tags:
 - life
 - comics
 ---
-
 One of the must reads from [The Oatmeal.](http://theoatmeal.com/)
 
 ![](http://s3.amazonaws.com/theoatmeal-img/comics/dog_paradox/1.png)

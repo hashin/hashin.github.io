@@ -1,10 +1,10 @@
 ---
 layout: post
 title: If biology doesn't get you, economics will.
+categories: [philosophy]
 image: http://www.artworldsalon.com/blog/wp-content/uploads/2007/01-January/ZengHao.jpg
 date: '2017-02-03 11:51:18'
 ---
-
 I am known to re-post [xkcd](http://xkcd.com) cartoons.
 
 Not because I am addicted to sharing stuff, but because most of the time, they never fail to make a point.

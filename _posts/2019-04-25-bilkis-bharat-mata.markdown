@@ -1,4 +1,6 @@
 ---
+categories: [politics]
+
 layout: post
 title: 'Bilkis, Bharat Mata.'
 image: >-

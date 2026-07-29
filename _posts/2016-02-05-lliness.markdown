@@ -1,4 +1,6 @@
 ---
+categories: [personal]
+
 layout: post
 title: LLiness.
 image: http://img06.deviantart.net/6972/i/2013/198/5/1/colorful_leopard_viii_by_megaossa-d5v62kb.jpg
@@ -7,7 +9,6 @@ tags:
 - writing
 - rants
 ---
-
 A quick story before I go to bed.
 
 There is no objective truth. All the truths we have are functions of the frame of reference from where we are looking at them.
