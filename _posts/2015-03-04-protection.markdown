@@ -1,12 +1,12 @@
 ---
 layout: post
 title: We specialize in protection
+categories: [politics]
 date: '2015-03-04 12:57:53'
 tags:
 - life
 - rants
 ---
-
 This is how Ms. Leslee Udwin describes her interview with 34 year old Gaurav, who is serving his ten year term in Tihar Jail for raping a 5 year old girl.
 <br>
 > "He told me in minute detail what he had done. How he had taken off her knickers. How her eyes were wide with fear. How he had done it front and back. I asked him how tall she was. He stood up and put his hand above his knee. I asked him, 'How could you do something so terrible that would ruin a child's life?' He said, 'She was a beggar girl, her life was of no value.' " <br>

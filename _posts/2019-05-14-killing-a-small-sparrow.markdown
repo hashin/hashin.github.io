@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  Killing a small sparrow.
+categories: [philosophy]
 image: 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/384f0dca-8210-4b23-a348-3a50bd8df88f/d55wvrb-1d188a3a-fd39-428a-9354-4c8697bd09a3.jpg/v1/fill/w_1280,h_720,q_75,strp/the_dark_ages_by_jonasdero_d55wvrb-fullview.jpg'
 date: '2019-05-14 20:52:32'
 published: true
 ---
-
 Love is like a small sparrow that refuses to die. You can’t starve her. You cannot catch her; you cannot allure her; you cannot mislead her - she’s too smart for your clever tricks. She’s stupid enough at times, yes. And she is ever ready to give up her life (I will get to this later). But if she is hellbent on not-dying, you cannot kill her.
 
 Or so said the conventional wisdom. At this juncture in my life, the sparrow ought to be killed. Not just killed, but exterminated with no trace left. Someone’s telling me that the sparrow could be a phoenix is disguise. A feather left here or there, one tiny claw missed in disposal and she’ll spring back to life. I must kill this small sparrow for once and for all. And killed it must be, in the most brutal manner possible.

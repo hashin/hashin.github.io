@@ -1,9 +1,7 @@
 ---
-published: false
----
----
 layout: post
 title:  മഴ പറയുന്ന കാര്യങ്ങൾ.
+categories: [malayalam]
 image: 'link'
 date: '2018-04-07 18:54:49'
 published: false

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: When psychedelia plucks the chord.
+categories: [philosophy]
 date: '2014-11-21 12:35:27'
 tags:
 - writing
 - blog
 - rants
 ---
-
 I think that the main reason behind psychedelic music and art touching our hearts is our own inability to understand our minds.
 
 We spend endless hours trying to achieve something in life, but the time spent to know about ourselves is almost nil.

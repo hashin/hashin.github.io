@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I will suffer in Happiness!
+categories: [philosophy]
 date: '2014-12-03 19:11:51'
 tags:
 - english
@@ -9,7 +10,6 @@ tags:
 - fun
 - comics
 ---
-
 <center>
 Found this amazing comic at [Existential Comics.](http://existentialcomics.com/comic/42)
 

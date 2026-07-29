@@ -1,13 +1,13 @@
 ---
 layout: post
 title: The Tinder Ghost.
+categories: [philosophy]
 image: http://ak-hdl.buzzfed.com/static/2014-02/enhanced/webdr03/25/11/anigif_enhanced-3445-1393345385-1.gif
 date: '2015-10-15 21:13:38'
 tags:
 - writing
 - rants
 ---
-
 Tinder is cruel.<br>
 But so is life. Each one of us trying to paint it in the most beautiful of colors. To dab it with the most exquisite filters one can imagine.<br>
 To extricate our lives of the material indulgences and to trim it into more presentable 'cards'. <br>

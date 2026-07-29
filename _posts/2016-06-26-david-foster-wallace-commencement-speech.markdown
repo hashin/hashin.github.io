@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Kenyon Commencement speech by David Foster Wallace , 2005.
+categories: [politics]
 image: https://i.ytimg.com/vi/4UQDKEHSeWQ/maxresdefault.jpg
 date: '2016-06-26 11:27:31'
 ---
-
 David is talking about the banalities in our lives that all of us will have to deal with in the later part of our lives.
 
 Irrespective of the successes we have had in our personal lives and much after landing in our dreams jobs and winning our dream spouses, we all are thrown to that inconspicuous spot where we fail to 'stand up' for ourselves.

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Mysticism and heroin
+categories: [philosophy]
 date: '2015-05-17 11:37:11'
 tags:
 - writing
 - blog
 - rants
 ---
-
 [You can read this article even if you are not a Malayali. Just make sure that you listen to the song.]
 
 Listen to this song before reading the article.

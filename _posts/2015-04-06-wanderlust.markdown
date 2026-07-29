@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Wanderlust.
+categories: [personal]
 date: '2015-04-06 06:49:57'
 tags:
 - blog
 - english
 - rants
 ---
-
-
 ##Another (b)rave attempt to the uncharted waters of the Utter Poetry.
 
 <br>

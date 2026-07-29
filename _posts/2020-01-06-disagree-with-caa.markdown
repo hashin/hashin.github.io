@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Show your disagreement with CAA.
+categories: [policy]
 image: 'https://images.jagran.com/naidunia/ndnimg/03012020/03_01_2020-caa-protest_202013_22121.jpg'
 date: '2020-01-06 10:24:39'
 published: true

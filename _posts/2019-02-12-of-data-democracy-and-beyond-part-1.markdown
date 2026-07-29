@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Of Data Democracy and beyond - Part 1.
+categories: [philosophy]
 image: 'https://www.cartooningforpeace.org/wp-content/uploads/2016/10/BONIL-Equateur-2-e1476278771718.jpg'
 date: '2019-02-12 16:45:39'
 published: true

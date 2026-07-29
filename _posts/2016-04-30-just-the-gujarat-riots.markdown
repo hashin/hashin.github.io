@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "'Just' the Gujarat Riots."
+categories: [politics]
 image: http://thumbs.dreamstime.com/z/death-bloody-words-26646891.jpg
 date: '2016-04-30 13:23:03'
 tags:
@@ -8,7 +9,6 @@ tags:
 - society
 - india
 ---
-
 When disasters happen, we find solace behind the numbers. Numbers assuage the pain and help us to trivialise the suffering of others.
 
 while even the death of one loved person is unbearable to many of us, we rarely get into the trouble of trying to fathom the demise of one hundred loving people from our lives.
