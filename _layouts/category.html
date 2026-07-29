@@ -4,8 +4,24 @@ layout: default
 
 <h1 class="post-title">{{ page.title }}</h1>
 {% if page.category %}
-<p class="post-sub"><a href="{{ '/all/' | relative_url }}">&larr; All essays</a></p>
+<p class="post-sub"><a href="{{ '/' | relative_url }}">&larr; All essays</a></p>
 {% endif %}
+
+<div class="tagsline">
+  <a class="tag{% unless page.category %} active{% endunless %}" href="{{ '/all/' | relative_url }}">All</a>
+  {% assign _cats = 'politics,policy,philosophy,malayalam,personal,books,tech' | split: ',' %}
+  {% assign _labels = 'Politics,Policy,Philosophy,Malayalam,Personal,Books,Tech' | split: ',' %}
+  {% for _s in _cats %}
+    {% assign _n1 = site.tags[_s].size | default: 0 %}
+    {% assign _n2 = site.categories[_s].size | default: 0 %}
+    {% assign _n = _n1 | plus: _n2 %}
+    {% if _s == 'malayalam' %}
+      {% assign _n3 = site.tags['malayalam-1'].size | default: 0 %}
+      {% assign _n = _n | plus: _n3 %}
+    {% endif %}
+    {% if _n > 0 %}<span class="tsep">&middot;</span><a class="tag{% if page.category == _s %} active{% endif %}" href="{{ '/category/' | append: _s | append: '/' | relative_url }}">{{ _labels[forloop.index0] }}</a>{% endif %}
+  {% endfor %}
+</div>
 
 <main class="index-list">
   {% assign _year = '' %}

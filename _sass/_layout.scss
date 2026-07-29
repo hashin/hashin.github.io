@@ -71,16 +71,18 @@ html.dark .tagsline .tsep{ color: $rule-dark; }
 .tag{
   text-decoration: none; color: $muted; padding-bottom: 2px; border-bottom: 1px solid transparent;
   &:hover{ color: $ink; border-bottom: 1px solid $ink; }
+  &.active{ color: $ink; font-weight: 600; border-bottom: 1px solid $ink; }
 }
 html.dark .tag{ color: $muted-dark; }
 html.dark .tag:hover{ color: $ink-dark; border-bottom-color: $ink-dark; }
+html.dark .tag.active{ color: $ink-dark; border-bottom-color: $ink-dark; }
 
 //
 // Index (single column, year-grouped)
 //
 main.index-list{ padding: 2.2em 0 1em; }
 
-.idx-year{ font-style: italic; color: $muted; font-size: 1rem; margin: 2.2em 0 0.2em; }
+.idx-year{ font-style: italic; color: $muted; font-size: 1.05rem; margin: 2.2em 0 0.2em; }
 html.dark .idx-year{ color: $muted-dark; }
 .idx-year:first-child{ margin-top: 0.2em; }
 
@@ -89,12 +91,12 @@ html.dark .idx-row{ border-bottom-color: $rule-dark; }
 .idx-row.hidden{ display: none; }
 
 .idx-title{
-  font-size: 1.25rem; margin: 0 0 0.2em; font-weight: 500;
+  font-size: 1.35rem; margin: 0 0 0.2em; font-weight: 500;
   a{ text-decoration: none; &:hover{ text-decoration: underline; } }
 }
-.idx-meta{ font-size: 0.9rem; color: $muted; margin: 0 0 0.4em; }
+.idx-meta{ font-size: 0.95rem; color: $muted; margin: 0 0 0.4em; }
 html.dark .idx-meta{ color: $muted-dark; }
-.idx-excerpt{ margin: 0; font-size: 1.05rem; }
+.idx-excerpt{ margin: 0; font-size: 1.15rem; }
 
 .pager{
   display: flex; justify-content: space-between; align-items: center;
