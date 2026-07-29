@@ -26,7 +26,7 @@ html.dark hr{ background: $rule-dark; }
 //
 // Masthead
 //
-header.masthead{ padding: 4em 0 1.4em; }
+header.masthead{ padding: 4em 0 1.4em; position: relative; }
 .kicker{ font-style: italic; font-size: 1rem; color: $muted; margin-bottom: 0.6em; }
 html.dark .kicker{ color: $muted-dark; }
 
@@ -44,10 +44,19 @@ nav.primary{
 }
 
 .darkbtn{
-  background: none; border: 1px solid $rule; color: inherit; font-family: inherit; font-size: 0.85rem;
-  padding: 4px 12px; border-radius: 2px; cursor: pointer; margin-top: 1.2em;
+  position: absolute; top: 4em; right: 0;
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 34px; height: 34px; padding: 0;
+  background: none; border: 1px solid $rule; border-radius: 50%; color: $muted; cursor: pointer;
+  transition: color 0.15s, border-color 0.15s;
+  &:hover{ color: $ink; border-color: $ink; }
+  svg{ width: 17px; height: 17px; }
+  .icon-moon{ display: none; }
 }
-html.dark .darkbtn{ border-color: $rule-dark; }
+html.dark .darkbtn{ border-color: $rule-dark; color: $muted-dark; }
+html.dark .darkbtn:hover{ color: $ink-dark; border-color: $ink-dark; }
+html.dark .darkbtn .icon-sun{ display: none; }
+html.dark .darkbtn .icon-moon{ display: inline-block; }
 
 //
 // Search + tag filter
