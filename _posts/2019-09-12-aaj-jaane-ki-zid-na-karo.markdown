@@ -1,4 +1,6 @@
 ---
+categories: [personal]
+
 layout: post
 title: Aaj Jaane Ki Zid Na Karo.
 image: >-
@@ -6,7 +8,6 @@ image: >-
 date: '2019-09-12 23:43:39'
 published: true
 ---
-
 Tonight is particularly melancholic. Here I am, listening to Farida Khanum slowly making her way through this beautiful Nazm. There is a certain ring to her canorous voice, that keeps me tethered to this pensive mood that has enveloped me. It is drizzling outside, with occasional pauses that brings a soothing night breeze into my room. I look at the huge decal of a phonograph that I have stuck to my bedroom wall. For the first time in a long while, I felt a bit suffocated. I still love this room, for it has seen me like nobody else. It knows more about me than anybody else. If this room was a person, I would have preferred it dead. So I am happy in a sense, living inside this dead room.
 
 As I led my eyes through the contours of this room, they get stuck at a coil of hair that lies on the floor. It was Tara’s! There is no escaping from her memories, I curse. Tara has made a decision to leave me for the better. I wouldn’t complain though. She is knowledgeable enough to make the right choice for her. The only person I am disappointed with is myself, who is still sitting across the door, blocking her way. At some point of time, I thought it would be easier for me to handle situations like these. Turns out, when she decided to leave, I was shattered. Shattered like a vase hitting a floor; car window panes on a speeding truck; a dead bat splattered on a windmill. I stood no chance. I just melted. 

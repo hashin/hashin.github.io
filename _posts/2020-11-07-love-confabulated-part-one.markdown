@@ -1,4 +1,6 @@
 ---
+categories: [personal]
+
 layout: post
 title:  Love, confabulated.
 image: 'https://image.shutterstock.com/image-vector/continuous-line-group-talking-students-260nw-1140980474.jpg'

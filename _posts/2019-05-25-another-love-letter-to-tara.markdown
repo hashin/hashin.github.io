@@ -1,4 +1,6 @@
 ---
+categories: [personal]
+
 layout: post
 title: Another love letter to Tara.
 image: >-
@@ -6,7 +8,6 @@ image: >-
 date: '2019-05-25 22:09:53'
 published: true
 ---
-  
 _25-05-2019,_  
 _Trivandrum._  
 

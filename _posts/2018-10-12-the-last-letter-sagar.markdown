@@ -1,11 +1,12 @@
 ---
+categories: [personal]
+
 layout: post
 title: The Last Letter - Letters from Sagar to Ananya.
 image: 'https://i.imgur.com/ebYRWtd.jpg'
 date: '2018-10-12 22:42:23'
 published: true
 ---
-
 My dearest Ananya,
 
 If I could make through this night, I will live forever. As the pain is growing inside me, I see how easy it is to get carried away. As every cell of my body have risen in revolt against my very existence, I am finding it harder and harder to breathe.

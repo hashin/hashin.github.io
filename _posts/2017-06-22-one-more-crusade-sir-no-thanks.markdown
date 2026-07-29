@@ -1,10 +1,10 @@
 ---
 layout: post
 title: One more Crusade Sir? No, Thanks!
+categories: [philosophy]
 image: http://www.pilotguides.com/wordpress/wp-content/uploads/2015/05/Crusade.jpg
 date: '2017-06-22 10:39:54'
 ---
-
 I recently came across this collection of songs. No doubt, a fine one at it, but the twist is that you should read the comments!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QzT46g-my0U" frameborder="0" allowfullscreen></iframe>

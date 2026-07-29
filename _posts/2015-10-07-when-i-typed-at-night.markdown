@@ -1,6 +1,7 @@
 ---
 layout: post
 title: When I typed at night.
+categories: [philosophy]
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1135px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg'
 date: '2015-10-07 19:13:01'
 tags:
@@ -8,7 +9,6 @@ tags:
 - reading
 - rants
 ---
-
 ==This article is not suitable for the faintest of the hearts because it is not optimised for Homo Sapiens readability. Thank You.==
 
 Then I started writing when the night began to fall on me. 

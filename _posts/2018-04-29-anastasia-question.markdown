@@ -1,4 +1,6 @@
 ---
+categories: [personal]
+
 published: true
 layout: post
 title: Anastasia and her questions.

@@ -1,4 +1,6 @@
 ---
+categories: [philosophy]
+
 layout: post
 title:  Life after death.
 image: 'https://i.imgur.com/if3wmBb.png'

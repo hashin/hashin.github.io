@@ -1,4 +1,6 @@
 ---
+categories: [policy]
+
 layout: post
 title:  The era of global politics driving the local.
 image: 'https://cdn.theatlantic.com/thumbor/xMmH3A5LmbgJEffvXPfMYHRXKN4=/0x43:874x535/720x405/filters:format(png)/media/img/upload/wire/2013/11/27/Screen_Shot_2013_11_27_at_2.06.42_PM/original.png'

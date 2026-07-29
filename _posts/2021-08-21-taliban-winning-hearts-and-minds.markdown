@@ -1,4 +1,6 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: How the Taliban will seek to win the world's hearts and minds
 image: 'https://i.pinimg.com/originals/f7/e4/cd/f7e4cdc5c7e8da70b4a74f6296212d64.jpg'

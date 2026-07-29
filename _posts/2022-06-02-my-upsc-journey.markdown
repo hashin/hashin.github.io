@@ -1,11 +1,12 @@
 ---
+categories: [personal]
+
 layout: post
 title:  My Time with the UPSC.
 image: 'https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/05/12/12/painting.gif'
 date: '2022-06-02 00:01:39'
 published: true
 ---
-
 The results of the UPSC CSE 2021 are out. I have secured an AIR of 553. In this post, I would like to briefly state my experience with the examination and some pointers I have about the examination.
 
 ## Coaching

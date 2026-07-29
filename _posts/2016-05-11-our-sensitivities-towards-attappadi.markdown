@@ -1,4 +1,6 @@
 ---
+categories: [politics]
+
 layout: post
 title: 'It''s not about #PoMoneModi, It''s about our own Attappady.'
 image: http://www.thehindu.com/multimedia/dynamic/01475/ATTAPPADY_MOTHERS_1475660f.jpg
@@ -10,7 +12,6 @@ tags:
 - attappady
 - pomonemodi
 ---
-
 Keralites (Malayalis) have gone berserk over PM Narendra Modi's remarks comparing the infant mortality rates in Attappady and Somalia. 
 
 The statement could be interpreted as ignorant, opportunist or even racist and is of no doubt wrong and unbecoming of a prime minister, but is that it?

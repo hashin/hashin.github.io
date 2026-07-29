@@ -37,12 +37,10 @@ CSV.foreach(mapping_file) do |fname, category|
     # Replace the categories: line and any following block-list items (- foo)
     front = front.sub(/^categories:.*(\n^- .*)*/, new_line)
   else
-    # Insert right after title: line if present, else at the top of front matter
-    if front =~ /^title:.*$/
-      front = front.sub(/^(title:.*)$/) { "#{$1}\n#{new_line}" }
-    else
-      front = "#{new_line}\n#{front}"
-    end
+    # Always prepend at the top of front matter rather than inserting after
+    # title: — some titles are YAML folded scalars spanning multiple lines,
+    # and inserting mid-value there breaks the fold and produces invalid YAML.
+    front = "#{new_line}\n#{front}"
   end
 
   # Always exactly one leading newline after the opening `---`, regardless of
@@ -50,7 +48,13 @@ CSV.foreach(mapping_file) do |fname, category|
   # `---categories: [x]` line, which is invalid YAML.
   front = "\n#{front.sub(/\A\n+/, '')}"
 
-  unless YAML.safe_load(front, permitted_classes: [Date, Time])
+  begin
+    parsed_ok = !!YAML.safe_load(front, permitted_classes: [Date, Time])
+  rescue Psych::SyntaxError => e
+    parsed_ok = false
+    warn "  (parse error: #{e.message})"
+  end
+  unless parsed_ok
     warn "skip (front matter failed to parse after edit): #{fname}"
     next
   end

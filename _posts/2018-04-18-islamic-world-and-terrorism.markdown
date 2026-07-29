@@ -1,4 +1,6 @@
 ---
+categories: [philosophy]
+
 published: true
 layout: post
 title: Was the Muslim world more secular in the 1970s than now?

@@ -1,4 +1,6 @@
 ---
+categories: [politics]
+
 layout: post
 title: Some imminent trouble.
 image: >-
@@ -6,7 +8,6 @@ image: >-
 date: '2018-06-30 14:51:39'
 published: true
 ---
-
 Wisdom is nothing but agony if we are unable to apply it somewhere. Casual ethnocentrism aside, we have legitimate reasons to celebrate the success of Kerala. Our state has scored high in many social indicators. But it is yet safe to say that we have achieved development?
 
 I understand, the so called development is no substitute to enlightenment. But if social memory, manners and etiquette is a metric, where do we stand?

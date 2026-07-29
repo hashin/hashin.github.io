@@ -1,4 +1,6 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: And then we spoke in tongues that chose us.
 image: 'https://images.indianexpress.com/2017/08/divya-goyal-image-759.jpg'

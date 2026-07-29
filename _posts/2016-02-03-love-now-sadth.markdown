@@ -1,4 +1,6 @@
 ---
+categories: [personal]
+
 layout: post
 title: Love Now'Sadth.
 image: http://p1.pichost.me/i/69/1938506.jpg
@@ -8,7 +10,6 @@ tags:
 - rants
 - art
 ---
-
 I am a ghost house filled with empty words. Too many of them trying hard to escape the biological field that mashes them up in a futile attempt to make sense.
 
 The unattractive ghost house stands in the banks of a cemetery were Templars rest in peace forever. The cemetery went down years ago and there stands a G20 school committed to raising this species into well groomed hogwarts.

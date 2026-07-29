@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Ayesha, You shall return
+categories: [personal]
 date: '2015-02-27 21:13:58'
 tags:
 - writing
 - blog
 - story
 ---
-
 Hundreads of seconds have passed since I last called her. You know, we live in a galaxy where it is next to impossible for a 1 to talk with a 0. For starters, our 1's and 0's are concepts similar to your males and females.
 
 We are pretty much similar like you earthlings, we have a very complex nervous system, which we try modelling using a computer. Just like your approach to computing, ours are skrewed up too. But so far, that is the best we have got, so we ought to live with it.

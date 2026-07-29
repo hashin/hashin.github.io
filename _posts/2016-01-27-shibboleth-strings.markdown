@@ -1,4 +1,6 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: Shibboleth Strings.
 image: http://saimg-a.akamaihd.net/saatchi/402056/art/2191352/1270048-7.jpg
@@ -8,7 +10,6 @@ tags:
 - english
 - life
 ---
-
 The wrinkles in his skin were much more than his finger tips could sense. The body hair once so manly has mostly withered away. Tiny patches of shiny skin layered around the bends as a poorly knit fabric around a camel rider's shin guard. He was an old warrior.
 
 The damp house in the outskirts of the city was all dark but cozy. It was build with his savings of a lifetime and was meant to be the place where David would spend his last days with Helen. Years ago, when he was about to quit the  military service, he would picture it as a dole house complete with wine and romance.

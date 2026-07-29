@@ -1,9 +1,10 @@
 ---
+categories: [tech]
+
 layout: post
 title: 'Catching the thoughts : Neural Networks.'
 date: '2016-11-19 19:08:54'
 ---
-
 [Republishing after updating some content]
 
 > ==Research that throws light into the way neural networks work might change our understanding on how human thought process work. Here is how.==

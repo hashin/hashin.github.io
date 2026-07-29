@@ -1,12 +1,12 @@
 ---
 layout: post
 title: The night before the journey.
+categories: [philosophy]
 image: http://www.majali.se/wp-content/uploads/2012/09/nightjourney.jpg
 date: '2015-05-26 11:56:22'
 tags:
 - travel
 ---
-
 We all are going to die. That means that we are **alive** at this moment. To know its true meaning, we should meet people. People about whom we know nothing, and would never know anything until you travel to their homes.
 
 Hence I travel.

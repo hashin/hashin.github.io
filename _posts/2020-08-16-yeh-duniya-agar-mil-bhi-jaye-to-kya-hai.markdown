@@ -1,4 +1,6 @@
 ---
+categories: [personal]
+
 layout: post
 title: 'What is it, even if you win this universe?'
 image: >-
@@ -6,7 +8,6 @@ image: >-
 date: '2020-08-16 09:31:26'
 published: true
 ---
-
 This song, written by Sahir Ludhiyanvi and sung by Mohammed Rafi is an ode to a spirit that is alive since the dawn of civilization. It is the enduring conflict between a rebel poet who finds society unacceptable as the society shorns the poet with no mercy. Now, it is impossible to take a normative stand on this issue. Perhaps, the society is too bigoted to accept the radical poet. Or, the poet is too delusional to try imposing his lofty ideals on a society that is barely surviving.
 
 Whatever the case may be, It is worth listening to the lamentations of a broken poet. Someone who is broken not only by the insidious forces of society, but also by his love, his loss and the spirit of living that he lost somewhere down the line.

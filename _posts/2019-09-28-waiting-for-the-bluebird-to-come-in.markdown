@@ -1,12 +1,12 @@
 ---
+categories: [personal]
+
 layout: post
 title: Meeting bluebird.
 image: 'https://cdn.pixabay.com/photo/2017/08/06/05/40/blue-2589164_1280.jpg'
 date: '2019-09-28 21:35:39'
 published: true
 ---
-
-
 9th May, 2019.
 
 I opened my eyes as the train slowly slid into the station. It was drizzling and the platform was only starting to get wet as I alighted. I would be meeting Tara in a few minutes. This is only our third meeting, but so much has happened in the first two that I was really anxious about this one. A pensive mood hung upon the station, but my mind was afloat in something that bordered euphoria and utter confusion. I placed myself on a steel chair at one end of the platform. I dialled her number and waited for the ring. As I did, her face flashed in my mind, with the same puzzlement in her eyes when we met the last on 6th May, just three days ago.

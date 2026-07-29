@@ -1,11 +1,12 @@
 ---
+categories: [philosophy]
+
 layout: post
 title:  Revolution is a product of old age.
 image: 'https://cdn.thecollector.com/wp-content/uploads/2021/09/david-tennis-court-oath.jpg'
 date: '2023-09-20 01:51:39'
 published: true
 ---
-
 Long ago, I was quoted an American report that claimed that the single most important data point that leads to revolutions is a bulge in the youthful population. We were talking in the backdrop of the Arab Spring and I was very young myself. At that point, I was preoccupied with thinking that I was _old_ and not young, even when I was barely twenty at the time. The idea of youth fuelling revolutions is a very interesting one. Perhaps, revolutionary zeal is unsustainable without a bundle of youthful human material that you can throw at the meat grinders set up by entrenched powers.
 
 Whether it be the police or military, internal rebellions can hardly crush their material might. But you can easily crush their spirit by sacrificing a substantial bit of human youth, who could be fomented like the tip of a whip, lashing out in all directions - frothing themselves out into a world of glaring injustices. Now, their anger may indeed be justified. But our focus should be on the actors who would find it easier to manipulate this anger and channel it into political action that matters. To take on the citadels of power, a straight fight is hardly desirable. You may want to pull the rug under their feet, and the element of surprise must come from the willingness to sacrifice the maximum number of young people.

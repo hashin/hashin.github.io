@@ -1,11 +1,12 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: Philosophy of the bomb.
 image: 'https://www.giantfreakinrobot.com/wp-content/uploads/2012/10/BeachBall.jpg'
 date: '2023-10-30 01:00:39'
 published: true
 ---
-
 One of the longest standing political projects of all times are the reflections on how to justify a carnage. Theorising to erase murder and call it by some other name; finding ways to hide dead bodies from the past - in a futile attempt to escape retribution. Sometimes, it is about delusions that are employed to escape conscience. 
 
 But things doesn’t work that way. Sooner or later, truth catches up and the stench of rotten flesh - not always the literal human meat - will surface and there would be no place to go. That is also when we realise that the demons that ate our loved ones were hatched by ourselves. By the time we realise, it is almost always too late to do anything.

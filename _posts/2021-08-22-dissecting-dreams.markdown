@@ -1,4 +1,6 @@
 ---
+categories: [personal]
+
 layout: post
 title:  Dissecting Dreams.
 image: 'https://i.pinimg.com/originals/ce/8b/3d/ce8b3dc971077e53338cb35b6e177c68.jpg'

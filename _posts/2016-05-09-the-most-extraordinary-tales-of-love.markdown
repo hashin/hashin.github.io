@@ -1,10 +1,11 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: The most extraordinary tales of love.
 image: http://pic.1fotonin.com//data/wallpapers/47/WDF_936477.jpg
 date: '2016-05-09 18:55:24'
 ---
-
 In the name of god, I am going to write the most extraordinary tales of love.
 
 The tales unheard and untold; passed across generations by means of absolutely no verbal or written communication.

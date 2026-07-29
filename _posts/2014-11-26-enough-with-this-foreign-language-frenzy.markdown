@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Enough with this foreign language frenzy!
+categories: [politics]
 date: '2014-11-26 07:25:45'
 tags:
 - blog
@@ -8,7 +9,6 @@ tags:
 - language
 - rants
 ---
-
 English was there around in India much before I was born. I was exposed to it around the same time I started learning Malayalam.
 
 I use English to communicate with my countrymen. I can relate with my people because I understand what's going inside their heads. 

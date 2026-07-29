@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Speech that can unite the whole of Humanity
+categories: [philosophy]
 date: '2015-02-28 11:10:10'
 tags:
   - writing

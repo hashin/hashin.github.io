@@ -1,4 +1,6 @@
 ---
+categories: [politics]
+
 layout: post
 title:  Looking beyond the Black hole.
 image: 'https://news.harvard.edu/wp-content/uploads/2019/04/eso1907a.jpg'

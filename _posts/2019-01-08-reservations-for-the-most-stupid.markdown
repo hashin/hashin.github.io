@@ -1,4 +1,6 @@
 ---
+categories: [policy]
+
 layout: post
 title: Reservations for the most stupid.
 image: >-

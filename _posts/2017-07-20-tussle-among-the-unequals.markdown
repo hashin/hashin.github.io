@@ -1,10 +1,11 @@
 ---
+categories: [politics]
+
 layout: post
 title: Tussle among the unequals.
 image: http://www.thehindu.com/news/cities/Delhi/article19298712.ece/alternates/FREE_660/b2
 date: '2017-07-20 18:40:26'
 ---
-
 Couple of days ago, I came across a news article describing how over three dozen shanties belonging to daily wage labourers were razed by authorities in Noida alleging that these stood on public land. 
 
 In Tamil, we call these public lands "Poromboke". Interestingly, Poromboke is a cuss word used to address someone who is thought to be 'uncivilised' by normal standards. 

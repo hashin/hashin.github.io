@@ -1,11 +1,12 @@
 ---
+categories: [politics]
+
 layout: post
 title:  An Obituary to Prof. Lilavati.
 image: 'https://cdn.pixabay.com/photo/2014/04/03/10/54/lady-311672_960_720.png'
 date: '2020-01-17 21:20:39'
 published: true
 ---
-
 My friend Lilavati, a professor at Hyderabad Central University, passed away last week after a protracted struggle with Alzeimer’s disease. Her life was remarkable and I believe that my words will hardly do any justice to that spectacle.
 
 She began her career as a journalist at Dainik Viswas, a hindi daily that concentrated on the plight of Kashmiri Pandits who were living in different cities across the country. The newspaper of course reported about other issues, but the central theme always revolved around the life and struggle of this persecuted minority. All her life, she was vocal about their struggle. Her focus was in the culture section, where she travelled extensively documenting the art and cultural advances made by the community. It was during these travels that she met Hari Prasad, who was to become her companion for life.

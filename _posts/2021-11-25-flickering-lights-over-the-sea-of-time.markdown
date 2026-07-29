@@ -1,4 +1,6 @@
 ---
+categories: [personal]
+
 layout: post
 title:  Flickering lights over the sea of time.
 image: 'https://images.mojarto.com/photos/174678/large/Chasing-the-Time09_33X33_RS.45000.jpg'

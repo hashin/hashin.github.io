@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Introduction to the Internet of Things
+categories: [tech]
 date: '2015-10-12 11:09:19'
 tags:
 - technology
 - events
 - bangalore
 ---
-
 I am giving a talk about the Internet of Things for the Barcamp Bangalore Monsoon 2015 session.
 
 Please mark your attendance at the link below.

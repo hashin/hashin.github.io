@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Triple Talaq
+categories: [politics]
 date: '2017-08-22 13:24:32'
 ---
-
 A few weeks ago, I told my mom that they are discussing about banning Triple Talaq(TT).
 
 She told me - that's great, now a man need not pronounce the words before abandoning his wife!

@@ -1,4 +1,6 @@
 ---
+categories: [personal]
+
 layout: post
 title: A Forty year old dream.
 image: 'https://cdn.shopify.com/s/files/1/2150/3391/products/Milada_3_2048x.jpg'

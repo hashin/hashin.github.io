@@ -1,4 +1,6 @@
 ---
+categories: [policy]
+
 layout: post
 title:  Death of a Cow Slaughterer.
 image: 'https://i0.wp.com/www.opindia.com/wp-content/uploads/2019/06/Mob-Lynching.jpg'

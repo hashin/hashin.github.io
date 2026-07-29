@@ -1,9 +1,10 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: Ram, Rahim and religions of the world.
 date: '2017-08-27 05:50:19'
 ---
-
 > As I am writing this, One lakh followers of Dera Sacha Sauda is holed up in the residence of Ram Rahim Singh. Since their violence against society has failed, the next logical step is violence against themselves - through mass suicide or other means of self harm. I can't see why the state is so callous in dealing this.
 
 I left religion long ago and I see no reason to go back to it again. But it doesn't mean that I am insensitive to the idea of religion and what it means to me and the world around me.

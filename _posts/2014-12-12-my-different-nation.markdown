@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My different nation.
+categories: [philosophy]
 date: '2014-12-12 17:49:44'
 tags:
   - writing
@@ -8,7 +9,6 @@ tags:
   - rants
 published: true
 ---
-
 Patriotism is just like a threadless kite. You set it free and you never know where it goes. Nationalism is woven around a very thin moral fabric, which no one knows how to handle.
 
 Unless and until you cannot connect your ideals with that of the greater Humanity, you should assume that your view of the world is skewed, and retrospect it until you could work it out.

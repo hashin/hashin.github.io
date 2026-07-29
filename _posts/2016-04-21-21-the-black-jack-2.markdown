@@ -1,4 +1,6 @@
 ---
+categories: [personal]
+
 layout: post
 title: 21, The black jack.
 image: http://www.wallpaperup.com/uploads/wallpapers/2012/01/31/817/fb8769dac4a93e4054aff6b5859a57be.jpg
@@ -8,7 +10,6 @@ tags:
 - english
 - life
 ---
-
 I turned 22 last month. Life as a 21 year old was something I will cherish forever. Out of the 12 months I had in the calendar, I spent two months travelling. 
 
 It wasn't an early wisdom to me that one could travel to time, places and people. I had to learn it the hard way and this is one lesson I will carry to my grave.

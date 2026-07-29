@@ -1,10 +1,11 @@
 ---
+categories: [tech]
+
 layout: post
 title: Shit software engineers do.
 image: http://img.wonderhowto.com/img/86/37/63568648324037/0/c-c-programming-for-hackers-part-2-history-c-and-coding-our-first-program.1280x600.jpg
 date: '2016-11-24 15:12:07'
 ---
-
 A lot of macOS is opensource, Apple periodically releases part of its killer OS so that the general public (or a subset of it who happen to understand code) can go through it.
 
 Now, a [guy](https://github.com/turbo) ran a grep (a program to search across a [text] file for specific things) to filter the comments in the macOS WinNT Kernel.

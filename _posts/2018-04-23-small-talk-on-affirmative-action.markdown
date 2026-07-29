@@ -1,4 +1,6 @@
 ---
+categories: [politics]
+
 published: true
 layout: post
 title: Small talk on affirmative action.

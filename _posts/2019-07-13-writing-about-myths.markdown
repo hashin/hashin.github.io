@@ -1,11 +1,12 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: Writing about myths.
 image: 'https://cdn4.picryl.com/photo/1931/01/01/human-sacrifice-before-tohil-1600.jpg'
 date: '2019-07-13 20:52:44'
 published: true
 ---
-
 I once wrote about myths - of what their purpose is. [Why do we have myths?](http://blog.hashin.me/2018/07/17/why-do-we-have-myths/)
 
 [And then, I spent a day pondering about death.](https://www.quora.com/What-is-death-in-the-eyes-of-an-atheist/answer/Hashin-Jithu) You can see the grand structures of comfort recurring. (Go checkout, you’ll get to see some nice pictures at least!)
