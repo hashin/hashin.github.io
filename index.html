@@ -4,8 +4,8 @@ layout: default
 
 <div class="findbar">
   <input class="search" type="text" placeholder="Search essays… try “gandhi”, “malayalam”, or a year" oninput="hjSearch(this.value)">
-  <div class="tagsline" id="tagsline">
-    <span class="tag active" data-tag="all" onclick="hjSetTag('all', this)">All</span>
+  <div class="tagsline">
+    <a class="tag" href="{{ '/' | relative_url }}">All</a>
     {% assign _cats = 'politics,policy,philosophy,malayalam,personal,books,tech' | split: ',' %}
     {% assign _labels = 'Politics,Policy,Philosophy,Malayalam,Personal,Books,Tech' | split: ',' %}
     {% for _s in _cats %}
@@ -16,14 +16,14 @@ layout: default
         {% assign _n3 = site.tags['malayalam-1'].size | default: 0 %}
         {% assign _n = _n | plus: _n3 %}
       {% endif %}
-      {% if _n > 0 %}<span class="tsep">&middot;</span><span class="tag" data-tag="{{ _s }}" onclick="hjSetTag('{{ _s }}', this)">{{ _labels[forloop.index0] }}</span>{% endif %}
+      {% if _n > 0 %}<span class="tsep">&middot;</span><a class="tag" href="{{ '/category/' | append: _s | append: '/' | relative_url }}">{{ _labels[forloop.index0] }}</a>{% endif %}
     {% endfor %}
   </div>
 </div>
 
-<main class="index-list">
+<main class="index-list" id="static-list">
   {% assign _year = '' %}
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     {% assign _py = post.date | date: '%Y' %}
     {% if _py != _year %}
       {% assign _year = _py %}
@@ -43,51 +43,64 @@ layout: default
       {% endfor %}
     {% endif %}
     {% assign read_min = post.content | number_of_words | divided_by: 200 | at_least: 1 %}
-    {% assign _excerpt_text = post.excerpt | strip_html | strip_newlines %}
-    {% capture _searchtext %}{{ post.title }} {{ _excerpt_text }} {{ combined }}{% endcapture %}
-    <div class="idx-row" data-tags="{{ combined }}" data-text="{{ _searchtext | downcase | escape }}">
+    <div class="idx-row">
       <h2 class="idx-title{% if combined contains 'malayalam' %} mal{% endif %}"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
       <p class="idx-meta">{{ post.date | date: '%-d %b %Y' }}{% if cat_label != '' %} &middot; {{ cat_label }}{% endif %} &middot; {{ read_min }} min</p>
       <p class="idx-excerpt{% if combined contains 'malayalam' %} mal{% endif %}">{{ post.excerpt | strip_html | truncate: 200 }}</p>
     </div>
   {% endfor %}
 
-  <p id="no-results" class="muted" style="display:none; padding:2em 0;">No essays match that search.</p>
+  {% if paginator.total_pages > 1 %}
+  <div class="pager">
+    {% if paginator.previous_page %}<a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer</a>{% endif %}
+    <span class="muted">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}<a href="{{ paginator.next_page_path | relative_url }}">Older &rarr;</a>{% endif %}
+  </div>
+  {% endif %}
 </main>
 
+<main class="index-list" id="search-results" style="display:none;"></main>
+
 <script>
-  let hjTag = 'all';
-  let hjQuery = '';
-  function hjApplyFilters(){
-    const rows = document.querySelectorAll('.idx-row');
-    let visible = 0;
-    const years = document.querySelectorAll('.idx-year');
-    rows.forEach(r=>{
-      const tags = (r.getAttribute('data-tags') || '').trim();
-      const text = r.getAttribute('data-text') || '';
-      const tagOk = hjTag === 'all' || tags.split(/\s+/).includes(hjTag);
-      const qOk = hjQuery === '' || text.includes(hjQuery.toLowerCase());
-      const show = tagOk && qOk;
-      r.classList.toggle('hidden', !show);
-      if(show) visible++;
-    });
-    // Hide year headings with no visible rows beneath them
-    years.forEach(y=>{
-      let el = y.nextElementSibling;
-      let hasVisible = false;
-      while(el && !el.classList.contains('idx-year')){
-        if(el.classList.contains('idx-row') && !el.classList.contains('hidden')) hasVisible = true;
-        el = el.nextElementSibling;
+  let hjSearchData = null;
+  function hjEnsureSearchData(cb){
+    if(hjSearchData){ cb(); return; }
+    fetch('{{ "/search.json" | relative_url }}').then(r=>r.json()).then(data=>{ hjSearchData = data; cb(); });
+  }
+  function hjRenderResults(q){
+    const el = document.getElementById('search-results');
+    const matches = hjSearchData.filter(p => p.searchtext.includes(q));
+    if(matches.length === 0){
+      el.innerHTML = '<p class="muted" style="padding:2em 0;">No essays match that search.</p>';
+      return;
+    }
+    let html = '';
+    let lastYear = '';
+    matches.forEach(p=>{
+      if(p.year !== lastYear){
+        lastYear = p.year;
+        html += `<div class="idx-year">${p.year}</div>`;
       }
-      y.style.display = hasVisible ? '' : 'none';
+      const malCls = p.mal ? ' mal' : '';
+      html += `<div class="idx-row">`
+        + `<h2 class="idx-title${malCls}"><a href="${p.url}">${p.title}</a></h2>`
+        + `<p class="idx-meta">${p.date}${p.cat ? ' &middot; ' + p.cat : ''} &middot; ${p.read_min} min</p>`
+        + `<p class="idx-excerpt${malCls}">${p.excerpt}</p>`
+        + `</div>`;
     });
-    document.getElementById('no-results').style.display = visible === 0 ? 'block' : 'none';
+    el.innerHTML = html;
   }
-  function hjSetTag(tag, el){
-    hjTag = tag;
-    document.querySelectorAll('.tag').forEach(t=>t.classList.remove('active'));
-    el.classList.add('active');
-    hjApplyFilters();
+  function hjSearch(v){
+    const q = v.trim().toLowerCase();
+    const staticList = document.getElementById('static-list');
+    const results = document.getElementById('search-results');
+    if(q === ''){
+      staticList.style.display = '';
+      results.style.display = 'none';
+      return;
+    }
+    staticList.style.display = 'none';
+    results.style.display = '';
+    hjEnsureSearchData(()=>hjRenderResults(q));
   }
-  function hjSearch(v){ hjQuery = v; hjApplyFilters(); }
 </script>

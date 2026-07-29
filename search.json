@@ -1,0 +1,30 @@
+---
+layout: null
+---
+[
+{% for post in site.posts %}
+  {% assign _tagstr = post.tags | join: ' ' | downcase %}
+  {% assign _catstr = post.categories | join: ' ' | downcase %}
+  {% assign combined = _tagstr | append: ' ' | append: _catstr | strip %}
+  {% if combined contains 'malayalam-1' %}{% assign combined = combined | append: ' malayalam' %}{% endif %}
+  {% assign cat_label = '' %}
+  {% if post.categories.size > 0 %}
+    {% capture cat_label %}{% for c in post.categories %}{{ c | capitalize }}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endcapture %}
+    {% assign cat_label = cat_label | strip %}
+  {% endif %}
+  {% assign read_min = post.content | number_of_words | divided_by: 200 | at_least: 1 %}
+  {% assign _excerpt_text = post.excerpt | strip_html | strip_newlines | truncate: 200 %}
+  {% capture _searchtext %}{{ post.title }} {{ _excerpt_text }} {{ combined }}{% endcapture %}
+  {
+    "title": {{ post.title | jsonify }},
+    "url": {{ post.url | relative_url | jsonify }},
+    "date": {{ post.date | date: '%-d %b %Y' | jsonify }},
+    "year": {{ post.date | date: '%Y' | jsonify }},
+    "cat": {{ cat_label | jsonify }},
+    "excerpt": {{ _excerpt_text | jsonify }},
+    "read_min": {{ read_min | jsonify }},
+    "mal": {{ combined contains 'malayalam' }},
+    "searchtext": {{ _searchtext | downcase | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
