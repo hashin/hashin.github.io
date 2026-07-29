@@ -26,6 +26,7 @@ layout: null
     "excerpt": {{ _excerpt_text | jsonify }},
     "read_min": {{ read_min | jsonify }},
     "mal": {{ _is_mal }},
+    "tags": {{ combined | jsonify }},
     "searchtext": {{ _searchtext | downcase | jsonify }}
   }{% unless forloop.last %},{% endunless %}
 {% endfor %}
