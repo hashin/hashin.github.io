@@ -3,12 +3,9 @@ layout: default
 ---
 
 <h1 class="post-title">{{ page.title }}</h1>
-{% if page.category %}
-<p class="post-sub"><a href="{{ '/' | relative_url }}">&larr; All essays</a></p>
-{% endif %}
 
 <div class="tagsline">
-  <a class="tag{% unless page.category %} active{% endunless %}" href="{{ '/all/' | relative_url }}">All</a>
+  <a class="tag{% unless page.category %} active{% endunless %}" href="{{ '/' | relative_url }}">All</a>
   {% assign _cats = 'politics,policy,philosophy,malayalam,personal,books,tech' | split: ',' %}
   {% assign _labels = 'Politics,Policy,Philosophy,Malayalam,Personal,Books,Tech' | split: ',' %}
   {% for _s in _cats %}
