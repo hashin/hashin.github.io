@@ -4,23 +4,30 @@ layout: default
 
 <h1 class="post-title">{{ page.title }}</h1>
 
-<div class="tagsline">
-  <a class="tag{% unless page.category %} active{% endunless %}" href="{{ '/' | relative_url }}">All</a>
-  {% assign _cats = 'politics,policy,philosophy,malayalam,personal,books,tech' | split: ',' %}
-  {% assign _labels = 'Politics,Policy,Philosophy,Malayalam,Personal,Books,Tech' | split: ',' %}
-  {% for _s in _cats %}
-    {% assign _n1 = site.tags[_s].size | default: 0 %}
-    {% assign _n2 = site.categories[_s].size | default: 0 %}
-    {% assign _n = _n1 | plus: _n2 %}
-    {% if _s == 'malayalam' %}
-      {% assign _n3 = site.tags['malayalam-1'].size | default: 0 %}
-      {% assign _n = _n | plus: _n3 %}
-    {% endif %}
-    {% if _n > 0 %}<span class="tsep">&middot;</span><a class="tag{% if page.category == _s %} active{% endif %}" href="{{ '/category/' | append: _s | append: '/' | relative_url }}">{{ _labels[forloop.index0] }}</a>{% endif %}
-  {% endfor %}
+<div class="findbar">
+  {% if page.category %}
+  <input class="search" type="text" placeholder="Search within {{ page.title }}…" oninput="hjSearch(this.value)">
+  {% else %}
+  <input class="search" type="text" placeholder="Search essays… try “gandhi”, “malayalam”, or a year" oninput="hjSearch(this.value)">
+  {% endif %}
+  <div class="tagsline">
+    <a class="tag{% unless page.category %} active{% endunless %}" href="{{ '/' | relative_url }}">All</a>
+    {% assign _cats = 'politics,policy,philosophy,malayalam,personal,books,tech' | split: ',' %}
+    {% assign _labels = 'Politics,Policy,Philosophy,Malayalam,Personal,Books,Tech' | split: ',' %}
+    {% for _s in _cats %}
+      {% assign _n1 = site.tags[_s].size | default: 0 %}
+      {% assign _n2 = site.categories[_s].size | default: 0 %}
+      {% assign _n = _n1 | plus: _n2 %}
+      {% if _s == 'malayalam' %}
+        {% assign _n3 = site.tags['malayalam-1'].size | default: 0 %}
+        {% assign _n = _n | plus: _n3 %}
+      {% endif %}
+      {% if _n > 0 %}<span class="tsep">&middot;</span><a class="tag{% if page.category == _s %} active{% endif %}" href="{{ '/category/' | append: _s | append: '/' | relative_url }}">{{ _labels[forloop.index0] }}</a>{% endif %}
+    {% endfor %}
+  </div>
 </div>
 
-<main class="index-list">
+<main class="index-list" id="static-list">
   {% assign _year = '' %}
   {% assign _cat_slug = page.category %}
   {% for post in site.posts %}
@@ -50,3 +57,52 @@ layout: default
     {% endif %}
   {% endfor %}
 </main>
+
+<main class="index-list" id="search-results" style="display:none;"></main>
+
+<script>
+  var hjTagFilter = {{ page.category | jsonify }};
+  let hjSearchData = null;
+  function hjEnsureSearchData(cb){
+    if(hjSearchData){ cb(); return; }
+    fetch('{{ "/search.json" | relative_url }}').then(r=>r.json()).then(data=>{ hjSearchData = data; cb(); });
+  }
+  function hjRenderResults(q){
+    const el = document.getElementById('search-results');
+    let pool = hjSearchData;
+    if(hjTagFilter){ pool = pool.filter(p => p.tags.split(' ').includes(hjTagFilter)); }
+    const matches = pool.filter(p => p.searchtext.includes(q));
+    if(matches.length === 0){
+      el.innerHTML = '<p class="muted" style="padding:2em 0;">No essays match that search.</p>';
+      return;
+    }
+    let html = '';
+    let lastYear = '';
+    matches.forEach(p=>{
+      if(p.year !== lastYear){
+        lastYear = p.year;
+        html += `<div class="idx-year">${p.year}</div>`;
+      }
+      const malCls = p.mal ? ' mal' : '';
+      html += `<div class="idx-row">`
+        + `<h2 class="idx-title${malCls}"><a href="${p.url}">${p.title}</a></h2>`
+        + `<p class="idx-meta">${p.date}${p.cat ? ' &middot; ' + p.cat : ''} &middot; ${p.read_min} min</p>`
+        + `<p class="idx-excerpt${malCls}">${p.excerpt}</p>`
+        + `</div>`;
+    });
+    el.innerHTML = html;
+  }
+  function hjSearch(v){
+    const q = v.trim().toLowerCase();
+    const staticList = document.getElementById('static-list');
+    const results = document.getElementById('search-results');
+    if(q === ''){
+      staticList.style.display = '';
+      results.style.display = 'none';
+      return;
+    }
+    staticList.style.display = 'none';
+    results.style.display = '';
+    hjEnsureSearchData(()=>hjRenderResults(q));
+  }
+</script>
