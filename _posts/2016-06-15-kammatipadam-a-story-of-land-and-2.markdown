@@ -1,5 +1,6 @@
 ---
-categories: [philosophy]
+categories: [politics, philosophy]
+
 
 layout: post
 title: Kammatti paadam - A tribute to lost souls and the songs they sung.

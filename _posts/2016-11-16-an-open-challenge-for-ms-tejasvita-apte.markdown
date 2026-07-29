@@ -1,9 +1,10 @@
 ---
+categories: [tech]
+
 layout: post
 title: An Open challenge for Ms. Tejasvita Apte.
 date: '2016-11-16 11:38:34'
 ---
-
 <span class="quora-content-embed" data-name="Is-caste-system-mentioned-in-Hindu-sastras-and-Bhagwad-Gita/answer/Tejasvita-Apte">This is <a class="quora-content-link" data-width="559" load-full-answer="False" data-key="85d62c89da100484f29a052a29fd0b04" data-id="2477498" data-embed="2r8xvvK" href="https://www.quora.com/Is-caste-system-mentioned-in-Hindu-sastras-and-Bhagwad-Gita/answer/Tejasvita-Apte" data-type="answer" data-height="250"><a href="https://www.quora.com/Tejasvita-Apte">Tejasvita Apte</a>&#039;s <a href="/Is-caste-system-mentioned-in-Hindu-sastras-and-Bhagwad-Gita#ans2477498">answer</a> to <a href="/Is-caste-system-mentioned-in-Hindu-sastras-and-Bhagwad-Gita" ref="canonical"><span class="rendered_qtext">Is caste system mentioned in Hindu sastras and Bhagwad Gita?</span></a></a> on <a href="https://www.__nousername__.main.quora.com">Quora.</a><script type="text/javascript" src="https://www.quora.com/widgets/content"></script></span>
 
 Okay, I respect what Ms. Tejaswita wants to convey. That Caste system was a great system devised by visionaries in the past and was somehow messed up by the people who came after wards.

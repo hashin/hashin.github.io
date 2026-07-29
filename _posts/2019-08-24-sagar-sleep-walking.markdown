@@ -1,5 +1,6 @@
 ---
-categories: [personal]
+categories: [politics, policy, philosophy, personal]
+
 
 layout: post
 title:  Sagar, Sleep Walking.

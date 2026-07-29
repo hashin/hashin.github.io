@@ -1,7 +1,8 @@
 ---
+categories: [philosophy, personal]
+
 layout: post
 title: Happy New Year!
-categories: [personal]
 date: '2016-01-03 04:45:16'
 tags:
 - rants

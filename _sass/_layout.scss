@@ -69,11 +69,11 @@ html.dark input.search:focus{ border-bottom-color: $ink-dark; }
 html.dark .tagsline .tsep{ color: $rule-dark; }
 
 .tag{
-  text-decoration: none; color: $muted; cursor: pointer; padding-bottom: 2px; border-bottom: 1px solid transparent;
-  &.active{ color: $ink; font-weight: 600; border-bottom: 1px solid $ink; }
+  text-decoration: none; color: $muted; padding-bottom: 2px; border-bottom: 1px solid transparent;
+  &:hover{ color: $ink; border-bottom: 1px solid $ink; }
 }
 html.dark .tag{ color: $muted-dark; }
-html.dark .tag.active{ color: $ink-dark; border-bottom-color: $ink-dark; }
+html.dark .tag:hover{ color: $ink-dark; border-bottom-color: $ink-dark; }
 
 //
 // Index (single column, year-grouped)
@@ -95,6 +95,13 @@ html.dark .idx-row{ border-bottom-color: $rule-dark; }
 .idx-meta{ font-size: 0.9rem; color: $muted; margin: 0 0 0.4em; }
 html.dark .idx-meta{ color: $muted-dark; }
 .idx-excerpt{ margin: 0; font-size: 1.05rem; }
+
+.pager{
+  display: flex; justify-content: space-between; align-items: center;
+  margin-top: 2.2em; padding-top: 1.4em; border-top: 1px solid $rule; font-size: 0.95rem;
+  a{ text-decoration: none; &:hover{ text-decoration: underline; } }
+}
+html.dark .pager{ border-top-color: $rule-dark; }
 
 //
 // Article

@@ -1,7 +1,8 @@
 ---
+categories: [politics]
+
 layout: post
 title: One more Crusade Sir? No, Thanks!
-categories: [philosophy]
 image: http://www.pilotguides.com/wordpress/wp-content/uploads/2015/05/Crusade.jpg
 date: '2017-06-22 10:39:54'
 ---

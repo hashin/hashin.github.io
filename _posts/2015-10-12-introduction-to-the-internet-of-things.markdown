@@ -1,7 +1,8 @@
 ---
+categories: [tech]
+
 layout: post
 title: Introduction to the Internet of Things
-categories: [tech]
 date: '2015-10-12 11:09:19'
 tags:
 - technology

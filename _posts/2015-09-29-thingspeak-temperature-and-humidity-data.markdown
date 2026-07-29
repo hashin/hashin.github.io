@@ -1,7 +1,8 @@
 ---
+categories: [tech]
+
 layout: post
 title: ThingSpeak Temperature and Humidity Data.
-categories: [tech]
 date: '2015-09-29 08:13:12'
 tags:
 - development

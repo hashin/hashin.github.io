@@ -1,7 +1,8 @@
 ---
+categories: [malayalam]
+
 layout: post
 title: പുൽച്ചുരുളിലെ വിശുദ്ധപാഠങ്ങൾ.
-categories: [malayalam]
 image: >-
   https://jasminlangsch.com/wp-content/uploads/2017/07/Acrylic-Painting-Deep-Blue-Sea-Jasmins-Art-Studio-610x770.jpg
 date: '2018-11-14 22:06:39'

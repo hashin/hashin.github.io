@@ -1,5 +1,6 @@
 ---
-categories: [policy]
+categories: [politics, policy]
+
 
 layout: post
 title:  The era of global politics driving the local.

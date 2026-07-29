@@ -1,7 +1,8 @@
 ---
+categories: [personal]
+
 layout: post
 title: ദൈവത്തിന്റെ ആയിരം മുഖങ്ങൾ.
-categories: [malayalam]
 image: >-
   http://teachmiddleeast.lib.uchicago.edu/foundations/middle-east-exporter-of-religion/images/religion-06-page.jpg
 date: '2022-07-19 01:51:39'

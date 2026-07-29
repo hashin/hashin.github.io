@@ -76,14 +76,33 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate-v2 # Paginate the homepage instead of rendering all posts on one page
+
+# Caps the homepage at 10 posts/page (see index.html). Category archive
+# pages (category/*.html) are hand-rolled with plain Liquid rather than a
+# plugin like jekyll-archives, since there are only 7 fixed categories.
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: '/page/:num/'
+  title: ':title - page :num'
+  sort_field: 'date'
+  sort_reverse: true
 
 # Exclude these files from your production _site
+#
+# NOTE: CNAME is deliberately NOT excluded. The native GitHub Pages build
+# auto-injects CNAME into the deployed site regardless of this list, but the
+# GitHub Actions deploy-pages workflow (see .github/workflows/pages.yml) does
+# not — it publishes exactly what's in _site, so CNAME must be built into it
+# or the custom domain (blog.hashin.me) stops resolving.
 exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
-  - CNAME
+  - _scripts
+  - _redesign-handoff

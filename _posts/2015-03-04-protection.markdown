@@ -1,7 +1,8 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: We specialize in protection
-categories: [politics]
 date: '2015-03-04 12:57:53'
 tags:
 - life

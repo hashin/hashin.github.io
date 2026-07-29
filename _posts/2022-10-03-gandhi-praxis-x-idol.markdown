@@ -1,5 +1,6 @@
 ---
-categories: [politics]
+categories: [philosophy]
+
 
 layout: post
 title: Gandhi and his faults - choosing the praxis X idol.

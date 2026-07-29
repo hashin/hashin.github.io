@@ -1,5 +1,6 @@
 ---
-categories: [philosophy]
+categories: [politics]
+
 
 layout: post
 title: Feminism and Science.

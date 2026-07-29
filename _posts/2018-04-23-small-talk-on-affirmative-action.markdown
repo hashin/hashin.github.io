@@ -1,5 +1,6 @@
 ---
-categories: [politics]
+categories: [policy, philosophy]
+
 
 published: true
 layout: post

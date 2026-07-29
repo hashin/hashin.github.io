@@ -1,5 +1,6 @@
 ---
-categories: [personal]
+categories: [philosophy, personal]
+
 
 published: true
 layout: post

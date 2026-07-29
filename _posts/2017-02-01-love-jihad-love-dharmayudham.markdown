@@ -1,7 +1,8 @@
 ---
+categories: [malayalam]
+
 layout: post
 title: ലവ് ജിഹാദും ലവ് ധർമ്മയുദ്ധവും.
-categories: [malayalam]
 image: http://1.bp.blogspot.com/_pCG_c3Rq788/TTM5_GpmcWI/AAAAAAAAJyg/Jjr4DiBuPwo/s0/Men+unloading+corpses+from+truck+in+preparation+for+cremation+after+bloody+rioting+between+Hindus+and+Muslims+Calcutta+%2528Kolkata%2529+1946.jpg
 date: '2017-02-01 14:26:00'
 ---

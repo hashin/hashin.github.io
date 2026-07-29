@@ -1,4 +1,6 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: Imma goin.
 image: https://journeyofloyaldissent.files.wordpress.com/2012/04/lonely-journey.jpg
@@ -6,7 +8,6 @@ date: '2015-12-09 16:34:15'
 tags:
 - rants
 ---
-
 Vans in a vile, yu shud rait for yuvarself to reed. I don't mind if peepil find it difikalt to anderstand. Ayam riting 4 maiself ant has novan to keyar for. 
 
 I hav writen a hellot of staf for athar peeple. I rait opinian peeses so dat peeple hav a gud time anderstanding the staf dey atharvais has tu put in a lotof efart to anderstand.

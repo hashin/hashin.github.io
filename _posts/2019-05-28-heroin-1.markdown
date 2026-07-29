@@ -1,7 +1,8 @@
 ---
+categories: [personal]
+
 layout: post
 title:  Heroin.
-categories: [philosophy]
 image: 'https://cdn.shopify.com/s/files/1/1898/0427/products/prussian_blue_1024x.jpg'
 date: '2019-05-28 14:16:59'
 published: true

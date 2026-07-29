@@ -1,7 +1,8 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: This is just porn; stay away from it.
-categories: [philosophy]
 image: 'https://aambar.files.wordpress.com/2018/01/padmaavat-2.jpg'
 date: '2018-03-29 10:51:39'
 published: true

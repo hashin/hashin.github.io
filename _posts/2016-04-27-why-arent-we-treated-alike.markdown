@@ -1,4 +1,6 @@
 ---
+categories: [politics, philosophy]
+
 layout: post
 title: Why aren't we treated alike?
 image: https://i.ytimg.com/vi/Tm-ndGHH7JI/maxresdefault.jpg
@@ -8,7 +10,6 @@ tags:
 - society
 - india
 ---
-
 I came across this during my early morning browsing section.
 
 [Whining about inequality.](https://www.facebook.com/subham.gupta.7921/posts/822336127910074?pnref=story)

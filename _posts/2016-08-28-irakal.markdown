@@ -1,7 +1,8 @@
 ---
+categories: [malayalam]
+
 layout: post
 title: ഇരകൾ.
-categories: [malayalam]
 image: https://i1.wp.com/www.cbc.ca/books/massey-violence-584.jpg
 date: '2016-08-28 07:27:37'
 ---

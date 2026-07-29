@@ -1,5 +1,6 @@
 ---
-categories: [policy]
+categories: [politics, philosophy]
+
 
 layout: post
 title:  Direct Democracy is Dictatorship.

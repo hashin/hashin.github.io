@@ -1,7 +1,8 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: "'Just' the Gujarat Riots."
-categories: [politics]
 image: http://thumbs.dreamstime.com/z/death-bloody-words-26646891.jpg
 date: '2016-04-30 13:23:03'
 tags:

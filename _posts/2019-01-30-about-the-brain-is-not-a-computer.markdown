@@ -1,5 +1,6 @@
 ---
-categories: [tech]
+categories: [philosophy]
+
 
 layout: post
 title:  Brain is not a computer!

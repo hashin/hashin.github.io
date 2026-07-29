@@ -1,7 +1,8 @@
 ---
+categories: [malayalam]
+
 layout: post
 title:  പ്രണയവും സമയവും.
-categories: [malayalam]
 image: 'https://cdn.pixabay.com/photo/2020/06/05/18/08/family-5264010_1280.jpg'
 date: '2020-12-01 21:01:39'
 published: true

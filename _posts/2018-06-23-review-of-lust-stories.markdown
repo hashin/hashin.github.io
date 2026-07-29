@@ -1,8 +1,9 @@
 ---
+categories: [philosophy, personal, books]
+
 published: true
 layout: post
 title: Review of Lust Stories.
-categories: [personal]
 image: 'http://static.dnaindia.com/sites/default/files/styles/full/public/2018/05/18/683850-lust-stories.jpg'
 date: '2018-06-23 11:56:45'
 ---

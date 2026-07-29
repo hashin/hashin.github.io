@@ -1,5 +1,6 @@
 ---
-categories: [philosophy]
+categories: [politics, philosophy]
+
 
 layout: post
 title: I have problems with your moral sensitivities and there is nothing that you

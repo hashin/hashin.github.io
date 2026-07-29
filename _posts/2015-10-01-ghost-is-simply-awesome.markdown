@@ -1,7 +1,8 @@
 ---
+categories: [politics]
+
 layout: post
 title: When I met the ghost again!
-categories: [philosophy]
 image: ''
 date: '2015-10-01 08:23:40'
 tags:

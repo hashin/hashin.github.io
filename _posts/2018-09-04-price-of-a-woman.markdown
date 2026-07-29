@@ -1,7 +1,8 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: Price of a Woman.
-categories: [philosophy]
 image: >-
   http://www.altertuemliches.at/files/imagecache/b558xh304/_meer_informatie_head_of_a_prostitute_vincent_van_gogh_1885_0.jpg
 date: '2018-09-04 11:15:39'

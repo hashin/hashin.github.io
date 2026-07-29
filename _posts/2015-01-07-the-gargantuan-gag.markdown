@@ -1,7 +1,8 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: The gargantuan gag.
-categories: [politics]
 image: http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/7/29/1406646680902/Gargantua-012.jpg
 date: '2015-01-07 11:19:07'
 tags:

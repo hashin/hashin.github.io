@@ -1,5 +1,6 @@
 ---
-categories: [politics]
+categories: [philosophy]
+
 
 layout: post
 title:  As a non American which party would you vote for if you lived in the US?

@@ -1,5 +1,6 @@
 ---
-categories: [philosophy]
+categories: [personal]
+
 
 layout: post
 title: If it's not the genes, what brings success?

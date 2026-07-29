@@ -1,5 +1,6 @@
 ---
-categories: [philosophy]
+categories: [politics]
+
 
 layout: post
 title: The idea of Gandhi.

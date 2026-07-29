@@ -1,5 +1,6 @@
 ---
-categories: [politics]
+categories: [politics, philosophy]
+
 
 layout: post
 title:  On Bangalore riots.

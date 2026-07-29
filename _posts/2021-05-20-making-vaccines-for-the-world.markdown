@@ -1,7 +1,8 @@
 ---
+categories: [politics, policy]
+
 layout: post
 title:  Making vaccines for the world.
-categories: [policy]
 image: 'https://images.theconversation.com/files/370126/original/file-20201118-19-c5f8an.jpg'
 date: '2021-05-20 11:46:39'
 published: true

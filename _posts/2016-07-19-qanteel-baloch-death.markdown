@@ -1,5 +1,6 @@
 ---
-categories: [politics]
+categories: [philosophy]
+
 
 layout: post
 title: Thoughts triggered by the death of Qandeel Baloch.

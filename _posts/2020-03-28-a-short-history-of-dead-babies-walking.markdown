@@ -1,5 +1,6 @@
 ---
-categories: [philosophy]
+categories: [politics]
+
 
 layout: post
 title:  A short history of dead babies walking.

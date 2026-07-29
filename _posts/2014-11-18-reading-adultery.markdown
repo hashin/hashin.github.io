@@ -1,4 +1,6 @@
 ---
+categories: [philosophy, books]
+
 layout: post
 title: Reading Adultery.
 date: '2014-11-18 14:15:10'
@@ -9,7 +11,6 @@ tags:
 - books
 - language
 ---
-
 I have searched spirituality in the hundreds of man hours spend much before I was born.
 
 They offer peace, but not speak of life.

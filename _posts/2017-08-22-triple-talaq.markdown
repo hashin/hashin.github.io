@@ -1,7 +1,8 @@
 ---
+categories: [policy, philosophy]
+
 layout: post
 title: Triple Talaq
-categories: [politics]
 date: '2017-08-22 13:24:32'
 ---
 A few weeks ago, I told my mom that they are discussing about banning Triple Talaq(TT).

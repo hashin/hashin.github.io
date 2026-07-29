@@ -1,7 +1,8 @@
 ---
+categories: [personal]
+
 layout: post
 title: The Joy of writing!
-categories: [philosophy]
 date: '2014-10-04 09:37:41'
 tags:
 - writing

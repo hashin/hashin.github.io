@@ -1,7 +1,8 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: Excerpts from the past - Bacon, 1624. [Series]
-categories: [philosophy]
 date: '2017-02-21 06:43:38'
 ---
 > There is not under heaven so chaste a nation as this. It is the virgin of the world. There are no stews, no dissolute houses, no courtesans, not anything of that kind. Nay they wonder, with detestation, at you in Europe who permit such things. And therefore there are found among you infinite men that marry not, but choose rather a libertine and impure single life that to be yoked in marriage; and many that do marry, marry late, and what is marriage to them but a bargain, wherein is sought alliance or portion or reputation, with some desire (almost indifferent) of issue and not the faithful nuptial union of man and wife that was first instituted.

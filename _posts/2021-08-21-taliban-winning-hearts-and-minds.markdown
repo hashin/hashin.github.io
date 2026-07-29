@@ -1,5 +1,6 @@
 ---
-categories: [philosophy]
+categories: [politics, policy]
+
 
 layout: post
 title: How the Taliban will seek to win the world's hearts and minds

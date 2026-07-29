@@ -1,6 +1,7 @@
 ---
 categories: [tech]
 
+
 layout: post
 title: Shit software engineers do.
 image: http://img.wonderhowto.com/img/86/37/63568648324037/0/c-c-programming-for-hackers-part-2-history-c-and-coding-our-first-program.1280x600.jpg

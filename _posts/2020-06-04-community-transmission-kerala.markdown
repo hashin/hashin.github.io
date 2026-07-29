@@ -1,7 +1,8 @@
 ---
+categories: [politics]
+
 layout: post
 title:  Community transmission in Kerala.
-categories: [policy]
 image: 'link'
 date: '2020-06-04 09:01:39'
 published: true

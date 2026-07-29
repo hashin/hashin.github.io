@@ -1,7 +1,8 @@
 ---
+categories: [policy, philosophy]
+
 layout: post
 title: Enough with this foreign language frenzy!
-categories: [politics]
 date: '2014-11-26 07:25:45'
 tags:
 - blog

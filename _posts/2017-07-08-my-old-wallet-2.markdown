@@ -1,7 +1,8 @@
 ---
+categories: [philosophy, personal]
+
 layout: post
 title: My old wallet.
-categories: [personal]
 date: '2017-07-08 21:22:15'
 ---
 I lost my wallet near a mob that was working on a man.

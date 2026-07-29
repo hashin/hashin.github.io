@@ -1,184 +1,184 @@
 file,date,title,existing_categories,existing_tags,already_classified,suggested_category,method,detail,final_category
 2014-10-03-welcome-to-my-blog.markdown,2014-10-03 14:30:02,Welcome to my Blog!,personal,"",true,"",no-match,no keyword hits — needs manual read,personal
-2014-10-04-the-joy-of-writing.markdown,2014-10-04 09:37:41,The Joy of writing!,philosophy,writing|ghost-tag|blog,true,"",weak-match,"too close to call (personal:1, tech:1) — needs manual read",philosophy
+2014-10-04-the-joy-of-writing.markdown,2014-10-04 09:37:41,The Joy of writing!,personal,writing|ghost-tag|blog,true,"",weak-match,"too close to call (personal:1, tech:1) — needs manual read",personal
 2014-10-15-some-of-my-favorite-xkcds.markdown,2014-10-15 14:32:57,Some of my favorite xkcd's.,philosophy,fun|comics|xkcd,true,"",weak-match,"too close to call (philosophy:1, personal:1) — needs manual read",philosophy
-2014-10-17-dukes-mixture.markdown,2014-10-17 15:40:22,The Duke's Mixture.,"",english|language|history|rants,false,books,keyword-heuristic,"books:4, personal:3, politics:1",books
-2014-10-19-going-back-to-the-womb.markdown,2014-10-19 19:23:08,Going back to the womb!,"",development|internet,false,tech,keyword-heuristic,"tech:5, books:1",tech
+2014-10-17-dukes-mixture.markdown,2014-10-17 15:40:22,The Duke's Mixture.,philosophy|personal,english|language|history|rants,true,books,keyword-heuristic,"books:4, personal:3, politics:1",philosophy|personal
+2014-10-19-going-back-to-the-womb.markdown,2014-10-19 19:23:08,Going back to the womb!,philosophy,development|internet,true,tech,keyword-heuristic,"tech:5, books:1",philosophy
 2014-11-10-my-dog-the-paradox.markdown,2014-11-10 09:29:03,My Dog- The Paradox.,philosophy,life|comics,true,"",no-match,no keyword hits — needs manual read,philosophy
-2014-11-18-reading-adultery.markdown,2014-11-18 14:15:10,Reading Adultery.,"",english|life|reading|books|language,true,"",weak-match,"too close to call (books:2, personal:1) — needs manual read",""
-2014-11-21-when-psychedelia-plucks-the-chord.markdown,2014-11-21 12:35:27,When psychedelia plucks the chord.,philosophy,writing|blog|rants,true,"",weak-match,"too close to call (philosophy:2, personal:1) — needs manual read",philosophy
-2014-11-26-enough-with-this-foreign-language-frenzy.markdown,2014-11-26 07:25:45,Enough with this foreign language frenzy!,politics,blog|english|language|rants,true,tech,keyword-heuristic,"tech:4, philosophy:1",politics
+2014-11-18-reading-adultery.markdown,2014-11-18 14:15:10,Reading Adultery.,philosophy|books,english|life|reading|books|language,true,"",weak-match,"too close to call (books:2, personal:1) — needs manual read",philosophy|books
+2014-11-21-when-psychedelia-plucks-the-chord.markdown,2014-11-21 12:35:27,When psychedelia plucks the chord.,personal,writing|blog|rants,true,"",weak-match,"too close to call (philosophy:2, personal:1) — needs manual read",personal
+2014-11-26-enough-with-this-foreign-language-frenzy.markdown,2014-11-26 07:25:45,Enough with this foreign language frenzy!,policy|philosophy,blog|english|language|rants,true,tech,keyword-heuristic,"tech:4, philosophy:1",policy|philosophy
 2014-12-03-i-will-suffer-in-happiness.markdown,2014-12-03 19:11:51,I will suffer in Happiness!,philosophy,english|life|language|fun|comics,true,"",weak-match,too close to call (philosophy:1) — needs manual read,philosophy
-2014-12-12-my-different-nation.markdown,2014-12-12 17:49:44,My different nation.,philosophy,writing|blog|rants,true,politics,keyword-heuristic,"politics:3, philosophy:1",philosophy
-2015-01-07-the-gargantuan-gag.markdown,2015-01-07 11:19:07,The gargantuan gag.,politics,writing|blog|rants,true,"",weak-match,too close to call (policy:1) — needs manual read,politics
-2015-01-27-interesting-times-are-coming.markdown,2015-01-27 16:45:11,Interesting times are coming!,"",blog|language|rants,false,politics,keyword-heuristic,"politics:6, policy:2, philosophy:1",politics
-2015-01-27-ragam-paraphernalia.markdown,2015-01-27 14:38:32,The Ragam Paraphernalia.,personal,"",true,"",weak-match,"too close to call (books:2, tech:1) — needs manual read",personal
-2015-02-27-ayesha-you-shall-return.markdown,2015-02-27 21:13:58,"Ayesha, You shall return",personal,writing|blog|story,true,tech,keyword-heuristic,"tech:11, personal:4, philosophy:3",personal
-2015-02-28-a-speech-that-can-unite-the-whole-of-humanity.markdown,2015-02-28 11:10:10,A Speech that can unite the whole of Humanity,philosophy,writing|blog|life|rants,true,philosophy,keyword-heuristic,"philosophy:4, books:3, tech:3",philosophy
-2015-03-03-what-is-the-best-way-to-use-quora-to-develop-a-personal-philosophy-and-live-well.markdown,2015-03-03 07:30:55,What is the best way to use Quora to develop a personal philosophy and live well?,"",quora,false,tech,keyword-heuristic,"tech:7, philosophy:4, books:1",tech
-2015-03-04-protection.markdown,2015-03-04 12:57:53,We specialize in protection,politics,life|rants,true,"",weak-match,"too close to call (personal:2, policy:1) — needs manual read",politics
-2015-03-16-the-touch-of-parvati-3.markdown,2015-03-16 19:39:51,The touch of Parvati,"",writing|blog|life|rants,false,personal,keyword-heuristic,personal:6,personal
-2015-03-25-srsstti.markdown,2015-03-25 11:09:35,സൃഷ്ടി,malayalam,"",true,malayalam,unicode-detected,964 Malayalam-range chars,malayalam
-2015-04-05-alngkaarikn-duviniyoogn.markdown,2015-04-05 18:51:36,"അലങ്കാരികം, ദുർവിനിയോഗം!","",writing|books|rants,true,malayalam,unicode-detected,1000 Malayalam-range chars,""
-2015-04-06-wanderlust.markdown,2015-04-06 06:49:57,Wanderlust.,personal,blog|english|rants,true,"",weak-match,too close to call (books:1) — needs manual read,personal
-2015-04-12-lets-not-kill-the-internet-that-made-us.markdown,2015-04-12 12:31:05,Let's not kill the Internet that made us.,policy,blog|technology|rants,true,tech,keyword-heuristic,"tech:6, politics:1, books:1",policy
-2015-05-17-mysticism-and-heroin.markdown,2015-05-17 11:37:11,Mysticism and heroin,philosophy,writing|blog|rants,true,"",weak-match,"too close to call (philosophy:5, books:5, politics:2) — needs manual read",philosophy
-2015-05-26-the-night-before-the-journey.markdown,2015-05-26 11:56:22,The night before the journey.,philosophy,travel,true,"",weak-match,"too close to call (personal:2, books:2, tech:2) — needs manual read",philosophy
-2015-07-06-high.markdown,2015-07-06 17:58:19,High,philosophy,writing|blog|english,true,"",weak-match,"too close to call (personal:2, philosophy:1) — needs manual read",philosophy
-2015-07-07-prnnyn.markdown,2015-07-07 18:05:39,പ്രണയം,malayalam,"",true,malayalam,unicode-detected,183 Malayalam-range chars,malayalam
-2015-07-24-one-hundred-years-of-solitude.markdown,2015-07-24 19:52:08,One hundred years of Solitude.,philosophy,writing|blog|reading,true,"",weak-match,"too close to call (personal:2, books:2) — needs manual read",philosophy
+2014-12-12-my-different-nation.markdown,2014-12-12 17:49:44,My different nation.,politics,writing|blog|rants,true,politics,keyword-heuristic,"politics:3, philosophy:1",politics
+2015-01-07-the-gargantuan-gag.markdown,2015-01-07 11:19:07,The gargantuan gag.,philosophy,writing|blog|rants,true,"",weak-match,too close to call (policy:1) — needs manual read,philosophy
+2015-01-27-interesting-times-are-coming.markdown,2015-01-27 16:45:11,Interesting times are coming!,politics|policy|philosophy,blog|language|rants,true,politics,keyword-heuristic,"politics:6, policy:2, philosophy:1",politics|policy|philosophy
+2015-01-27-ragam-paraphernalia.markdown,2015-01-27 14:38:32,The Ragam Paraphernalia.,tech,"",true,"",weak-match,"too close to call (books:2, tech:1) — needs manual read",tech
+2015-02-27-ayesha-you-shall-return.markdown,2015-02-27 21:13:58,"Ayesha, You shall return",philosophy,writing|blog|story,true,tech,keyword-heuristic,"tech:11, personal:4, philosophy:3",philosophy
+2015-02-28-a-speech-that-can-unite-the-whole-of-humanity.markdown,2015-02-28 11:10:10,A Speech that can unite the whole of Humanity,politics,writing|blog|life|rants,true,philosophy,keyword-heuristic,"philosophy:4, books:3, tech:3",politics
+2015-03-03-what-is-the-best-way-to-use-quora-to-develop-a-personal-philosophy-and-live-well.markdown,2015-03-03 07:30:55,What is the best way to use Quora to develop a personal philosophy and live well?,philosophy,quora,true,tech,keyword-heuristic,"tech:7, philosophy:4, books:1",philosophy
+2015-03-04-protection.markdown,2015-03-04 12:57:53,We specialize in protection,philosophy,life|rants,true,"",weak-match,"too close to call (personal:2, policy:1) — needs manual read",philosophy
+2015-03-16-the-touch-of-parvati-3.markdown,2015-03-16 19:39:51,The touch of Parvati,philosophy|personal,writing|blog|life|rants,true,personal,keyword-heuristic,personal:6,philosophy|personal
+2015-03-25-srsstti.markdown,2015-03-25 11:09:35,സൃഷ്ടി,philosophy|personal,"",true,malayalam,unicode-detected,964 Malayalam-range chars,philosophy|personal
+2015-04-05-alngkaarikn-duviniyoogn.markdown,2015-04-05 18:51:36,"അലങ്കാരികം, ദുർവിനിയോഗം!",philosophy|malayalam|personal,writing|books|rants,true,malayalam,unicode-detected,1000 Malayalam-range chars,philosophy|malayalam|personal
+2015-04-06-wanderlust.markdown,2015-04-06 06:49:57,Wanderlust.,philosophy,blog|english|rants,true,"",weak-match,too close to call (books:1) — needs manual read,philosophy
+2015-04-12-lets-not-kill-the-internet-that-made-us.markdown,2015-04-12 12:31:05,Let's not kill the Internet that made us.,politics|philosophy,blog|technology|rants,true,tech,keyword-heuristic,"tech:6, politics:1, books:1",politics|philosophy
+2015-05-17-mysticism-and-heroin.markdown,2015-05-17 11:37:11,Mysticism and heroin,personal,writing|blog|rants,true,"",weak-match,"too close to call (philosophy:5, books:5, politics:2) — needs manual read",personal
+2015-05-26-the-night-before-the-journey.markdown,2015-05-26 11:56:22,The night before the journey.,personal,travel,true,"",weak-match,"too close to call (personal:2, books:2, tech:2) — needs manual read",personal
+2015-07-06-high.markdown,2015-07-06 17:58:19,High,personal,writing|blog|english,true,"",weak-match,"too close to call (personal:2, philosophy:1) — needs manual read",personal
+2015-07-07-prnnyn.markdown,2015-07-07 18:05:39,പ്രണയം,philosophy,"",true,malayalam,unicode-detected,183 Malayalam-range chars,philosophy
+2015-07-24-one-hundred-years-of-solitude.markdown,2015-07-24 19:52:08,One hundred years of Solitude.,books,writing|blog|reading,true,"",weak-match,"too close to call (personal:2, books:2) — needs manual read",books
 2015-08-11-depth.markdown,2015-08-11 18:39:39,Ideas,philosophy,"",true,"",weak-match,too close to call (personal:1) — needs manual read,philosophy
 2015-08-31-how-to-evaluate-a-programmer.markdown,2015-08-31 12:31:31,How to evaluate a programmer?,tech,development|technology|engineering|software,true,tech,keyword-heuristic,"tech:3, books:1",tech
-2015-09-17-is-it-okay-to-love-someone-knowing-you-cant-be-with-them.markdown,2015-09-17 06:24:14,Is it okay to love someone knowing you can't be with them?,philosophy,writing|quora,true,tech,keyword-heuristic,"tech:7, personal:6, books:1",philosophy
-2015-09-29-pcc-mnussy.markdown,2015-09-29 18:03:44,പച്ച മനുഷ്യൻ,"",malayalam,true,malayalam,unicode-detected,1731 Malayalam-range chars,""
+2015-09-17-is-it-okay-to-love-someone-knowing-you-cant-be-with-them.markdown,2015-09-17 06:24:14,Is it okay to love someone knowing you can't be with them?,personal,writing|quora,true,tech,keyword-heuristic,"tech:7, personal:6, books:1",personal
+2015-09-29-pcc-mnussy.markdown,2015-09-29 18:03:44,പച്ച മനുഷ്യൻ,philosophy|malayalam,malayalam,true,malayalam,unicode-detected,1731 Malayalam-range chars,philosophy|malayalam
 2015-09-29-thingspeak-temperature-and-humidity-data.markdown,2015-09-29 08:13:12,ThingSpeak Temperature and Humidity Data.,tech,development|esp8266,true,tech,keyword-heuristic,tech:4,tech
-2015-10-01-ghost-is-simply-awesome.markdown,2015-10-01 08:23:40,When I met the ghost again!,philosophy,writing|ghost-tag|blog,true,"",no-match,no keyword hits — needs manual read,philosophy
-2015-10-07-when-i-typed-at-night.markdown,2015-10-07 19:13:01,When I typed at night.,philosophy,writing|reading|rants,true,philosophy,keyword-heuristic,"philosophy:7, books:4",philosophy
+2015-10-01-ghost-is-simply-awesome.markdown,2015-10-01 08:23:40,When I met the ghost again!,politics,writing|ghost-tag|blog,true,"",no-match,no keyword hits — needs manual read,politics
+2015-10-07-when-i-typed-at-night.markdown,2015-10-07 19:13:01,When I typed at night.,personal,writing|reading|rants,true,philosophy,keyword-heuristic,"philosophy:7, books:4",personal
 2015-10-12-introduction-to-the-internet-of-things.markdown,2015-10-12 11:09:19,Introduction to the Internet of Things,tech,technology|events|bangalore,true,tech,keyword-heuristic,"tech:7, policy:1",tech
-2015-10-15-the.markdown,2015-10-15 21:13:38,The Tinder Ghost.,philosophy,writing|rants,true,"",no-match,no keyword hits — needs manual read,philosophy
-2015-11-07-patriarchy.markdown,2015-11-07 11:18:09,Patriarchy.,politics,blog|english|rants,true,"",weak-match,too close to call (policy:1) — needs manual read,politics
-2015-11-13-lukkaa-cuppi.markdown,2015-11-13 16:35:13,ലുക്കാ ചുപ്പി.,"",malayalam-1,true,malayalam,unicode-detected,3748 Malayalam-range chars,""
-2015-12-09-imma-goin.markdown,2015-12-09 16:34:15,Imma goin.,"",rants,false,tech,keyword-heuristic,tech:5,tech
-2016-01-03-happy-new-year.markdown,2016-01-03 04:45:16,Happy New Year!,personal,rants,true,"",weak-match,"too close to call (philosophy:2, books:2) — needs manual read",personal
-2016-01-07-karutha-vavu.markdown,2016-01-07 15:54:50,കറുത്ത വാവ്.,"",malayalam,true,malayalam,unicode-detected,3678 Malayalam-range chars,""
-2016-01-21-i-have-problems-with-your-moral-sensitivities-and-there-is-nothing-you-can-do.markdown,2016-01-21 06:27:38,I have problems with your moral sensitivities and there is nothing that you can do about it.,philosophy,writing|life|humans,true,personal,keyword-heuristic,"personal:12, philosophy:7, books:7",philosophy
-2016-01-27-shibboleth-strings.markdown,2016-01-27 06:23:28,Shibboleth Strings.,philosophy,writing|english|life,true,personal,keyword-heuristic,"personal:14, books:4",philosophy
-2016-02-02-she-is-euthymia.markdown,2016-02-02 11:55:36,She is Euthymia.,personal,rants|art,true,personal,keyword-heuristic,"personal:4, tech:2, politics:1",personal
-2016-02-03-love-now-sadth.markdown,2016-02-03 16:30:54,Love Now'Sadth.,personal,life|rants|art,true,personal,keyword-heuristic,"personal:8, philosophy:3, books:1",personal
-2016-02-05-lliness.markdown,2016-02-05 21:54:50,LLiness.,personal,writing|rants,true,philosophy,keyword-heuristic,"philosophy:7, politics:1, books:1",personal
-2016-02-13-vaalante-dhinam.markdown,2016-02-13 07:36:53,"വാലന്റെ ദിനം, ധന്വന്തര മന്ത്രം - ആദിമ പകുതി.","",rants|malayalam,true,malayalam,unicode-detected,2888 Malayalam-range chars,""
-2016-02-20-my-different-nation-2.markdown,2016-02-20 06:34:22,My Different Nation.,politics,blog|rants,true,politics,keyword-heuristic,"politics:18, policy:3, personal:3",politics
-2016-03-16-inimical-love.markdown,2016-03-16 18:19:47,Inimical Love.,"",blog|english|philosophy,true,"",weak-match,"too close to call (philosophy:2, personal:2, books:1) — needs manual read",""
+2015-10-15-the.markdown,2015-10-15 21:13:38,The Tinder Ghost.,personal,writing|rants,true,"",no-match,no keyword hits — needs manual read,personal
+2015-11-07-patriarchy.markdown,2015-11-07 11:18:09,Patriarchy.,politics|philosophy,blog|english|rants,true,"",weak-match,too close to call (policy:1) — needs manual read,politics|philosophy
+2015-11-13-lukkaa-cuppi.markdown,2015-11-13 16:35:13,ലുക്കാ ചുപ്പി.,malayalam,malayalam-1,true,malayalam,unicode-detected,3748 Malayalam-range chars,malayalam
+2015-12-09-imma-goin.markdown,2015-12-09 16:34:15,Imma goin.,philosophy,rants,true,tech,keyword-heuristic,tech:5,philosophy
+2016-01-03-happy-new-year.markdown,2016-01-03 04:45:16,Happy New Year!,philosophy|personal,rants,true,"",weak-match,"too close to call (philosophy:2, books:2) — needs manual read",philosophy|personal
+2016-01-07-karutha-vavu.markdown,2016-01-07 15:54:50,കറുത്ത വാവ്.,philosophy|malayalam,malayalam,true,malayalam,unicode-detected,3678 Malayalam-range chars,philosophy|malayalam
+2016-01-21-i-have-problems-with-your-moral-sensitivities-and-there-is-nothing-you-can-do.markdown,2016-01-21 06:27:38,I have problems with your moral sensitivities and there is nothing that you can do about it.,politics|philosophy,writing|life|humans,true,personal,keyword-heuristic,"personal:12, philosophy:7, books:7",politics|philosophy
+2016-01-27-shibboleth-strings.markdown,2016-01-27 06:23:28,Shibboleth Strings.,personal,writing|english|life,true,personal,keyword-heuristic,"personal:14, books:4",personal
+2016-02-02-she-is-euthymia.markdown,2016-02-02 11:55:36,She is Euthymia.,philosophy|personal,rants|art,true,personal,keyword-heuristic,"personal:4, tech:2, politics:1",philosophy|personal
+2016-02-03-love-now-sadth.markdown,2016-02-03 16:30:54,Love Now'Sadth.,philosophy|personal,life|rants|art,true,personal,keyword-heuristic,"personal:8, philosophy:3, books:1",philosophy|personal
+2016-02-05-lliness.markdown,2016-02-05 21:54:50,LLiness.,philosophy|personal,writing|rants,true,philosophy,keyword-heuristic,"philosophy:7, politics:1, books:1",philosophy|personal
+2016-02-13-vaalante-dhinam.markdown,2016-02-13 07:36:53,"വാലന്റെ ദിനം, ധന്വന്തര മന്ത്രം - ആദിമ പകുതി.",philosophy|malayalam,rants|malayalam,true,malayalam,unicode-detected,2888 Malayalam-range chars,philosophy|malayalam
+2016-02-20-my-different-nation-2.markdown,2016-02-20 06:34:22,My Different Nation.,philosophy,blog|rants,true,politics,keyword-heuristic,"politics:18, policy:3, personal:3",philosophy
+2016-03-16-inimical-love.markdown,2016-03-16 18:19:47,Inimical Love.,philosophy|personal,blog|english|philosophy,true,"",weak-match,"too close to call (philosophy:2, personal:2, books:1) — needs manual read",philosophy|personal
 2016-03-19-how-do-you-cope-with-the-feeling-of-inferiority-when-youre-surrounded-by-brilliant-minds.markdown,2016-03-19 11:18:02,How do you cope with the feeling of inferiority when you're surrounded by brilliant minds?,philosophy,quora,true,tech,keyword-heuristic,"tech:7, books:1",philosophy
 2016-04-20-are-college-professors-allowed-to-call-students-on-their-cell-phones.markdown,2016-04-20 05:56:19,Are college professors allowed to call students on their cell phones?,philosophy,english|quora|learning,true,tech,keyword-heuristic,"tech:7, personal:6, books:1",philosophy
-2016-04-21-21-the-black-jack-2.markdown,2016-04-21 20:08:02,"21, The black jack.",personal,writing|english|life,true,personal,keyword-heuristic,"personal:4, books:3, philosophy:2",personal
-2016-04-27-why-arent-we-treated-alike.markdown,2016-04-27 06:15:27,Why aren't we treated alike?,"",philosophy|society|india,true,"",weak-match,"too close to call (politics:11, policy:11, personal:1) — needs manual read",""
-2016-04-30-just-the-gujarat-riots.markdown,2016-04-30 13:23:03,'Just' the Gujarat Riots.,politics,life|society|india,true,"",weak-match,"too close to call (politics:2, personal:2, philosophy:1) — needs manual read",politics
-2016-05-09-the-most-extraordinary-tales-of-love.markdown,2016-05-09 18:55:24,The most extraordinary tales of love.,philosophy,"",true,personal,keyword-heuristic,"personal:14, books:10, philosophy:4",philosophy
-2016-05-11-our-sensitivities-towards-attappadi.markdown,2016-05-11 10:42:09,"It's not about #PoMoneModi, It's about our own Attappady.",politics,india|modi|attapadi|attappady|pomonemodi,true,politics,keyword-heuristic,"politics:12, philosophy:2, tech:2",politics
+2016-04-21-21-the-black-jack-2.markdown,2016-04-21 20:08:02,"21, The black jack.",philosophy,writing|english|life,true,personal,keyword-heuristic,"personal:4, books:3, philosophy:2",philosophy
+2016-04-27-why-arent-we-treated-alike.markdown,2016-04-27 06:15:27,Why aren't we treated alike?,politics|philosophy,philosophy|society|india,true,"",weak-match,"too close to call (politics:11, policy:11, personal:1) — needs manual read",politics|philosophy
+2016-04-30-just-the-gujarat-riots.markdown,2016-04-30 13:23:03,'Just' the Gujarat Riots.,philosophy,life|society|india,true,"",weak-match,"too close to call (politics:2, personal:2, philosophy:1) — needs manual read",philosophy
+2016-05-09-the-most-extraordinary-tales-of-love.markdown,2016-05-09 18:55:24,The most extraordinary tales of love.,personal,"",true,personal,keyword-heuristic,"personal:14, books:10, philosophy:4",personal
+2016-05-11-our-sensitivities-towards-attappadi.markdown,2016-05-11 10:42:09,"It's not about #PoMoneModi, It's about our own Attappady.",philosophy,india|modi|attapadi|attappady|pomonemodi,true,politics,keyword-heuristic,"politics:12, philosophy:2, tech:2",philosophy
 2016-05-17-shaayirinte-thanupp.markdown,2016-05-17 14:18:29,ശായിറിന്റെ തണുപ്പ്. (1),malayalam,"",true,malayalam,unicode-detected,4508 Malayalam-range chars,malayalam
 2016-05-24-kammattipaadathe-sooryakanthipookkal.markdown,2016-05-24 14:07:49,കമ്മട്ടിപ്പാടത്തെ സൂര്യകാന്തി പൂക്കൾ.,malayalam,kammattipaadam|kammatti|paadam|kammattipaadam-2|rajiv|ravi,true,malayalam,unicode-detected,2970 Malayalam-range chars,malayalam
 2016-06-15-appolllun-prrnynyillee.markdown,2016-06-15 18:56:50,അപ്പൊഴും പറഞ്ഞില്ലേ?,malayalam,"",true,malayalam,unicode-detected,793 Malayalam-range chars,malayalam
-2016-06-15-kammatipadam-a-story-of-land-and-2.markdown,2016-06-15 19:29:34,Kammatti paadam - A tribute to lost souls and the songs they sung.,philosophy,"",true,personal,keyword-heuristic,"personal:6, books:3, politics:1",philosophy
-2016-06-17-the-mellow-ghost.markdown,2016-06-17 15:40:03,The Mellow Ghost.,philosophy,"",true,personal,keyword-heuristic,"personal:18, philosophy:4, politics:3",philosophy
-2016-06-17-videshi.markdown,2016-06-17 12:06:24,വിദേശി.,"",rants|malayalam-1,true,malayalam,unicode-detected,591 Malayalam-range chars,""
-2016-06-23-catching-the-thoughts-neural-networks.markdown,2016-06-23 18:49:09,Catching the thoughts : Neural Networks.,tech,"",true,tech,keyword-heuristic,"tech:81, philosophy:2, books:2",tech
-2016-06-26-david-foster-wallace-commencement-speech.markdown,2016-06-26 11:27:31,"Kenyon Commencement speech by David Foster Wallace , 2005.",politics,"",true,"",weak-match,"too close to call (philosophy:2, personal:2, books:1) — needs manual read",politics
-2016-07-11-marphiyude-niyamam.markdown,2016-07-11 14:19:20,മർഫിയുടെ നിയമം.,"",rants|malayalam|malayalam-1,true,malayalam,unicode-detected,191 Malayalam-range chars,""
-2016-07-19-qanteel-baloch-death.markdown,2016-07-19 07:49:30,Thoughts triggered by the death of Qandeel Baloch.,politics,india|baloch|pakistan|brotherhood|compassion|qandeel|qandeel-baloch,true,politics,keyword-heuristic,"politics:4, personal:1",politics
-2016-07-26-pizhachavante-neelachitram.markdown,2016-07-26 19:19:49,പിഴച്ചവന്റെ നീലച്ചിത്രം.,malayalam,"",true,malayalam,unicode-detected,2465 Malayalam-range chars,malayalam
-2016-08-04-pranayaarambham.markdown,2016-08-04 08:20:22,പ്രണയാരംഭം.,"",malayalam-1,true,malayalam,unicode-detected,2496 Malayalam-range chars,""
-2016-08-08-not-to-take-for-granted.markdown,2016-08-08 16:54:42,Not to be taken for granted.,politics,"",true,personal,keyword-heuristic,"personal:8, philosophy:1",politics
+2016-06-15-kammatipadam-a-story-of-land-and-2.markdown,2016-06-15 19:29:34,Kammatti paadam - A tribute to lost souls and the songs they sung.,politics|philosophy,"",true,personal,keyword-heuristic,"personal:6, books:3, politics:1",politics|philosophy
+2016-06-17-the-mellow-ghost.markdown,2016-06-17 15:40:03,The Mellow Ghost.,personal,"",true,personal,keyword-heuristic,"personal:18, philosophy:4, politics:3",personal
+2016-06-17-videshi.markdown,2016-06-17 12:06:24,വിദേശി.,malayalam,rants|malayalam-1,true,malayalam,unicode-detected,591 Malayalam-range chars,malayalam
+2016-06-23-catching-the-thoughts-neural-networks.markdown,2016-06-23 18:49:09,Catching the thoughts : Neural Networks.,philosophy,"",true,tech,keyword-heuristic,"tech:81, philosophy:2, books:2",philosophy
+2016-06-26-david-foster-wallace-commencement-speech.markdown,2016-06-26 11:27:31,"Kenyon Commencement speech by David Foster Wallace , 2005.",philosophy,"",true,"",weak-match,"too close to call (philosophy:2, personal:2, books:1) — needs manual read",philosophy
+2016-07-11-marphiyude-niyamam.markdown,2016-07-11 14:19:20,മർഫിയുടെ നിയമം.,philosophy|malayalam,rants|malayalam|malayalam-1,true,malayalam,unicode-detected,191 Malayalam-range chars,philosophy|malayalam
+2016-07-19-qanteel-baloch-death.markdown,2016-07-19 07:49:30,Thoughts triggered by the death of Qandeel Baloch.,philosophy,india|baloch|pakistan|brotherhood|compassion|qandeel|qandeel-baloch,true,politics,keyword-heuristic,"politics:4, personal:1",philosophy
+2016-07-26-pizhachavante-neelachitram.markdown,2016-07-26 19:19:49,പിഴച്ചവന്റെ നീലച്ചിത്രം.,philosophy,"",true,malayalam,unicode-detected,2465 Malayalam-range chars,philosophy
+2016-08-04-pranayaarambham.markdown,2016-08-04 08:20:22,പ്രണയാരംഭം.,philosophy|malayalam,malayalam-1,true,malayalam,unicode-detected,2496 Malayalam-range chars,philosophy|malayalam
+2016-08-08-not-to-take-for-granted.markdown,2016-08-08 16:54:42,Not to be taken for granted.,politics|philosophy,"",true,personal,keyword-heuristic,"personal:8, philosophy:1",politics|philosophy
 2016-08-09-hilarious-reviews-of-android-webview-on-google-play-store.markdown,2016-08-09 16:49:20,Hilarious reviews of Android Webview on Google Play Store.,tech,"",true,"",no-match,no keyword hits — needs manual read,tech
-2016-08-10-aanum-pennum.markdown,2016-08-10 15:54:23,ആണും പെണ്ണും.,malayalam,"",true,malayalam,unicode-detected,3685 Malayalam-range chars,malayalam
-2016-08-27-if-not-genes-what-brings-success.markdown,2016-08-27 07:31:15,"If it's not the genes, what brings success?",philosophy,"",true,tech,keyword-heuristic,"tech:3, philosophy:1",philosophy
+2016-08-10-aanum-pennum.markdown,2016-08-10 15:54:23,ആണും പെണ്ണും.,philosophy,"",true,malayalam,unicode-detected,3685 Malayalam-range chars,philosophy
+2016-08-27-if-not-genes-what-brings-success.markdown,2016-08-27 07:31:15,"If it's not the genes, what brings success?",personal,"",true,tech,keyword-heuristic,"tech:3, philosophy:1",personal
 2016-08-28-irakal.markdown,2016-08-28 07:27:37,ഇരകൾ.,malayalam,"",true,malayalam,unicode-detected,1886 Malayalam-range chars,malayalam
 2016-09-08-yakshi.markdown,2016-09-08 22:23:24,യക്ഷി.,malayalam,"",true,malayalam,unicode-detected,3903 Malayalam-range chars,malayalam
-2016-10-23-a-sea-of-lost-dreams.markdown,2016-10-23 14:13:55,A sea of lost dreams.,"","",false,personal,keyword-heuristic,"personal:3, philosophy:1, books:1",personal
-2016-11-15-inexplicable-firmware-problems.markdown,2016-11-15 06:33:16,Inexplicable firmware problems.,philosophy,"",true,"",no-match,no keyword hits — needs manual read,philosophy
-2016-11-16-an-open-challenge-for-ms-tejasvita-apte.markdown,2016-11-16 11:38:34,An Open challenge for Ms. Tejasvita Apte.,"","",false,politics,keyword-heuristic,"politics:17, tech:7, books:2",politics
-2016-11-19-catching-the-thoughts-neural-networks-2.markdown,2016-11-19 19:08:54,Catching the thoughts : Neural Networks.,tech,"",true,tech,keyword-heuristic,"tech:81, philosophy:2, books:2",tech
+2016-10-23-a-sea-of-lost-dreams.markdown,2016-10-23 14:13:55,A sea of lost dreams.,philosophy,"",true,personal,keyword-heuristic,"personal:3, philosophy:1, books:1",philosophy
+2016-11-15-inexplicable-firmware-problems.markdown,2016-11-15 06:33:16,Inexplicable firmware problems.,tech,"",true,"",no-match,no keyword hits — needs manual read,tech
+2016-11-16-an-open-challenge-for-ms-tejasvita-apte.markdown,2016-11-16 11:38:34,An Open challenge for Ms. Tejasvita Apte.,tech,"",true,politics,keyword-heuristic,"politics:17, tech:7, books:2",tech
+2016-11-19-catching-the-thoughts-neural-networks-2.markdown,2016-11-19 19:08:54,Catching the thoughts : Neural Networks.,philosophy,"",true,tech,keyword-heuristic,"tech:81, philosophy:2, books:2",philosophy
 2016-11-24-shit-software-engineers-do.markdown,2016-11-24 15:12:07,Shit software engineers do.,tech,"",true,philosophy,keyword-heuristic,"philosophy:5, tech:3, books:1",tech
 2016-12-21-padacha-katha.markdown,2016-12-21 10:46:24,പടച്ച കഥ.,malayalam,"",true,malayalam,unicode-detected,156 Malayalam-range chars,malayalam
 2017-02-01-love-jihad-love-dharmayudham.markdown,2017-02-01 14:26:00,ലവ് ജിഹാദും ലവ് ധർമ്മയുദ്ധവും.,malayalam,"",true,malayalam,unicode-detected,1219 Malayalam-range chars,malayalam
-2017-02-03-if-biology-doesnt-get-you-economics-will.markdown,2017-02-03 11:51:18,"If biology doesn't get you, economics will.",philosophy,"",true,"",no-match,no keyword hits — needs manual read,philosophy
+2017-02-03-if-biology-doesnt-get-you-economics-will.markdown,2017-02-03 11:51:18,"If biology doesn't get you, economics will.",politics|philosophy,"",true,"",no-match,no keyword hits — needs manual read,politics|philosophy
 2017-02-21-excerpts-from-the-past-series.markdown,2017-02-21 06:43:38,"Excerpts from the past - Bacon, 1624. [Series]",philosophy,"",true,"",weak-match,"too close to call (politics:1, philosophy:1, books:1) — needs manual read",philosophy
 2017-05-22-mascara-butterflies-and-mango-manchurian.markdown,2017-05-22 09:37:48,"Mascara, Butterflies and Mango Manchurian.",philosophy,"",true,personal,keyword-heuristic,"personal:7, books:6, philosophy:4",philosophy
-2017-06-22-one-more-crusade-sir-no-thanks.markdown,2017-06-22 10:39:54,"One more Crusade Sir? No, Thanks!",philosophy,"",true,"",weak-match,"too close to call (politics:3, books:3, policy:1) — needs manual read",philosophy
-2017-06-23-how-you-should-teach-values-to-your-kid.markdown,2017-06-23 16:11:43,How you should be teaching values to your kid.,"","",false,philosophy,keyword-heuristic,"philosophy:5, politics:2, personal:2",philosophy
-2017-07-04-amaram-nirmarjjanam-dharidhram.markdown,2017-07-04 19:51:23,"അമരം, നിർമാർജ്ജനം, ദരിദ്രം.",malayalam,"",true,malayalam,unicode-detected,9025 Malayalam-range chars,malayalam
-2017-07-08-my-old-wallet-2.markdown,2017-07-08 21:22:15,My old wallet.,personal,"",true,"",no-match,no keyword hits — needs manual read,personal
-2017-07-20-tussle-among-the-unequals.markdown,2017-07-20 18:40:26,Tussle among the unequals.,politics,"",true,policy,keyword-heuristic,"policy:10, philosophy:2, politics:1",politics
-2017-07-21-the-story-of-ishi.markdown,2017-07-21 07:37:35,The Story of Ishi.,philosophy,"",true,books,keyword-heuristic,"books:6, personal:4, philosophy:2",philosophy
-2017-08-22-triple-talaq.markdown,2017-08-22 13:24:32,Triple Talaq,politics,"",true,"",weak-match,"too close to call (politics:11, policy:11, philosophy:8) — needs manual read",politics
-2017-08-27-ram-rahim-and-religions-of-the-world.markdown,2017-08-27 05:50:19,"Ram, Rahim and religions of the world.",philosophy,"",true,politics,keyword-heuristic,"politics:5, philosophy:3, policy:2",philosophy
-2018-03-19-poomaram-review.markdown,2018-03-19 12:36:19,A movie that treats you the way you treat art!,"","",false,personal,keyword-heuristic,"personal:6, books:4, philosophy:3",personal
+2017-06-22-one-more-crusade-sir-no-thanks.markdown,2017-06-22 10:39:54,"One more Crusade Sir? No, Thanks!",politics,"",true,"",weak-match,"too close to call (politics:3, books:3, policy:1) — needs manual read",politics
+2017-06-23-how-you-should-teach-values-to-your-kid.markdown,2017-06-23 16:11:43,How you should be teaching values to your kid.,politics|policy|philosophy,"",true,philosophy,keyword-heuristic,"philosophy:5, politics:2, personal:2",politics|policy|philosophy
+2017-07-04-amaram-nirmarjjanam-dharidhram.markdown,2017-07-04 19:51:23,"അമരം, നിർമാർജ്ജനം, ദരിദ്രം.",philosophy,"",true,malayalam,unicode-detected,9025 Malayalam-range chars,philosophy
+2017-07-08-my-old-wallet-2.markdown,2017-07-08 21:22:15,My old wallet.,philosophy|personal,"",true,"",no-match,no keyword hits — needs manual read,philosophy|personal
+2017-07-20-tussle-among-the-unequals.markdown,2017-07-20 18:40:26,Tussle among the unequals.,philosophy,"",true,policy,keyword-heuristic,"policy:10, philosophy:2, politics:1",philosophy
+2017-07-21-the-story-of-ishi.markdown,2017-07-21 07:37:35,The Story of Ishi.,politics,"",true,books,keyword-heuristic,"books:6, personal:4, philosophy:2",politics
+2017-08-22-triple-talaq.markdown,2017-08-22 13:24:32,Triple Talaq,policy|philosophy,"",true,"",weak-match,"too close to call (politics:11, policy:11, philosophy:8) — needs manual read",policy|philosophy
+2017-08-27-ram-rahim-and-religions-of-the-world.markdown,2017-08-27 05:50:19,"Ram, Rahim and religions of the world.",politics|policy,"",true,politics,keyword-heuristic,"politics:5, philosophy:3, policy:2",politics|policy
+2018-03-19-poomaram-review.markdown,2018-03-19 12:36:19,A movie that treats you the way you treat art!,philosophy,"",true,personal,keyword-heuristic,"personal:6, books:4, philosophy:3",philosophy
 2018-03-29-padmaavat-review.markdown,2018-03-29 10:51:39,This is just porn; stay away from it.,philosophy,"",true,"",weak-match,"too close to call (politics:3, books:3, philosophy:1) — needs manual read",philosophy
-2018-04-01-identity-politics.markdown,2018-04-01 12:42:39,About Identity Politics.,politics,"",true,"",weak-match,too close to call (politics:2) — needs manual read,politics
+2018-04-01-identity-politics.markdown,2018-04-01 12:42:39,About Identity Politics.,policy|philosophy,"",true,"",weak-match,too close to call (politics:2) — needs manual read,policy|philosophy
 2018-04-07-mazha-parayunna-kaaryangal.markdown,2018-04-07 18:54:49,മഴ പറയുന്ന കാര്യങ്ങൾ.,malayalam,"",true,malayalam,unicode-detected,763 Malayalam-range chars,malayalam
-2018-04-14-caste-and-loathing.markdown,2018-04-14 10:51:39,Caste and loathing in Indo-Pakistan.,politics,"",true,politics,keyword-heuristic,"politics:20, policy:3, philosophy:1",politics
-2018-04-18-islamic-world-and-terrorism.markdown,2018-04-18 21:30:49,Was the Muslim world more secular in the 1970s than now?,philosophy,"",true,tech,keyword-heuristic,"tech:7, politics:6, books:2",philosophy
-2018-04-19-emotive-people-i-despise-thy-kingdom.markdown,2018-04-19 11:56:18,"Emotive people, I despise thy kingdom!",politics,"",true,politics,keyword-heuristic,"politics:12, personal:5, philosophy:1",politics
-2018-04-23-small-talk-on-affirmative-action.markdown,2018-04-23 10:47:26,Small talk on affirmative action.,politics,"",true,politics,keyword-heuristic,"politics:11, policy:4, philosophy:3",politics
-2018-04-29-anastasia-question.markdown,2018-04-29 11:56:45,Anastasia and her questions.,personal,"",true,personal,keyword-heuristic,"personal:5, books:3, philosophy:1",personal
-2018-06-23-review-of-lust-stories.markdown,2018-06-23 11:56:45,Review of Lust Stories.,personal,"",true,personal,keyword-heuristic,"personal:6, politics:4, philosophy:3",personal
-2018-06-30-some-imminent-trouble.markdown,2018-06-30 14:51:39,Some imminent trouble.,politics,"",true,politics,keyword-heuristic,"politics:7, philosophy:1, personal:1",politics
-2018-07-01-when-to-kill-democracy.markdown,2018-07-01 15:52:39,How to kill a Democracy.,politics,"",true,politics,keyword-heuristic,"politics:27, philosophy:1",politics
-2018-07-10-where-did-freedom-and-liberty-come-from.markdown,2018-07-10 10:51:39,"Where did the American ideals of Liberty, Equality and unalienable rights come from?",politics,"",true,politics,keyword-heuristic,"politics:11, tech:7, books:1",politics
+2018-04-14-caste-and-loathing.markdown,2018-04-14 10:51:39,Caste and loathing in Indo-Pakistan.,policy|philosophy,"",true,politics,keyword-heuristic,"politics:20, policy:3, philosophy:1",policy|philosophy
+2018-04-18-islamic-world-and-terrorism.markdown,2018-04-18 21:30:49,Was the Muslim world more secular in the 1970s than now?,politics,"",true,tech,keyword-heuristic,"tech:7, politics:6, books:2",politics
+2018-04-19-emotive-people-i-despise-thy-kingdom.markdown,2018-04-19 11:56:18,"Emotive people, I despise thy kingdom!",philosophy,"",true,politics,keyword-heuristic,"politics:12, personal:5, philosophy:1",philosophy
+2018-04-23-small-talk-on-affirmative-action.markdown,2018-04-23 10:47:26,Small talk on affirmative action.,policy|philosophy,"",true,politics,keyword-heuristic,"politics:11, policy:4, philosophy:3",policy|philosophy
+2018-04-29-anastasia-question.markdown,2018-04-29 11:56:45,Anastasia and her questions.,philosophy|personal,"",true,personal,keyword-heuristic,"personal:5, books:3, philosophy:1",philosophy|personal
+2018-06-23-review-of-lust-stories.markdown,2018-06-23 11:56:45,Review of Lust Stories.,philosophy|personal|books,"",true,personal,keyword-heuristic,"personal:6, politics:4, philosophy:3",philosophy|personal|books
+2018-06-30-some-imminent-trouble.markdown,2018-06-30 14:51:39,Some imminent trouble.,politics|philosophy,"",true,politics,keyword-heuristic,"politics:7, philosophy:1, personal:1",politics|philosophy
+2018-07-01-when-to-kill-democracy.markdown,2018-07-01 15:52:39,How to kill a Democracy.,policy|philosophy,"",true,politics,keyword-heuristic,"politics:27, philosophy:1",policy|philosophy
+2018-07-10-where-did-freedom-and-liberty-come-from.markdown,2018-07-10 10:51:39,"Where did the American ideals of Liberty, Equality and unalienable rights come from?",policy|philosophy,"",true,politics,keyword-heuristic,"politics:11, tech:7, books:1",policy|philosophy
 2018-07-17-why-do-we-have-myths.markdown,2018-07-17 17:45:29,"Why do we have myths, Bob?",philosophy,"",true,philosophy,keyword-heuristic,"philosophy:6, books:2, politics:1",philosophy
 2018-07-29-life-after-death.markdown,2018-07-29 20:25:39,Life after death.,philosophy,"",true,philosophy,keyword-heuristic,"philosophy:12, personal:4, tech:3",philosophy
-2018-08-11-the-empire-of-love.markdown,2018-08-11 22:35:39,The empire of love.,philosophy,"",true,personal,keyword-heuristic,"personal:13, policy:4, politics:3",philosophy
+2018-08-11-the-empire-of-love.markdown,2018-08-11 22:35:39,The empire of love.,personal,"",true,personal,keyword-heuristic,"personal:13, policy:4, politics:3",personal
 2018-09-04-price-of-a-woman.markdown,2018-09-04 11:15:39,Price of a Woman.,philosophy,"",true,"",weak-match,"too close to call (policy:2, personal:1) — needs manual read",philosophy
-2018-09-06-courts-have-limits.markdown,2018-09-06 15:00:32,The Courts alone won't do!,politics,"",true,policy,keyword-heuristic,"policy:8, politics:1",politics
-2018-09-15-what-is-intelligence.markdown,2018-09-15 10:06:59,What is intelligence?,philosophy,"",true,"",weak-match,too close to call (tech:2) — needs manual read,philosophy
-2018-10-02-idea-of-gandhi.markdown,2018-10-02 10:38:22,The idea of Gandhi.,philosophy,"",true,politics,keyword-heuristic,"politics:33, philosophy:10, policy:3",philosophy
-2018-10-07-if-i-were-to-vote-in-american-elections.markdown,2018-10-07 11:48:39,As a non American which party would you vote for if you lived in the US?,politics,"",true,politics,keyword-heuristic,"politics:14, tech:7, books:2",politics
+2018-09-06-courts-have-limits.markdown,2018-09-06 15:00:32,The Courts alone won't do!,policy|philosophy,"",true,policy,keyword-heuristic,"policy:8, politics:1",policy|philosophy
+2018-09-15-what-is-intelligence.markdown,2018-09-15 10:06:59,What is intelligence?,tech,"",true,"",weak-match,too close to call (tech:2) — needs manual read,tech
+2018-10-02-idea-of-gandhi.markdown,2018-10-02 10:38:22,The idea of Gandhi.,politics,"",true,politics,keyword-heuristic,"politics:33, philosophy:10, policy:3",politics
+2018-10-07-if-i-were-to-vote-in-american-elections.markdown,2018-10-07 11:48:39,As a non American which party would you vote for if you lived in the US?,philosophy,"",true,politics,keyword-heuristic,"politics:14, tech:7, books:2",philosophy
 2018-10-12-the-last-letter-sagar.markdown,2018-10-12 22:42:23,The Last Letter - Letters from Sagar to Ananya.,personal,"",true,personal,keyword-heuristic,"personal:10, books:2, philosophy:1",personal
 2018-11-02-tikes-finally-makes-the-hike.markdown,2018-11-02 19:04:39,Tikes finally makes the hike.,personal,"",true,personal,keyword-heuristic,"personal:12, politics:1, philosophy:1",personal
 2018-11-14-pulchurulile-vishudha-paadangal.markdown,2018-11-14 22:06:39,പുൽച്ചുരുളിലെ വിശുദ്ധപാഠങ്ങൾ.,malayalam,"",true,malayalam,unicode-detected,7729 Malayalam-range chars,malayalam
-2018-11-16-revenge-of-the-barbarians-1.markdown,2018-11-16 13:53:39,Revenge of the Barbarians.,philosophy,"",true,"",weak-match,"too close to call (personal:4, books:4, philosophy:2) — needs manual read",philosophy
-2018-12-06-the-disenfranchisement-of-indian-farmer.markdown,2018-12-06 14:21:44,The Disenfranchisement of Indian Farmer.,politics,"",true,politics,keyword-heuristic,"politics:27, philosophy:3, books:3",politics
+2018-11-16-revenge-of-the-barbarians-1.markdown,2018-11-16 13:53:39,Revenge of the Barbarians.,politics,"",true,"",weak-match,"too close to call (personal:4, books:4, philosophy:2) — needs manual read",politics
+2018-12-06-the-disenfranchisement-of-indian-farmer.markdown,2018-12-06 14:21:44,The Disenfranchisement of Indian Farmer.,policy|philosophy,"",true,politics,keyword-heuristic,"politics:27, philosophy:3, books:3",policy|philosophy
 2018-12-18-story-of-a-song-entangled-in-barbed-wire-fences.markdown,2018-12-18 18:12:39,Story of a song entangled in barbed wire fences.,philosophy,"",true,politics,keyword-heuristic,"politics:3, personal:2, philosophy:1",philosophy
 2018-3-15-hi-there.md,"",Hi there!,personal,"",true,"",weak-match,too close to call (personal:2) — needs manual read,personal
-2019-01-02-books-of-2019.markdown,2019-01-02 22:15:59,Books of 2019.,books,"",true,books,keyword-heuristic,"books:30, politics:4, policy:1",books
-2019-01-08-reservations-for-the-most-stupid.markdown,2019-01-08 10:59:21,Reservations for the most stupid.,policy,"",true,politics,keyword-heuristic,"politics:4, philosophy:2, books:1",policy
-2019-01-21-the-dancer-and-the-dance.markdown,2019-01-21 12:42:39,The dancer and the dance.,politics,"",true,politics,keyword-heuristic,"politics:20, philosophy:5, tech:3",politics
-2019-01-30-about-the-brain-is-not-a-computer.markdown,2019-01-30 08:57:21,Brain is not a computer!,tech,"",true,tech,keyword-heuristic,"tech:5, philosophy:3, policy:2",tech
-2019-02-12-of-data-democracy-and-beyond-part-1.markdown,2019-02-12 16:45:39,Of Data Democracy and beyond - Part 1.,philosophy,"",true,philosophy,keyword-heuristic,"philosophy:8, politics:6, tech:6",philosophy
-2019-02-15-where-soldiers-come-from.markdown,2019-02-15 17:23:39,Do you know where soldiers come from?,politics,"",true,books,keyword-heuristic,"books:6, politics:5, personal:4",politics
-2019-03-02-feminism-and-science.markdown,2019-03-02 08:13:39,Feminism and Science.,philosophy,"",true,tech,keyword-heuristic,"tech:7, policy:2, philosophy:1",philosophy
+2019-01-02-books-of-2019.markdown,2019-01-02 22:15:59,Books of 2019.,philosophy,"",true,books,keyword-heuristic,"books:30, politics:4, policy:1",philosophy
+2019-01-08-reservations-for-the-most-stupid.markdown,2019-01-08 10:59:21,Reservations for the most stupid.,politics|philosophy,"",true,politics,keyword-heuristic,"politics:4, philosophy:2, books:1",politics|philosophy
+2019-01-21-the-dancer-and-the-dance.markdown,2019-01-21 12:42:39,The dancer and the dance.,politics|philosophy,"",true,politics,keyword-heuristic,"politics:20, philosophy:5, tech:3",politics|philosophy
+2019-01-30-about-the-brain-is-not-a-computer.markdown,2019-01-30 08:57:21,Brain is not a computer!,philosophy,"",true,tech,keyword-heuristic,"tech:5, philosophy:3, policy:2",philosophy
+2019-02-12-of-data-democracy-and-beyond-part-1.markdown,2019-02-12 16:45:39,Of Data Democracy and beyond - Part 1.,politics|policy,"",true,philosophy,keyword-heuristic,"philosophy:8, politics:6, tech:6",politics|policy
+2019-02-15-where-soldiers-come-from.markdown,2019-02-15 17:23:39,Do you know where soldiers come from?,politics|philosophy,"",true,books,keyword-heuristic,"books:6, politics:5, personal:4",politics|philosophy
+2019-03-02-feminism-and-science.markdown,2019-03-02 08:13:39,Feminism and Science.,politics,"",true,tech,keyword-heuristic,"tech:7, policy:2, philosophy:1",politics
 2019-03-21-and-then-we-spoke-in-the-tongues-that-chose-us.markdown,2019-03-21 00:25:39,And then we spoke in tongues that chose us.,philosophy,"",true,politics,keyword-heuristic,"politics:7, philosophy:4, personal:4",philosophy
-2019-04-08-forty-year-old-dream.markdown,2019-04-08 10:32:21,A Forty year old dream.,personal,"",true,personal,keyword-heuristic,"personal:22, policy:4, philosophy:4",personal
-2019-04-12-looking-beyond-blackhole.markdown,2019-04-12 09:29:39,Looking beyond the Black hole.,politics,"",true,tech,keyword-heuristic,"tech:5, politics:3, policy:1",politics
-2019-04-25-bilkis-bharat-mata.markdown,2019-04-25 08:23:39,"Bilkis, Bharat Mata.",politics,"",true,politics,keyword-heuristic,"politics:10, personal:8, policy:3",politics
-2019-05-04-memories-of-letters-lost.markdown,2019-05-04 15:12:24,Memories of letters lost.,personal,"",true,personal,keyword-heuristic,"personal:37, books:29, philosophy:3",personal
+2019-04-08-forty-year-old-dream.markdown,2019-04-08 10:32:21,A Forty year old dream.,philosophy,"",true,personal,keyword-heuristic,"personal:22, policy:4, philosophy:4",philosophy
+2019-04-12-looking-beyond-blackhole.markdown,2019-04-12 09:29:39,Looking beyond the Black hole.,politics|philosophy|personal|tech,"",true,tech,keyword-heuristic,"tech:5, politics:3, policy:1",politics|philosophy|personal|tech
+2019-04-25-bilkis-bharat-mata.markdown,2019-04-25 08:23:39,"Bilkis, Bharat Mata.",philosophy,"",true,politics,keyword-heuristic,"politics:10, personal:8, policy:3",philosophy
+2019-05-04-memories-of-letters-lost.markdown,2019-05-04 15:12:24,Memories of letters lost.,philosophy,"",true,personal,keyword-heuristic,"personal:37, books:29, philosophy:3",philosophy
 2019-05-07-come-meet-me.markdown,2019-05-07 15:12:39,"Come, meet me.",personal,"",true,personal,keyword-heuristic,personal:8,personal
-2019-05-14-killing-a-small-sparrow.markdown,2019-05-14 20:52:32,Killing a small sparrow.,philosophy,"",true,"",weak-match,"too close to call (personal:6, books:6, philosophy:2) — needs manual read",philosophy
-2019-05-20-a-way-forward-for-india.markdown,2019-05-20 11:55:09,A way forward for India.,politics,"",true,politics,keyword-heuristic,"politics:37, philosophy:26, personal:4",politics
+2019-05-14-killing-a-small-sparrow.markdown,2019-05-14 20:52:32,Killing a small sparrow.,personal,"",true,"",weak-match,"too close to call (personal:6, books:6, philosophy:2) — needs manual read",personal
+2019-05-20-a-way-forward-for-india.markdown,2019-05-20 11:55:09,A way forward for India.,policy|philosophy,"",true,politics,keyword-heuristic,"politics:37, philosophy:26, personal:4",policy|philosophy
 2019-05-25-another-love-letter-to-tara.markdown,2019-05-25 22:09:53,Another love letter to Tara.,personal,"",true,personal,keyword-heuristic,"personal:31, books:6, politics:3",personal
-2019-05-28-heroin-1.markdown,2019-05-28 14:16:59,Heroin.,philosophy,"",true,personal,keyword-heuristic,"personal:3, philosophy:1, books:1",philosophy
+2019-05-28-heroin-1.markdown,2019-05-28 14:16:59,Heroin.,personal,"",true,personal,keyword-heuristic,"personal:3, philosophy:1, books:1",personal
 2019-06-14-unda-movie.markdown,2019-06-14 19:22:39,ഉണ്ട.,malayalam,"",true,malayalam,unicode-detected,7665 Malayalam-range chars,malayalam
-2019-06-21-forbidden-fruits-of-the-day.markdown,2019-06-21 19:59:39,Forbidded fruits of the day.,politics,"",true,politics,keyword-heuristic,"politics:3, policy:1, philosophy:1",politics
-2019-07-13-writing-about-myths.markdown,2019-07-13 20:52:44,Writing about myths.,philosophy,"",true,philosophy,keyword-heuristic,"philosophy:4, personal:2, books:1",philosophy
-2019-08-24-sagar-sleep-walking.markdown,2019-08-24 22:11:44,"Sagar, Sleep Walking.",personal,"",true,personal,keyword-heuristic,"personal:24, books:6, philosophy:4",personal
-2019-09-12-aaj-jaane-ki-zid-na-karo.markdown,2019-09-12 23:43:39,Aaj Jaane Ki Zid Na Karo.,personal,"",true,personal,keyword-heuristic,"personal:19, policy:1",personal
+2019-06-21-forbidden-fruits-of-the-day.markdown,2019-06-21 19:59:39,Forbidded fruits of the day.,philosophy,"",true,politics,keyword-heuristic,"politics:3, policy:1, philosophy:1",philosophy
+2019-07-13-writing-about-myths.markdown,2019-07-13 20:52:44,Writing about myths.,politics|personal,"",true,philosophy,keyword-heuristic,"philosophy:4, personal:2, books:1",politics|personal
+2019-08-24-sagar-sleep-walking.markdown,2019-08-24 22:11:44,"Sagar, Sleep Walking.",politics|policy|philosophy|personal,"",true,personal,keyword-heuristic,"personal:24, books:6, philosophy:4",politics|policy|philosophy|personal
+2019-09-12-aaj-jaane-ki-zid-na-karo.markdown,2019-09-12 23:43:39,Aaj Jaane Ki Zid Na Karo.,philosophy,"",true,personal,keyword-heuristic,"personal:19, policy:1",philosophy
 2019-09-28-waiting-for-the-bluebird-to-come-in.markdown,2019-09-28 21:35:39,Meeting bluebird.,personal,"",true,personal,keyword-heuristic,"personal:10, politics:1",personal
 2019-12-22-love-letters-i-wrote.markdown,2019-12-14 10:51:39,Love letters I wrote.,personal,"",true,personal,keyword-heuristic,"personal:34, books:19, philosophy:2",personal
-2020-01-06-disagree-with-caa.markdown,2020-01-06 10:24:39,Show your disagreement with CAA.,policy,"",true,"",weak-match,too close to call (policy:2) — needs manual read,policy
-2020-01-17-obituary-to-lilavati.markdown,2020-01-17 21:20:39,An Obituary to Prof. Lilavati.,politics,"",true,politics,keyword-heuristic,"politics:8, personal:7, books:6",politics
-2020-03-28-a-short-history-of-dead-babies-walking.markdown,2020-03-28 22:51:39,A short history of dead babies walking.,philosophy,"",true,philosophy,keyword-heuristic,"philosophy:11, politics:3, personal:1",philosophy
+2020-01-06-disagree-with-caa.markdown,2020-01-06 10:24:39,Show your disagreement with CAA.,politics|policy|philosophy,"",true,"",weak-match,too close to call (policy:2) — needs manual read,politics|policy|philosophy
+2020-01-17-obituary-to-lilavati.markdown,2020-01-17 21:20:39,An Obituary to Prof. Lilavati.,philosophy|personal,"",true,politics,keyword-heuristic,"politics:8, personal:7, books:6",philosophy|personal
+2020-03-28-a-short-history-of-dead-babies-walking.markdown,2020-03-28 22:51:39,A short history of dead babies walking.,politics,"",true,philosophy,keyword-heuristic,"philosophy:11, politics:3, personal:1",politics
 2020-04-09-sagar-letter.markdown,2020-04-09 20:05:39,മറ്റൊരു കത്ത്.,malayalam,"",true,malayalam,unicode-detected,44 Malayalam-range chars,malayalam
 2020-04-14-sagar-tara-sea.markdown,2020-04-14 10:51:39,സാഗർ എഴുതുന്നു.,malayalam,"",true,malayalam,unicode-detected,4510 Malayalam-range chars,malayalam
-2020-05-07-india-intellectual-project.markdown,2020-05-07 18:51:39,India is an intellectual project too. It must be protected.,policy,"",true,politics,keyword-heuristic,"politics:28, policy:14, philosophy:1",policy
-2020-06-04-community-transmission-kerala.markdown,2020-06-04 09:01:39,Community transmission in Kerala.,policy,"",true,"",weak-match,"too close to call (politics:1, policy:1) — needs manual read",policy
-2020-06-10-appetite-for-a-darker-worldview.markdown,2020-06-10 10:51:39,Appetite for a darker worldview.,philosophy,"",true,politics,keyword-heuristic,"politics:6, policy:2, philosophy:2",philosophy
-2020-08-13-on-bangalore-riots.markdown,2020-08-13 11:39:39,On Bangalore riots.,politics,"",true,politics,keyword-heuristic,"politics:10, policy:3, philosophy:2",politics
-2020-08-16-yeh-duniya-agar-mil-bhi-jaye-to-kya-hai.markdown,2020-08-16 09:31:26,"What is it, even if you win this universe?",personal,"",true,personal,keyword-heuristic,personal:3,personal
+2020-05-07-india-intellectual-project.markdown,2020-05-07 18:51:39,India is an intellectual project too. It must be protected.,politics|policy|philosophy,"",true,politics,keyword-heuristic,"politics:28, policy:14, philosophy:1",politics|policy|philosophy
+2020-06-04-community-transmission-kerala.markdown,2020-06-04 09:01:39,Community transmission in Kerala.,politics,"",true,"",weak-match,"too close to call (politics:1, policy:1) — needs manual read",politics
+2020-06-10-appetite-for-a-darker-worldview.markdown,2020-06-10 10:51:39,Appetite for a darker worldview.,politics|policy,"",true,politics,keyword-heuristic,"politics:6, policy:2, philosophy:2",politics|policy
+2020-08-13-on-bangalore-riots.markdown,2020-08-13 11:39:39,On Bangalore riots.,politics|philosophy,"",true,politics,keyword-heuristic,"politics:10, policy:3, philosophy:2",politics|philosophy
+2020-08-16-yeh-duniya-agar-mil-bhi-jaye-to-kya-hai.markdown,2020-08-16 09:31:26,"What is it, even if you win this universe?",philosophy|personal,"",true,personal,keyword-heuristic,personal:3,philosophy|personal
 2020-09-21-kisses-unkempt.markdown,2020-09-21 12:31:39,Kisses unkempt.,personal,"",true,personal,keyword-heuristic,"personal:13, philosophy:1",personal
 2020-11-07-love-confabulated-part-one.markdown,2020-11-07 13:48:39,"Love, confabulated.",personal,"",true,personal,keyword-heuristic,"personal:8, policy:7, books:4",personal
 2020-11-18-love-confabulated-part-two.markdown,2020-11-18 13:11:39,"Love, confabulated (2).",personal,"",true,personal,keyword-heuristic,"personal:51, books:9, philosophy:3",personal
-2020-11-30-the-era-of-global-politics-driving-the-local.markdown,2020-11-30 14:06:39,The era of global politics driving the local.,policy,"",true,politics,keyword-heuristic,"politics:6, policy:4, books:2",policy
+2020-11-30-the-era-of-global-politics-driving-the-local.markdown,2020-11-30 14:06:39,The era of global politics driving the local.,politics|policy,"",true,politics,keyword-heuristic,"politics:6, policy:4, books:2",politics|policy
 2020-12-04-pranayavum-samayavum.markdown,2020-12-01 21:01:39,പ്രണയവും സമയവും.,malayalam,"",true,malayalam,unicode-detected,1104 Malayalam-range chars,malayalam
 2020-12-05-little-chandrika-part-one.markdown,2020-12-05 21:15:39,Little Chandrika (1).,personal,"",true,personal,keyword-heuristic,"personal:7, policy:4, books:1",personal
-2021-04-19-wealth-and-compassion.markdown,2021-04-19 11:46:39,Does Compassion Correlate with Wealth?,philosophy,"",true,philosophy,keyword-heuristic,"philosophy:4, politics:2, policy:2",philosophy
-2021-05-17-where-are-the-songs.markdown,2021-05-17 16:35:39,Where are the songs when we have death all around?,personal,"",true,personal,keyword-heuristic,"personal:8, politics:2",personal
-2021-05-20-making-vaccines-for-the-world.markdown,2021-05-20 11:46:39,Making vaccines for the world.,policy,"",true,"",weak-match,"too close to call (policy:4, tech:4, politics:1) — needs manual read",policy
-2021-07-02-remembering-abhimanyu.markdown,2021-07-02 10:51:39,Remembering Abhimanyu.,philosophy,"",true,politics,keyword-heuristic,"politics:4, personal:2, tech:2",philosophy
-2021-08-21-taliban-winning-hearts-and-minds.markdown,2021-08-21 21:31:39,How the Taliban will seek to win the world's hearts and minds,philosophy,"",true,politics,keyword-heuristic,"politics:6, books:5, philosophy:1",philosophy
-2021-08-22-dissecting-dreams.markdown,2021-08-22 22:51:39,Dissecting Dreams.,personal,"",true,books,keyword-heuristic,"books:5, policy:3, philosophy:3",personal
-2021-11-25-flickering-lights-over-the-sea-of-time.markdown,2021-11-25 22:41:39,Flickering lights over the sea of time.,personal,"",true,personal,keyword-heuristic,"personal:18, philosophy:5, politics:1",personal
-2021-12-25-of-what-we-share-and-we-choose-not-to-share.markdown,2021-12-24 01:01:39,Of what we share and we choose not to share.,philosophy,"",true,"",weak-match,"too close to call (philosophy:5, books:5, personal:4) — needs manual read",philosophy
-2022-01-02-a-short-history-of-2021.markdown,2022-01-01 10:51:39,A short history of 2021.,personal,"",true,books,keyword-heuristic,"books:4, personal:2, tech:2",personal
-2022-06-02-my-upsc-journey.markdown,2022-06-02 00:01:39,My Time with the UPSC.,personal,"",true,books,keyword-heuristic,"books:14, personal:12, tech:5",personal
-2022-06-20-american-verse-insta.markdown,2022-06-20 10:51:39,The American Verse,books,"",true,"",weak-match,"too close to call (philosophy:1, personal:1, books:1) — needs manual read",books
-2022-07-19-daivathinte-aayiram-mukhangal.markdown,2022-07-19 01:51:39,ദൈവത്തിന്റെ ആയിരം മുഖങ്ങൾ.,malayalam,"",true,malayalam,unicode-detected,3559 Malayalam-range chars,malayalam
-2022-10-03-gandhi-praxis-x-idol.markdown,2022-10-02 10:51:39,Gandhi and his faults - choosing the praxis X idol.,politics,"",true,philosophy,keyword-heuristic,"philosophy:33, politics:25, books:5",politics
-2022-12-13-for-a-better-india-1.markdown,2022-12-13 02:30:39,Attack on fraternity is an attack on the Indian Constitution.,politics,"",true,politics,keyword-heuristic,"politics:21, policy:14, philosophy:8",politics
-2023-04-25-democratic-thinking-vs-democracy-in-praxis.markdown,2023-04-24 10:51:39,Democratic thinking vs Democracy in Praxis.,policy,"",true,politics,keyword-heuristic,"politics:36, philosophy:5, books:3",policy
-2023-09-20-revolution-is-a-product-of-old-age.markdown,2023-09-20 01:51:39,Revolution is a product of old age.,philosophy,"",true,personal,keyword-heuristic,"personal:10, politics:2, philosophy:1",philosophy
-2023-10-30-philosophy-of-the-bomb.markdown,2023-10-30 01:00:39,Philosophy of the bomb.,philosophy,"",true,philosophy,keyword-heuristic,"philosophy:9, politics:4, policy:2",philosophy
+2021-04-19-wealth-and-compassion.markdown,2021-04-19 11:46:39,Does Compassion Correlate with Wealth?,politics,"",true,philosophy,keyword-heuristic,"philosophy:4, politics:2, policy:2",politics
+2021-05-17-where-are-the-songs.markdown,2021-05-17 16:35:39,Where are the songs when we have death all around?,politics|philosophy|personal,"",true,personal,keyword-heuristic,"personal:8, politics:2",politics|philosophy|personal
+2021-05-20-making-vaccines-for-the-world.markdown,2021-05-20 11:46:39,Making vaccines for the world.,politics|policy,"",true,"",weak-match,"too close to call (policy:4, tech:4, politics:1) — needs manual read",politics|policy
+2021-07-02-remembering-abhimanyu.markdown,2021-07-02 10:51:39,Remembering Abhimanyu.,politics|philosophy,"",true,politics,keyword-heuristic,"politics:4, personal:2, tech:2",politics|philosophy
+2021-08-21-taliban-winning-hearts-and-minds.markdown,2021-08-21 21:31:39,How the Taliban will seek to win the world's hearts and minds,politics|policy,"",true,politics,keyword-heuristic,"politics:6, books:5, philosophy:1",politics|policy
+2021-08-22-dissecting-dreams.markdown,2021-08-22 22:51:39,Dissecting Dreams.,philosophy,"",true,books,keyword-heuristic,"books:5, policy:3, philosophy:3",philosophy
+2021-11-25-flickering-lights-over-the-sea-of-time.markdown,2021-11-25 22:41:39,Flickering lights over the sea of time.,philosophy,"",true,personal,keyword-heuristic,"personal:18, philosophy:5, politics:1",philosophy
+2021-12-25-of-what-we-share-and-we-choose-not-to-share.markdown,2021-12-24 01:01:39,Of what we share and we choose not to share.,personal,"",true,"",weak-match,"too close to call (philosophy:5, books:5, personal:4) — needs manual read",personal
+2022-01-02-a-short-history-of-2021.markdown,2022-01-01 10:51:39,A short history of 2021.,philosophy,"",true,books,keyword-heuristic,"books:4, personal:2, tech:2",philosophy
+2022-06-02-my-upsc-journey.markdown,2022-06-02 00:01:39,My Time with the UPSC.,philosophy,"",true,books,keyword-heuristic,"books:14, personal:12, tech:5",philosophy
+2022-06-20-american-verse-insta.markdown,2022-06-20 10:51:39,The American Verse,politics|books,"",true,"",weak-match,"too close to call (philosophy:1, personal:1, books:1) — needs manual read",politics|books
+2022-07-19-daivathinte-aayiram-mukhangal.markdown,2022-07-19 01:51:39,ദൈവത്തിന്റെ ആയിരം മുഖങ്ങൾ.,personal,"",true,malayalam,unicode-detected,3559 Malayalam-range chars,personal
+2022-10-03-gandhi-praxis-x-idol.markdown,2022-10-02 10:51:39,Gandhi and his faults - choosing the praxis X idol.,philosophy,"",true,philosophy,keyword-heuristic,"philosophy:33, politics:25, books:5",philosophy
+2022-12-13-for-a-better-india-1.markdown,2022-12-13 02:30:39,Attack on fraternity is an attack on the Indian Constitution.,policy|philosophy,"",true,politics,keyword-heuristic,"politics:21, policy:14, philosophy:8",policy|philosophy
+2023-04-25-democratic-thinking-vs-democracy-in-praxis.markdown,2023-04-24 10:51:39,Democratic thinking vs Democracy in Praxis.,politics|philosophy,"",true,politics,keyword-heuristic,"politics:36, philosophy:5, books:3",politics|philosophy
+2023-09-20-revolution-is-a-product-of-old-age.markdown,2023-09-20 01:51:39,Revolution is a product of old age.,politics|philosophy,"",true,personal,keyword-heuristic,"personal:10, politics:2, philosophy:1",politics|philosophy
+2023-10-30-philosophy-of-the-bomb.markdown,2023-10-30 01:00:39,Philosophy of the bomb.,politics|philosophy,"",true,philosophy,keyword-heuristic,"philosophy:9, politics:4, policy:2",politics|philosophy
 2024-01-23-maaran-daivathinte-maranam.markdown,2024-01-23 10:51:39,മാരൻ ദൈവത്തിന്റെ നാണം കെട്ട മരണം.,malayalam,"",true,malayalam,unicode-detected,7684 Malayalam-range chars,malayalam
-2024-05-31-direct-democracy-is-dictatorship.markdown,2024-05-31 01:51:39,Direct Democracy is Dictatorship.,policy,"",true,politics,keyword-heuristic,"politics:24, policy:6, philosophy:6",policy
-2024-07-07-death-of-a-cow-slaughterer.markdown,2024-07-07 10:51:39,Death of a Cow Slaughterer.,policy,"",true,personal,keyword-heuristic,"personal:13, philosophy:7, politics:4",policy
-2024-12-17-pseudo-culturism-must-be-exposed.markdown,2024-12-07 10:51:39,"Pseudo-Cultarism must be discussed, its practitioners exposed.",policy,"",true,politics,keyword-heuristic,"politics:15, tech:5, philosophy:4",policy
-2025-06-25-it-takes-more-than-one-to-organise.markdown,2025-06-25 10:51:39,It takes more than one to organise.,politics,"",true,"",weak-match,"too close to call (politics:6, tech:6, policy:3) — needs manual read",politics
+2024-05-31-direct-democracy-is-dictatorship.markdown,2024-05-31 01:51:39,Direct Democracy is Dictatorship.,politics|philosophy,"",true,politics,keyword-heuristic,"politics:24, policy:6, philosophy:6",politics|philosophy
+2024-07-07-death-of-a-cow-slaughterer.markdown,2024-07-07 10:51:39,Death of a Cow Slaughterer.,policy|personal,"",true,personal,keyword-heuristic,"personal:13, philosophy:7, politics:4",policy|personal
+2024-12-17-pseudo-culturism-must-be-exposed.markdown,2024-12-07 10:51:39,"Pseudo-Cultarism must be discussed, its practitioners exposed.",politics|philosophy,"",true,politics,keyword-heuristic,"politics:15, tech:5, philosophy:4",politics|philosophy
+2025-06-25-it-takes-more-than-one-to-organise.markdown,2025-06-25 10:51:39,It takes more than one to organise.,philosophy,"",true,"",weak-match,"too close to call (politics:6, tech:6, policy:3) — needs manual read",philosophy

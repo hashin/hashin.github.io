@@ -1,6 +1,7 @@
 ---
 categories: [personal]
 
+
 layout: post
 title: Meeting bluebird.
 image: 'https://cdn.pixabay.com/photo/2017/08/06/05/40/blue-2589164_1280.jpg'

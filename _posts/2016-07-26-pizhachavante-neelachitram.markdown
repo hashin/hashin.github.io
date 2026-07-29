@@ -1,7 +1,8 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: പിഴച്ചവന്റെ നീലച്ചിത്രം.
-categories: [malayalam]
 image: http://www.avatarfinearts.com/Rassouli-Gallery/Celestial-Art/Rassouli-and-Man-Cre.jpg
 date: '2016-07-26 19:19:49'
 ---

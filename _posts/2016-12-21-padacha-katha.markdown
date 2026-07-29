@@ -1,7 +1,8 @@
 ---
+categories: [malayalam]
+
 layout: post
 title: പടച്ച കഥ.
-categories: [malayalam]
 image: http://www.michelangelo.org/images/artworks/the-creation-of-adam.jpg
 date: '2016-12-21 10:46:24'
 ---

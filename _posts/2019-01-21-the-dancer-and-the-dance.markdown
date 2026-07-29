@@ -1,5 +1,6 @@
 ---
-categories: [politics]
+categories: [politics, philosophy]
+
 
 layout: post
 title: The dancer and the dance.

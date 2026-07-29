@@ -1,7 +1,8 @@
 ---
+categories: [politics, philosophy]
+
 layout: post
 title: Let's not kill the Internet that made us.
-categories: [policy]
 image: http://cdn0.dailydot.com/cache/ff/9e/ff9eec4341e4a69e95bd1332eea0ed57.jpg
 date: '2015-04-12 12:31:05'
 tags:

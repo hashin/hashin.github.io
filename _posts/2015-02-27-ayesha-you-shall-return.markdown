@@ -1,7 +1,8 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: Ayesha, You shall return
-categories: [personal]
 date: '2015-02-27 21:13:58'
 tags:
 - writing

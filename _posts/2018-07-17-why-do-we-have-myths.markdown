@@ -1,6 +1,7 @@
 ---
 categories: [philosophy]
 
+
 layout: post
 title: 'Why do we have myths, Bob?'
 image: >-

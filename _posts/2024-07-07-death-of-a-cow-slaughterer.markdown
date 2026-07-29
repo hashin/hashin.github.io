@@ -1,5 +1,6 @@
 ---
-categories: [policy]
+categories: [policy, personal]
+
 
 layout: post
 title:  Death of a Cow Slaughterer.

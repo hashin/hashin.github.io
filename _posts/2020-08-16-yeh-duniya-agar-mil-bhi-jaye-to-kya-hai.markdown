@@ -1,5 +1,6 @@
 ---
-categories: [personal]
+categories: [philosophy, personal]
+
 
 layout: post
 title: 'What is it, even if you win this universe?'

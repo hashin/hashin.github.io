@@ -1,7 +1,8 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: Some of my favorite xkcd's.
-categories: [philosophy]
 date: '2014-10-15 14:32:57'
 tags:
 - fun

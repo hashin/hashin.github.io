@@ -1,7 +1,8 @@
 ---
+categories: [tech]
+
 layout: post
 title: The Ragam Paraphernalia.
-categories: [personal]
 image: http://artpartiesforchildren.com/wp-content/uploads/2011/05/Art3l.jpg
 date: '2015-01-27 14:38:32'
 ---

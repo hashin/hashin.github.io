@@ -1,6 +1,7 @@
 ---
 categories: [philosophy]
 
+
 layout: post
 title: How do you cope with the feeling of inferiority when you're surrounded by brilliant
   minds?

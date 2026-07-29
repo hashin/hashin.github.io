@@ -1,5 +1,6 @@
 ---
-categories: [philosophy]
+categories: [personal]
+
 
 layout: post
 title: The most extraordinary tales of love.
