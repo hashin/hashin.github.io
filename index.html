@@ -2,17 +2,91 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+<div class="findbar">
+  <input class="search" type="text" placeholder="Search essays… try “gandhi”, “malayalam”, or a year" oninput="hjSearch(this.value)">
+  <div class="tagsline" id="tagsline">
+    <span class="tag active" data-tag="all" onclick="hjSetTag('all', this)">All</span>
+    {% assign _six = 'politics,philosophy,malayalam,personal,books,tech' | split: ',' %}
+    {% assign _labels = 'Politics,Philosophy,Malayalam,Personal,Books,Tech' | split: ',' %}
+    {% for _s in _six %}
+      {% assign _n1 = site.tags[_s].size | default: 0 %}
+      {% assign _n2 = site.categories[_s].size | default: 0 %}
+      {% assign _n = _n1 | plus: _n2 %}
+      {% if _s == 'malayalam' %}
+        {% assign _n3 = site.tags['malayalam-1'].size | default: 0 %}
+        {% assign _n = _n | plus: _n3 %}
+      {% endif %}
+      {% if _n > 0 %}<span class="tsep">&middot;</span><span class="tag" data-tag="{{ _s }}" onclick="hjSetTag('{{ _s }}', this)">{{ _labels[forloop.index0] }}</span>{% endif %}
+    {% endfor %}
+  </div>
 </div>
+
+<main class="index-list">
+  {% assign _year = '' %}
+  {% for post in site.posts %}
+    {% assign _py = post.date | date: '%Y' %}
+    {% if _py != _year %}
+      {% assign _year = _py %}
+      <div class="idx-year">{{ _year }}</div>
+    {% endif %}
+    {% assign _tagstr = post.tags | join: ' ' | downcase %}
+    {% assign _catstr = post.categories | join: ' ' | downcase %}
+    {% assign combined = _tagstr | append: ' ' | append: _catstr | strip %}
+    {% if combined contains 'malayalam-1' %}{% assign combined = combined | append: ' malayalam' %}{% endif %}
+    {% assign cat_label = '' %}
+    {% if post.categories.size > 0 %}
+      {% assign cat_label = post.categories[0] %}
+    {% else %}
+      {% for _s in _six %}
+        {% if cat_label == '' and combined contains _s %}{% assign cat_label = _s %}{% endif %}
+      {% endfor %}
+    {% endif %}
+    {% assign read_min = post.content | number_of_words | divided_by: 200 | at_least: 1 %}
+    {% assign _excerpt_text = post.excerpt | strip_html | strip_newlines %}
+    {% capture _searchtext %}{{ post.title }} {{ _excerpt_text }} {{ combined }}{% endcapture %}
+    <div class="idx-row" data-tags="{{ combined }}" data-text="{{ _searchtext | downcase | escape }}">
+      <h2 class="idx-title{% if combined contains 'malayalam' %} mal{% endif %}"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <p class="idx-meta">{{ post.date | date: '%-d %b %Y' }}{% if cat_label != '' %} &middot; {{ cat_label }}{% endif %} &middot; {{ read_min }} min</p>
+      <p class="idx-excerpt{% if combined contains 'malayalam' %} mal{% endif %}">{{ post.excerpt | strip_html | truncate: 200 }}</p>
+    </div>
+  {% endfor %}
+
+  <p id="no-results" class="muted" style="display:none; padding:2em 0;">No essays match that search.</p>
+</main>
+
+<script>
+  let hjTag = 'all';
+  let hjQuery = '';
+  function hjApplyFilters(){
+    const rows = document.querySelectorAll('.idx-row');
+    let visible = 0;
+    const years = document.querySelectorAll('.idx-year');
+    rows.forEach(r=>{
+      const tags = (r.getAttribute('data-tags') || '').trim();
+      const text = r.getAttribute('data-text') || '';
+      const tagOk = hjTag === 'all' || tags.split(/\s+/).includes(hjTag);
+      const qOk = hjQuery === '' || text.includes(hjQuery.toLowerCase());
+      const show = tagOk && qOk;
+      r.classList.toggle('hidden', !show);
+      if(show) visible++;
+    });
+    // Hide year headings with no visible rows beneath them
+    years.forEach(y=>{
+      let el = y.nextElementSibling;
+      let hasVisible = false;
+      while(el && !el.classList.contains('idx-year')){
+        if(el.classList.contains('idx-row') && !el.classList.contains('hidden')) hasVisible = true;
+        el = el.nextElementSibling;
+      }
+      y.style.display = hasVisible ? '' : 'none';
+    });
+    document.getElementById('no-results').style.display = visible === 0 ? 'block' : 'none';
+  }
+  function hjSetTag(tag, el){
+    hjTag = tag;
+    document.querySelectorAll('.tag').forEach(t=>t.classList.remove('active'));
+    el.classList.add('active');
+    hjApplyFilters();
+  }
+  function hjSearch(v){ hjQuery = v; hjApplyFilters(); }
+</script>

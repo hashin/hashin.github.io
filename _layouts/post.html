@@ -2,16 +2,35 @@
 layout: default
 ---
 
+{% assign _tagstr = page.tags | join: ' ' | downcase %}
+{% assign _catstr = page.categories | join: ' ' | downcase %}
+{% assign combined = _tagstr | append: ' ' | append: _catstr | strip %}
+{% if combined contains 'malayalam-1' %}{% assign combined = combined | append: ' malayalam' %}{% endif %}
+{% assign cat_label = '' %}
+{% if page.categories.size > 0 %}
+  {% assign cat_label = page.categories[0] %}
+{% else %}
+  {% assign _six = 'politics,philosophy,malayalam,personal,books,tech' | split: ',' %}
+  {% for _s in _six %}
+    {% if cat_label == '' and combined contains _s %}{% assign cat_label = _s %}{% endif %}
+  {% endfor %}
+{% endif %}
+{% assign read_min = page.content | number_of_words | divided_by: 200 | at_least: 1 %}
+
 <article class="post">
-  <h1>{{ page.title }}</h1>
+  {% if cat_label != '' %}<div class="post-kicker">{{ cat_label | capitalize }}</div>{% endif %}
+  <h1 class="post-title{% if combined contains 'malayalam' %} mal{% endif %}">{{ page.title }}</h1>
+  <div class="post-sub">{{ page.date | date: "%-d %B %Y" }} &middot; {{ read_min }} min read</div>
 
-  <div class="entry">
+  <div class="entry{% if combined contains 'malayalam' %} mal{% endif %}">
     {{ content }}
-  </div>
-
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
   {% include disqus.html %}
 </article>
+
+<script>
+  function hjToggleFn(id){
+    document.getElementById(id).classList.toggle('open');
+  }
+</script>
