@@ -1,5 +1,6 @@
 ---
-categories: [politics]
+categories: [philosophy]
+
 
 layout: post
 title: 'It''s not about #PoMoneModi, It''s about our own Attappady.'

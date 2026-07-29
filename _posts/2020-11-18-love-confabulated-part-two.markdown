@@ -1,6 +1,7 @@
 ---
 categories: [personal]
 
+
 layout: post
 title:  Love, confabulated (2).
 image: 'https://p0.pxfuel.com/preview/740/5/165/art-abstract-form-background.jpg'

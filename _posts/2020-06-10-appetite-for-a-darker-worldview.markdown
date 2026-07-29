@@ -1,5 +1,6 @@
 ---
-categories: [philosophy]
+categories: [politics, policy]
+
 
 layout: post
 title: Appetite for a darker worldview.

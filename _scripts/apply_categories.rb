@@ -1,10 +1,12 @@
 #!/usr/bin/env ruby
-# Inserts/replaces a `categories: [x]` line in a post's front matter without
-# touching anything else in the file (no full YAML re-serialization, to avoid
-# reformatting diffs across files this script didn't need to change).
+# Inserts/replaces/removes a `categories: [...]` line in a post's front matter
+# without touching anything else in the file (no full YAML re-serialization,
+# to avoid reformatting diffs across files this script didn't need to change).
 #
 # Usage: ruby _scripts/apply_categories.rb mapping.csv
-# mapping.csv: two columns, no header — filename,category
+# mapping.csv: two columns, no header — filename,categories
+#   categories is a comma-separated list (e.g. "politics,philosophy") or
+#   empty to remove any existing categories: field entirely.
 
 require 'csv'
 require 'yaml'
@@ -13,7 +15,7 @@ require 'date'
 POSTS_DIR = File.join(__dir__, '..', '_posts')
 mapping_file = ARGV[0] or abort 'usage: apply_categories.rb mapping.csv'
 
-CSV.foreach(mapping_file) do |fname, category|
+CSV.foreach(mapping_file) do |fname, categories|
   next if fname.nil? || fname.strip.empty?
 
   path = File.join(POSTS_DIR, fname.strip)
@@ -31,12 +33,16 @@ CSV.foreach(mapping_file) do |fname, category|
 
   front = parts[1]
   body = parts[2]
-  new_line = "categories: [#{category.strip}]"
+  cats = (categories || '').split(',').map(&:strip).reject(&:empty?)
 
-  if front =~ /^categories:.*$/
-    # Replace the categories: line and any following block-list items (- foo)
-    front = front.sub(/^categories:.*(\n^- .*)*/, new_line)
-  else
+  has_existing = front =~ /^categories:.*$/
+  if has_existing
+    # Remove the categories: line and any following block-list items (- foo)
+    front = front.sub(/^categories:.*(\n^- .*)*\n?/, '')
+  end
+
+  unless cats.empty?
+    new_line = "categories: [#{cats.join(', ')}]"
     # Always prepend at the top of front matter rather than inserting after
     # title: — some titles are YAML folded scalars spanning multiple lines,
     # and inserting mid-value there breaks the fold and produces invalid YAML.
@@ -65,5 +71,5 @@ CSV.foreach(mapping_file) do |fname, category|
   end
 
   File.write(path, "---#{front}---#{body}", encoding: 'UTF-8')
-  warn "updated: #{fname} -> #{category.strip}"
+  warn "updated: #{fname} -> [#{cats.join(', ')}]"
 end

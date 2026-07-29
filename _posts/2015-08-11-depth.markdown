@@ -1,7 +1,8 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: Ideas
-categories: [philosophy]
 date: '2015-08-11 18:39:39'
 ---
 The depth that life can get into is much more than our normal minds can render.

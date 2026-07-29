@@ -1,4 +1,6 @@
 ---
+categories: [politics, policy, philosophy]
+
 layout: post
 title: Interesting times are coming!
 date: '2015-01-27 16:45:11'
@@ -7,8 +9,6 @@ tags:
 - language
 - rants
 ---
-
-
 #####About the [government ad](http://indianexpress.com/article/india/india-others/ad-shows-constitution-without-socialist-or-secular-creates-furore/) that omitted the words "Secular" and "Socialist" from the preamble of India.
 
 My foot!

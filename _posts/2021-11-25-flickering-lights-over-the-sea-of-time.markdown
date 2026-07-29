@@ -1,5 +1,6 @@
 ---
-categories: [personal]
+categories: [philosophy]
+
 
 layout: post
 title:  Flickering lights over the sea of time.

@@ -1,7 +1,8 @@
 ---
+categories: [personal]
+
 layout: post
 title:  Killing a small sparrow.
-categories: [philosophy]
 image: 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/384f0dca-8210-4b23-a348-3a50bd8df88f/d55wvrb-1d188a3a-fd39-428a-9354-4c8697bd09a3.jpg/v1/fill/w_1280,h_720,q_75,strp/the_dark_ages_by_jonasdero_d55wvrb-fullview.jpg'
 date: '2019-05-14 20:52:32'
 published: true

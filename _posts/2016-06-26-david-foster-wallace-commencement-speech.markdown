@@ -1,7 +1,8 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: Kenyon Commencement speech by David Foster Wallace , 2005.
-categories: [politics]
 image: https://i.ytimg.com/vi/4UQDKEHSeWQ/maxresdefault.jpg
 date: '2016-06-26 11:27:31'
 ---

@@ -1,5 +1,6 @@
 ---
-categories: [personal]
+categories: [philosophy]
+
 
 layout: post
 title: A Forty year old dream.

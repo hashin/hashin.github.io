@@ -1,5 +1,6 @@
 ---
-categories: [politics]
+categories: [philosophy]
+
 
 layout: post
 title:  Forbidded fruits of the day.

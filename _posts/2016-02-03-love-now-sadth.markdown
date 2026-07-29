@@ -1,5 +1,6 @@
 ---
-categories: [personal]
+categories: [philosophy, personal]
+
 
 layout: post
 title: Love Now'Sadth.

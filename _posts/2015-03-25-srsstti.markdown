@@ -1,7 +1,8 @@
 ---
+categories: [philosophy, personal]
+
 layout: post
 title: സൃഷ്ടി
-categories: [malayalam]
 image: http://25.media.tumblr.com/tumblr_m7dy96APUZ1r8zl1to1_400.jpg
 date: '2015-03-25 11:09:35'
 ---

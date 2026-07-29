@@ -1,7 +1,8 @@
 ---
+categories: [politics, books]
+
 layout: post
 title:  The American Verse
-categories: [books]
 image: 'https://i.imgur.com/M4VudaB.jpg'
 date: '2022-06-20 10:51:39'
 published: true

@@ -1,10 +1,11 @@
 ---
+categories: [politics, policy, philosophy]
+
 layout: post
 title: How you should be teaching values to your kid.
 image: https://tlkester.files.wordpress.com/2013/10/artstor_103_41822000.jpg
 date: '2017-06-23 16:11:43'
 ---
-
 Kids should have values, undisputed truth. But how should you teach them?
 
 Easiest way is to teach it according to your own religion. After all that is what you have been doing all your life. Easy and effective, isn't it?

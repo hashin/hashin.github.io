@@ -1,7 +1,8 @@
 ---
+categories: [tech]
+
 layout: post
 title:  What is intelligence?
-categories: [philosophy]
 image: 'https://pbs.twimg.com/media/CAGJ9-9UUAAdYt5.jpg:large'
 date: '2018-09-15 10:06:59'
 published: true

@@ -1,7 +1,8 @@
 ---
+categories: [tech]
+
 layout: post
 title: How to evaluate a programmer?
-categories: [tech]
 date: '2015-08-31 12:31:31'
 tags:
 - development

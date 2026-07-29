@@ -1,4 +1,6 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: A movie that treats you the way you treat art!
 image: 'http://www.kushlosh.com/wp-content/uploads/2018/01/poomaram.jpg'

@@ -1,4 +1,6 @@
 ---
+categories: [philosophy, personal]
+
 layout: post
 title: Inimical Love.
 image: https://images.unsplash.com/38/cWT6BHfQDW5yDoN1qgn0_DSC06383.png?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=85c4866f97a5150cfb3f06aaffa955db
@@ -8,7 +10,6 @@ tags:
 - english
 - philosophy
 ---
-
 Once I was told to write a synopsis of life. I didn't know for whom I was writing it for. It wasn't meant to be personal. It had to be humane as well as indifferent to the vices and virtues of the life at the same time.
 
 They said that it should be boring since the vast expanses of human life experience is monotonous. But it had to be succulent enough to savour the best moments of life whenever it's due.

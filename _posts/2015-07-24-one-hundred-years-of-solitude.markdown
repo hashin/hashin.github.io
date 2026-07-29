@@ -1,7 +1,8 @@
 ---
+categories: [books]
+
 layout: post
 title: One hundred years of Solitude.
-categories: [philosophy]
 date: '2015-07-24 19:52:08'
 tags:
 - writing

@@ -1,7 +1,8 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: പ്രണയം
-categories: [malayalam]
 date: '2015-07-07 18:05:39'
 ---
 എന്തോ വല്ല്യ സംഭവം ആണെന്നാണ്‌ വെപ്പ്...

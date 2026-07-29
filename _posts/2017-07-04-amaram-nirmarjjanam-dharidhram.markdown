@@ -1,7 +1,8 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: അമരം, നിർമാർജ്ജനം, ദരിദ്രം.
-categories: [malayalam]
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_Afghanistan_%281880%E2%80%931901%29.svg/1200px-Flag_of_Afghanistan_%281880%E2%80%931901%29.svg.png
 date: '2017-07-04 19:51:23'
 ---

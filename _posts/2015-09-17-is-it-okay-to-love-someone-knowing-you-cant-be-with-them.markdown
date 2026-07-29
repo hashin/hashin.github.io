@@ -1,7 +1,8 @@
 ---
+categories: [personal]
+
 layout: post
 title: Is it okay to love someone knowing you can't be with them?
-categories: [philosophy]
 date: '2015-09-17 06:24:14'
 tags:
 - writing

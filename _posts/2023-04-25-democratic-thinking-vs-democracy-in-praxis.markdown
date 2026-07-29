@@ -1,5 +1,6 @@
 ---
-categories: [policy]
+categories: [politics, philosophy]
+
 
 layout: post
 title:  Democratic thinking vs Democracy in Praxis.

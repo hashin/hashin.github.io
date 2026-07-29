@@ -1,7 +1,8 @@
 ---
+categories: [personal]
+
 layout: post
 title: When psychedelia plucks the chord.
-categories: [philosophy]
 date: '2014-11-21 12:35:27'
 tags:
 - writing

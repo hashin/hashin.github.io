@@ -1,5 +1,6 @@
 ---
-categories: [politics]
+categories: [policy, philosophy]
+
 
 layout: post
 title: The Courts alone won't do!

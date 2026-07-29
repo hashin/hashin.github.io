@@ -1,7 +1,8 @@
 ---
+categories: [personal]
+
 layout: post
 title: The night before the journey.
-categories: [philosophy]
 image: http://www.majali.se/wp-content/uploads/2012/09/nightjourney.jpg
 date: '2015-05-26 11:56:22'
 tags:

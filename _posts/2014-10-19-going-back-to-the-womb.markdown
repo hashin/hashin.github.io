@@ -1,4 +1,6 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: Going back to the womb!
 date: '2014-10-19 19:23:08'
@@ -6,7 +8,6 @@ tags:
 - development
 - internet
 ---
-
 ![](http://www.techarta.com/wp-content/uploads/2012/06/Old-Computer.jpg)
 
 Oh I miss the good 'ol web!

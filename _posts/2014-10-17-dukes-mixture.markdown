@@ -1,4 +1,6 @@
 ---
+categories: [philosophy, personal]
+
 layout: post
 title: The Duke's Mixture.
 date: '2014-10-17 15:40:22'
@@ -8,7 +10,6 @@ tags:
 - history
 - rants
 ---
-
 It is not everyday that you stumble upon an obscure idiom and start wondering about its connotations. It happens once in while for me with two most possible outcomes - me falling head over heels to it and adopting it, or me disregarding it as naive and ditch it; there are no middle grounds.
 
 Today, I stumbled upon this idiom, `Dukes Mixture` and fell in love with it instantly. It was not a love at first sight and happened after a thorough reconnaissance. And that makes the feeling most beautiful, and special.

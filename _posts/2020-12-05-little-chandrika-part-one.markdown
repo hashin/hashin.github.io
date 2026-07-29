@@ -1,6 +1,7 @@
 ---
 categories: [personal]
 
+
 layout: post
 title:  Little Chandrika (1).
 image: 'https://i.pinimg.com/564x/c2/f9/2c/c2f92cf997cab4c75882773b405b815a.jpg'

@@ -1,5 +1,6 @@
 ---
-categories: [personal]
+categories: [philosophy]
+
 
 layout: post
 title: Memories of letters lost.

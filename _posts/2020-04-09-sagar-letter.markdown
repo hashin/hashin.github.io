@@ -1,7 +1,8 @@
 ---
+categories: [malayalam]
+
 layout: post
 title:  മറ്റൊരു കത്ത്. 
-categories: [malayalam]
 image: 'https://supersizelife.com/wp-content/uploads/2017/07/0052-Lost-Art-of-Letter-Writing-Feature-Image-Quill-and-Papper-Shutterstock-1024x664.jpg'
 date: '2020-04-09 20:05:39'
 published: true

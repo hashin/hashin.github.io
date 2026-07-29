@@ -1,7 +1,8 @@
 ---
+categories: [personal]
+
 layout: post
 title: Mysticism and heroin
-categories: [philosophy]
 date: '2015-05-17 11:37:11'
 tags:
 - writing

@@ -1,5 +1,6 @@
 ---
-categories: [politics]
+categories: [policy, philosophy]
+
 
 layout: post
 title:  Attack on fraternity is an attack on the Indian Constitution.

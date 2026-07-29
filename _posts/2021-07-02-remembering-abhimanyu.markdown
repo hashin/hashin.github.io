@@ -1,5 +1,6 @@
 ---
-categories: [philosophy]
+categories: [politics, philosophy]
+
 
 layout: post
 title:  Remembering Abhimanyu.

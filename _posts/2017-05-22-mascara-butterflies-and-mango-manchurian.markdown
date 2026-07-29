@@ -1,6 +1,7 @@
 ---
 categories: [philosophy]
 
+
 layout: post
 title: Mascara, Butterflies and Mango Manchurian.
 image: http://1.bp.blogspot.com/-kaM3BNlP8Gw/U6vEg-0eoCI/AAAAAAAAF6U/JQkzr8EMWOM/s1600/Happy+time.jpg

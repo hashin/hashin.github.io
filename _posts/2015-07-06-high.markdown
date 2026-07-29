@@ -1,7 +1,8 @@
 ---
+categories: [personal]
+
 layout: post
 title: High
-categories: [philosophy]
 date: '2015-07-06 17:58:19'
 tags:
 - writing

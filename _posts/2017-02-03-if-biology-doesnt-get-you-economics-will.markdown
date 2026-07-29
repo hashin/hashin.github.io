@@ -1,7 +1,8 @@
 ---
+categories: [politics, philosophy]
+
 layout: post
 title: If biology doesn't get you, economics will.
-categories: [philosophy]
 image: http://www.artworldsalon.com/blog/wp-content/uploads/2007/01-January/ZengHao.jpg
 date: '2017-02-03 11:51:18'
 ---

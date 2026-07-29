@@ -1,5 +1,6 @@
 ---
-categories: [philosophy]
+categories: [politics, personal]
+
 
 layout: post
 title: Writing about myths.

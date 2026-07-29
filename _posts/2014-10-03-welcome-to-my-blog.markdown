@@ -1,7 +1,8 @@
 ---
+categories: [personal]
+
 layout: post
 title: Welcome to my Blog!
-categories: [personal]
 date: '2014-10-03 14:30:02'
 ---
 Thank you for visiting. I am now switching to Ghost, the blogging platform. You can access my articles now at <a href="http://hashin.github.io/blog" target="_blank">My old blog.</a> 

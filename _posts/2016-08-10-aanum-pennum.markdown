@@ -1,7 +1,8 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: ആണും പെണ്ണും.
-categories: [malayalam]
 image: https://charlyfap.files.wordpress.com/2013/02/last-supper-edelson1.jpg
 date: '2016-08-10 15:54:23'
 ---

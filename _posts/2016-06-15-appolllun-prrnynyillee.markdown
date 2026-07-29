@@ -1,7 +1,8 @@
 ---
+categories: [malayalam]
+
 layout: post
 title: അപ്പൊഴും പറഞ്ഞില്ലേ?
-categories: [malayalam]
 image: https://i.ytimg.com/vi/LqruzC1hIXM/maxresdefault.jpg
 date: '2016-06-15 18:56:50'
 ---

@@ -1,5 +1,6 @@
 ---
-categories: [policy]
+categories: [politics, philosophy]
+
 
 layout: post
 title:  Pseudo-Cultarism must be discussed, its practitioners exposed.

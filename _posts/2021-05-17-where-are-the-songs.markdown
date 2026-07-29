@@ -1,5 +1,6 @@
 ---
-categories: [personal]
+categories: [politics, philosophy, personal]
+
 
 layout: post
 title:  Where are the songs when we have death all around?

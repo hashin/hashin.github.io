@@ -1,10 +1,11 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: A sea of lost dreams.
 image: http://img10.deviantart.net/d4cb/i/2013/132/7/3/blood_ocean_by_gleeyjdn-d650vil.jpg
 date: '2016-10-23 14:13:55'
 ---
-
 How far is it? 
 
 The question kept me pulling back to life. Not sure if it is the kind of life I wanted; I couldn't even understand what it is.

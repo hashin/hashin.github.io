@@ -1,7 +1,8 @@
 ---
+categories: [politics, philosophy]
+
 layout: post
 title: Do you know where soldiers come from?
-categories: [politics]
 image: 'https://combatart.files.wordpress.com/2012/06/reading.jpg'
 date: '2019-02-15 17:23:39'
 published: true

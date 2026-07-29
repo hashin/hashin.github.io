@@ -1,5 +1,6 @@
 ---
-categories: [tech]
+categories: [philosophy]
+
 
 layout: post
 title: 'Catching the thoughts : Neural Networks.'

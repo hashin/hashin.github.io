@@ -1,5 +1,6 @@
 ---
-categories: [policy]
+categories: [politics, policy, philosophy]
+
 
 layout: post
 title:  India is an intellectual project too. It must be protected.

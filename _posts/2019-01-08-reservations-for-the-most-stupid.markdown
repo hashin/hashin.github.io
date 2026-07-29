@@ -1,5 +1,6 @@
 ---
-categories: [policy]
+categories: [politics, philosophy]
+
 
 layout: post
 title: Reservations for the most stupid.

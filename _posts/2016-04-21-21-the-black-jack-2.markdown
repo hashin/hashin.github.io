@@ -1,5 +1,6 @@
 ---
-categories: [personal]
+categories: [philosophy]
+
 
 layout: post
 title: 21, The black jack.

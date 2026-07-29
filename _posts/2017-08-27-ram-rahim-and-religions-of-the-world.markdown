@@ -1,5 +1,6 @@
 ---
-categories: [philosophy]
+categories: [politics, policy]
+
 
 layout: post
 title: Ram, Rahim and religions of the world.

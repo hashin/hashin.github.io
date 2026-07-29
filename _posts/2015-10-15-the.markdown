@@ -1,7 +1,8 @@
 ---
+categories: [personal]
+
 layout: post
 title: The Tinder Ghost.
-categories: [philosophy]
 image: http://ak-hdl.buzzfed.com/static/2014-02/enhanced/webdr03/25/11/anigif_enhanced-3445-1393345385-1.gif
 date: '2015-10-15 21:13:38'
 tags:

@@ -1,5 +1,6 @@
 ---
-categories: [politics]
+categories: [politics, philosophy, personal, tech]
+
 
 layout: post
 title:  Looking beyond the Black hole.

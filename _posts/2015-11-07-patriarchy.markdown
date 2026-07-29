@@ -1,7 +1,8 @@
 ---
+categories: [politics, philosophy]
+
 layout: post
 title: Patriarchy.
-categories: [politics]
 image: http://worldheritage.routes.travel/wp-content/uploads/2013/05/shutterstock_119276947.jpg
 date: '2015-11-07 11:18:09'
 tags:

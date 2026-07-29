@@ -1,7 +1,8 @@
 ---
+categories: [personal]
+
 layout: post
 title: When I typed at night.
-categories: [philosophy]
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1135px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg'
 date: '2015-10-07 19:13:01'
 tags:

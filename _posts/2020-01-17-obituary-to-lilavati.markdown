@@ -1,5 +1,6 @@
 ---
-categories: [politics]
+categories: [philosophy, personal]
+
 
 layout: post
 title:  An Obituary to Prof. Lilavati.

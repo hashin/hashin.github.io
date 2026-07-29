@@ -1,4 +1,6 @@
 ---
+categories: [philosophy, personal]
+
 layout: post
 title: The touch of Parvati
 date: '2015-03-16 19:39:51'
@@ -8,7 +10,6 @@ tags:
 - life
 - rants
 ---
-
 I need to write about love. Not about sex or lust. I am adamant about sticking to Indian mythology tonight. The sweet rains of summer has graced us and the cold breeze simply refuses to retreat.
 
 Romance is the thing of the hour. Even the lust lackluster right now. Kamadeva and Rati is out of question. Those are materialistic deities I anyway hate. No, its not hate in fact. I just don't like them. But there are times when I like 'em , errr...

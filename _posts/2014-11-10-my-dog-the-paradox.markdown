@@ -1,7 +1,8 @@
 ---
+categories: [philosophy]
+
 layout: post
 title: My Dog- The Paradox.
-categories: [philosophy]
 date: '2014-11-10 09:29:03'
 tags:
 - life

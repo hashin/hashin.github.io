@@ -1,7 +1,8 @@
 ---
+categories: [politics]
+
 layout: post
 title: My different nation.
-categories: [philosophy]
 date: '2014-12-12 17:49:44'
 tags:
   - writing

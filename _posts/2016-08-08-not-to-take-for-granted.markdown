@@ -1,5 +1,6 @@
 ---
-categories: [politics]
+categories: [politics, philosophy]
+
 
 layout: post
 title: Not to be taken for granted.

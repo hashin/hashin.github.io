@@ -1,6 +1,7 @@
 ---
 categories: [philosophy]
 
+
 layout: post
 title: Are college professors allowed to call students on their cell phones?
 date: '2016-04-20 05:56:19'
