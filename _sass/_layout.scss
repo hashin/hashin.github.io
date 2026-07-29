@@ -5,11 +5,13 @@
 html.dark { background: $bg-dark; }
 html.dark body { background: $bg-dark; color: $ink-dark; }
 
+html{ font-size: 100%; }
+
 body{
   background: $bg; color: $ink;
   font-family: $serif;
   max-width: 700px; margin: 0 auto; padding: 0 1.5rem;
-  font-size: 18px; line-height: 1.65;
+  font-size: 1.1875rem; line-height: 1.7;
 }
 
 .mal{ font-family: $malayalam; }
@@ -25,25 +27,25 @@ html.dark hr{ background: $rule-dark; }
 // Masthead
 //
 header.masthead{ padding: 4em 0 1.4em; }
-.kicker{ font-style: italic; font-size: 0.92rem; color: $muted; margin-bottom: 0.6em; }
+.kicker{ font-style: italic; font-size: 1rem; color: $muted; margin-bottom: 0.6em; }
 html.dark .kicker{ color: $muted-dark; }
 
 h1.wordmark{
-  font-weight: 500; font-size: 2.3rem; margin: 0 0 0.2em; line-height: 1.1;
+  font-weight: 500; font-size: 2.4rem; margin: 0 0 0.2em; line-height: 1.1;
   a{ text-decoration: none; color: inherit; }
 }
 
-.desc{ color: $muted; font-style: italic; margin: 0 0 1.5em; font-size: 1rem; }
+.desc{ color: $muted; font-style: italic; margin: 0 0 1.5em; font-size: 1.08rem; }
 html.dark .desc{ color: $muted-dark; }
 
 nav.primary{
-  font-size: 0.92rem;
+  font-size: 1rem;
   a{ margin-right: 1.5em; text-decoration: none; &:hover{ text-decoration: underline; } }
 }
 
 .darkbtn{
-  background: none; border: 1px solid $rule; color: inherit; font-family: inherit; font-size: 0.78rem;
-  padding: 3px 11px; border-radius: 2px; cursor: pointer; margin-top: 1.2em;
+  background: none; border: 1px solid $rule; color: inherit; font-family: inherit; font-size: 0.85rem;
+  padding: 4px 12px; border-radius: 2px; cursor: pointer; margin-top: 1.2em;
 }
 html.dark .darkbtn{ border-color: $rule-dark; }
 
@@ -54,14 +56,14 @@ html.dark .darkbtn{ border-color: $rule-dark; }
 
 input.search{
   width: 100%; border: 0; border-bottom: 1px solid $rule; background: none; font-family: inherit;
-  font-size: 1.02rem; font-style: italic; color: inherit; padding: 0.35em 0.1em; outline: none;
+  font-size: 1.1rem; font-style: italic; color: inherit; padding: 0.35em 0.1em; outline: none;
   &:focus{ border-bottom-color: $ink; }
 }
 html.dark input.search{ border-bottom-color: $rule-dark; }
 html.dark input.search:focus{ border-bottom-color: $ink-dark; }
 
 .tagsline{
-  margin: 0.9em 0 0; font-size: 0.9rem;
+  margin: 0.9em 0 0; font-size: 0.98rem;
   .tsep{ color: $rule; margin: 0 0.5em; }
 }
 html.dark .tagsline .tsep{ color: $rule-dark; }
@@ -78,7 +80,7 @@ html.dark .tag.active{ color: $ink-dark; border-bottom-color: $ink-dark; }
 //
 main.index-list{ padding: 2.2em 0 1em; }
 
-.idx-year{ font-style: italic; color: $muted; font-size: 0.92rem; margin: 2.2em 0 0.2em; }
+.idx-year{ font-style: italic; color: $muted; font-size: 1rem; margin: 2.2em 0 0.2em; }
 html.dark .idx-year{ color: $muted-dark; }
 .idx-year:first-child{ margin-top: 0.2em; }
 
@@ -87,12 +89,12 @@ html.dark .idx-row{ border-bottom-color: $rule-dark; }
 .idx-row.hidden{ display: none; }
 
 .idx-title{
-  font-size: 1.15rem; margin: 0 0 0.2em; font-weight: 500;
+  font-size: 1.25rem; margin: 0 0 0.2em; font-weight: 500;
   a{ text-decoration: none; &:hover{ text-decoration: underline; } }
 }
-.idx-meta{ font-size: 0.82rem; color: $muted; margin: 0 0 0.4em; }
+.idx-meta{ font-size: 0.9rem; color: $muted; margin: 0 0 0.4em; }
 html.dark .idx-meta{ color: $muted-dark; }
-.idx-excerpt{ margin: 0; font-size: 0.98rem; }
+.idx-excerpt{ margin: 0; font-size: 1.05rem; }
 
 //
 // Article
@@ -100,23 +102,23 @@ html.dark .idx-meta{ color: $muted-dark; }
 article.post, article.page{ padding: 3em 0 4em; border-top: 1px solid $rule; margin-top: 1.8em; }
 html.dark article.post, html.dark article.page{ border-top-color: $rule-dark; }
 
-.post-kicker{ font-size: 0.85rem; color: $muted; margin-bottom: 0.5em; }
+.post-kicker{ font-size: 0.92rem; color: $muted; margin-bottom: 0.5em; }
 html.dark .post-kicker{ color: $muted-dark; }
 
-h1.post-title{ font-size: 2rem; font-weight: 500; line-height: 1.2; margin: 0 0 0.3em; }
+h1.post-title{ font-size: 2.15rem; font-weight: 500; line-height: 1.2; margin: 0 0 0.3em; }
 
-.post-sub{ color: $muted; font-size: 0.9rem; margin-bottom: 2.2em; }
+.post-sub{ color: $muted; font-size: 0.98rem; margin-bottom: 2.2em; }
 html.dark .post-sub{ color: $muted-dark; }
 
 .entry{
-  font-size: 1.12rem; line-height: 1.75;
+  font-size: 1.2rem; line-height: 1.75;
 
   p{ margin: 0 0 1.3em; }
   ul, ol{ margin: 0 0 1.3em 1.4em; }
 
   blockquote{
     margin: 1.8em 0; padding-left: 1.1em; border-left: 2px solid $rule;
-    font-style: italic; font-size: 1.08rem;
+    font-style: italic; font-size: 1.15rem;
   }
 
   code{ font-family: 'Bitstream Vera Sans Mono', 'Courier', monospace; }
@@ -160,7 +162,7 @@ html.dark .entry blockquote{ border-left-color: $rule-dark; }
 }
 .fn-content{
   display: none; margin: 0.2em 0 1.3em; padding-left: 1em; border-left: 2px solid $rule;
-  font-size: 0.9rem; line-height: 1.5; color: $muted;
+  font-size: 0.98rem; line-height: 1.55; color: $muted;
   &.open{ display: block; }
   .fn-num{ font-weight: 600; margin-right: 0.4em; }
 }
@@ -175,7 +177,7 @@ html.dark .fn-content{ border-left-color: $rule-dark; color: $muted-dark; }
 // Footer
 //
 footer.site{
-  border-top: 1px solid $rule; padding: 2.2em 0 4em; color: $muted; font-size: 0.88rem;
+  border-top: 1px solid $rule; padding: 2.2em 0 4em; color: $muted; font-size: 0.95rem;
   a{ margin-right: 1.1em; text-decoration: none; color: $muted; &:hover{ text-decoration: underline; } }
 }
 html.dark footer.site{ border-top-color: $rule-dark; color: $muted-dark; }
