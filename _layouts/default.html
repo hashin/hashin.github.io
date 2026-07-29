@@ -1,13 +1,23 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
+    <meta charset="utf-8">
+    <script>
+      (function(){
+        try{
+          var t = localStorage.getItem('theme');
+          var wantsDark = t ? t === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches;
+          if(wantsDark) document.documentElement.classList.add('dark');
+        }catch(e){}
+      })();
+    </script>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=Noto+Serif+Malayalam:wght@400;500;600&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
@@ -17,35 +27,32 @@
   </head>
 
   <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+    <header class="masthead">
+      <div class="kicker">{{ site.tagline }}</div>
+      <h1 class="wordmark"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+      <p class="desc">{{ site.description }}</p>
+      <nav class="primary">
+        <a href="{{ site.baseurl }}/">Essays</a>
+        <a href="{{ site.baseurl }}/about/">About</a>
+      </nav>
+      <button class="darkbtn" onclick="hjToggleDark()">Toggle dark</button>
+    </header>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
-      </div>
-    </div>
-
-    <div id="main" role="main" class="container">
+    <main class="page-content">
       {{ content }}
-    </div>
+    </main>
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
+    <footer class="site">
+      {% include footer-links.html %}
+    </footer>
+
+    <script>
+      function hjToggleDark(){
+        var root = document.documentElement;
+        var isDark = root.classList.toggle('dark');
+        try{ localStorage.setItem('theme', isDark ? 'dark' : 'light'); }catch(e){}
+      }
+    </script>
 
     {% include analytics.html %}
   </body>

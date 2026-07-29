@@ -1,0 +1,186 @@
+//
+// LAYOUT — Spectral, single-column, true grayscale
+//
+
+html.dark { background: $bg-dark; }
+html.dark body { background: $bg-dark; color: $ink-dark; }
+
+body{
+  background: $bg; color: $ink;
+  font-family: $serif;
+  max-width: 700px; margin: 0 auto; padding: 0 1.5rem;
+  font-size: 18px; line-height: 1.65;
+}
+
+.mal{ font-family: $malayalam; }
+
+a{ color: inherit; text-decoration-thickness: 0.05em; text-underline-offset: 0.14em; }
+.muted{ color: $muted; }
+html.dark .muted{ color: $muted-dark; }
+
+hr{ display: block; height: 1px; background: $rule; border: 0; margin: 2.4em 0; }
+html.dark hr{ background: $rule-dark; }
+
+//
+// Masthead
+//
+header.masthead{ padding: 4em 0 1.4em; }
+.kicker{ font-style: italic; font-size: 0.92rem; color: $muted; margin-bottom: 0.6em; }
+html.dark .kicker{ color: $muted-dark; }
+
+h1.wordmark{
+  font-weight: 500; font-size: 2.3rem; margin: 0 0 0.2em; line-height: 1.1;
+  a{ text-decoration: none; color: inherit; }
+}
+
+.desc{ color: $muted; font-style: italic; margin: 0 0 1.5em; font-size: 1rem; }
+html.dark .desc{ color: $muted-dark; }
+
+nav.primary{
+  font-size: 0.92rem;
+  a{ margin-right: 1.5em; text-decoration: none; &:hover{ text-decoration: underline; } }
+}
+
+.darkbtn{
+  background: none; border: 1px solid $rule; color: inherit; font-family: inherit; font-size: 0.78rem;
+  padding: 3px 11px; border-radius: 2px; cursor: pointer; margin-top: 1.2em;
+}
+html.dark .darkbtn{ border-color: $rule-dark; }
+
+//
+// Search + tag filter
+//
+.findbar{ margin: 1.6em 0 0.2em; }
+
+input.search{
+  width: 100%; border: 0; border-bottom: 1px solid $rule; background: none; font-family: inherit;
+  font-size: 1.02rem; font-style: italic; color: inherit; padding: 0.35em 0.1em; outline: none;
+  &:focus{ border-bottom-color: $ink; }
+}
+html.dark input.search{ border-bottom-color: $rule-dark; }
+html.dark input.search:focus{ border-bottom-color: $ink-dark; }
+
+.tagsline{
+  margin: 0.9em 0 0; font-size: 0.9rem;
+  .tsep{ color: $rule; margin: 0 0.5em; }
+}
+html.dark .tagsline .tsep{ color: $rule-dark; }
+
+.tag{
+  text-decoration: none; color: $muted; cursor: pointer; padding-bottom: 2px; border-bottom: 1px solid transparent;
+  &.active{ color: $ink; font-weight: 600; border-bottom: 1px solid $ink; }
+}
+html.dark .tag{ color: $muted-dark; }
+html.dark .tag.active{ color: $ink-dark; border-bottom-color: $ink-dark; }
+
+//
+// Index (single column, year-grouped)
+//
+main.index-list{ padding: 2.2em 0 1em; }
+
+.idx-year{ font-style: italic; color: $muted; font-size: 0.92rem; margin: 2.2em 0 0.2em; }
+html.dark .idx-year{ color: $muted-dark; }
+.idx-year:first-child{ margin-top: 0.2em; }
+
+.idx-row{ padding: 1.1em 0; border-bottom: 1px solid $rule; }
+html.dark .idx-row{ border-bottom-color: $rule-dark; }
+.idx-row.hidden{ display: none; }
+
+.idx-title{
+  font-size: 1.15rem; margin: 0 0 0.2em; font-weight: 500;
+  a{ text-decoration: none; &:hover{ text-decoration: underline; } }
+}
+.idx-meta{ font-size: 0.82rem; color: $muted; margin: 0 0 0.4em; }
+html.dark .idx-meta{ color: $muted-dark; }
+.idx-excerpt{ margin: 0; font-size: 0.98rem; }
+
+//
+// Article
+//
+article.post, article.page{ padding: 3em 0 4em; border-top: 1px solid $rule; margin-top: 1.8em; }
+html.dark article.post, html.dark article.page{ border-top-color: $rule-dark; }
+
+.post-kicker{ font-size: 0.85rem; color: $muted; margin-bottom: 0.5em; }
+html.dark .post-kicker{ color: $muted-dark; }
+
+h1.post-title{ font-size: 2rem; font-weight: 500; line-height: 1.2; margin: 0 0 0.3em; }
+
+.post-sub{ color: $muted; font-size: 0.9rem; margin-bottom: 2.2em; }
+html.dark .post-sub{ color: $muted-dark; }
+
+.entry{
+  font-size: 1.12rem; line-height: 1.75;
+
+  p{ margin: 0 0 1.3em; }
+  ul, ol{ margin: 0 0 1.3em 1.4em; }
+
+  blockquote{
+    margin: 1.8em 0; padding-left: 1.1em; border-left: 2px solid $rule;
+    font-style: italic; font-size: 1.08rem;
+  }
+
+  code{ font-family: 'Bitstream Vera Sans Mono', 'Courier', monospace; }
+
+  //
+  // Images — always contained, never distorted, centered with vertical rhythm
+  //
+  img{
+    display: block; max-width: 100%; height: auto; margin: 1.8em auto;
+  }
+
+  //
+  // Embeds — iframes never overflow the column; YouTube specifically forced
+  // to a correct responsive 16:9 box regardless of hardcoded width/height
+  // attributes baked into old posts. Non-video iframes (charts, audio
+  // widgets) are only capped, not reshaped, since forcing 16:9 on those
+  // would distort them.
+  //
+  iframe{
+    max-width: 100%; border: 0; margin: 1.8em 0;
+  }
+  iframe[src*="youtube.com/embed"],
+  iframe[src*="youtube-nocookie.com/embed"]{
+    display: block; width: 100%; aspect-ratio: 16 / 9; height: auto;
+  }
+
+  // Legacy responsive-embed wrapper already used in one post — keep supporting it.
+  .iframe-container{
+    position: relative; width: 100%; padding-bottom: 56.25%; height: 0; margin: 1.8em 0;
+    iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; margin: 0; }
+  }
+}
+html.dark .entry blockquote{ border-left-color: $rule-dark; }
+
+//
+// Footnotes — click-to-expand, no floated margin column
+//
+.fn-ref{
+  cursor: pointer; font-size: 0.7em; vertical-align: super; text-decoration: underline;
+  text-underline-offset: 0.2em; padding: 0 0.1em;
+}
+.fn-content{
+  display: none; margin: 0.2em 0 1.3em; padding-left: 1em; border-left: 2px solid $rule;
+  font-size: 0.9rem; line-height: 1.5; color: $muted;
+  &.open{ display: block; }
+  .fn-num{ font-weight: 600; margin-right: 0.4em; }
+}
+html.dark .fn-content{ border-left-color: $rule-dark; color: $muted-dark; }
+
+//
+// Comments
+//
+.comments{ margin-top: 2.5em; }
+
+//
+// Footer
+//
+footer.site{
+  border-top: 1px solid $rule; padding: 2.2em 0 4em; color: $muted; font-size: 0.88rem;
+  a{ margin-right: 1.1em; text-decoration: none; color: $muted; &:hover{ text-decoration: underline; } }
+}
+html.dark footer.site{ border-top-color: $rule-dark; color: $muted-dark; }
+html.dark footer.site a{ color: $muted-dark; }
+
+@include mobile{
+  body{ padding: 0 1rem; }
+}

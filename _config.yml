@@ -8,6 +8,9 @@ name: Hashin Jithu
 # Short bio or description (displayed in the header)
 description: I write about the world.
 
+# Italic kicker line shown above the site name in the masthead
+tagline: A journal of essays, letters &amp; unfinished arguments
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://i.imgur.com/DTjaNqw.jpeg
 

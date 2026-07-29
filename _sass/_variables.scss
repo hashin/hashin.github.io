@@ -3,22 +3,20 @@
 // VARIABLES
 //
 
-// Colors
-$blue: #4183C4;
-$linkGreen: #109337;
+// Grayscale palette — true grayscale, zero hue anywhere (per sign-off)
+$bg:        #fdfdfc;
+$ink:       #111111;
+$muted:     #6b6b6b;
+$rule:      #dcdcdc;
 
-// Grays
-$black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$white: #fff;
+$bg-dark:   #141414;
+$ink-dark:  #e6e6e4;
+$muted-dark: #9a9a9a;
+$rule-dark: #333333;
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+$serif: "Spectral", Georgia, serif;
+$malayalam: "Noto Serif Malayalam", "Spectral", serif;
 
 // Mobile breakpoints
 @mixin mobile {
