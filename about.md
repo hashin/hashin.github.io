@@ -16,6 +16,6 @@ Btw, you can sample my other writing experiment here - <a href="http://haveyoume
 
 ### Contact me
 
-[Feel free to schedule a meeting with me!](https://calendly.com/hashin/getting-in-touch)
+[Feel free to schedule a meeting with me!](https://cal.com/hash1n/15min)
 <br>
 [mail@hashin.me](mailto:mail@hashin.me)
