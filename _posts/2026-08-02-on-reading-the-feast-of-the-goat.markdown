@@ -4,7 +4,7 @@ categories: [books, philosophy, politics]
 layout: post
 title: "On Reading The Feast of the Goat"
 image: "https://cdn2.picryl.com/photo/2021/06/03/idi-amin-caricature2-be3ede-1024.jpg"
-date: '2026-08-02 15:41:06'
+date: '2026-08-02 12:25:00'
 published: true
 ---
 > This book is one of the most powerful expositions of power and its ways to grace the world of literature. It remedies one of the greatest lacunae of history - the ability to feel and honestly discard objectivity as and when humanity demands it.
