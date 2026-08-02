@@ -46,6 +46,12 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+em, i {
+	font-style: italic;
+}
+strong, b {
+	font-weight: bold;
+}
 // Apply a natural box layout model to all elements
 // from: http://www.paulirish.com/2012/box-sizing-border-box-ftw/
 *, *:before, *:after {
