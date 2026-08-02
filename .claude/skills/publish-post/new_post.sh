@@ -35,7 +35,7 @@ if [[ -z "$title" || -z "$categories" || -z "$body_file" ]]; then
 fi
 
 if [[ -z "$date_str" ]]; then
-  date_str="$(date "+%Y-%m-%d %H:%M:%S")"
+  date_str="$(date -u "+%Y-%m-%d %H:%M:%S")"
 fi
 date_only="${date_str%% *}"
 
