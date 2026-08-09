@@ -186,6 +186,36 @@ html.dark .entry blockquote{ border-left-color: $rule-dark; }
 }
 html.dark .fn-content{ border-left-color: $rule-dark; color: $muted-dark; }
 
+// Standard kramdown footnotes block (rendered via [^n] syntax in post body)
+.entry .footnotes{
+  margin-top: 3em;
+
+  hr{
+    border: none; border-top: 1px solid $rule; margin: 0 0 1.4em;
+  }
+
+  .footnotes-heading{
+    font-size: 1rem; font-weight: 600; letter-spacing: 0.02em;
+    text-transform: uppercase; color: $muted; margin: 0 0 1.2em;
+  }
+
+  ol{
+    list-style: decimal; margin: 0 0 0 1.4em;
+  }
+  li{
+    font-size: 0.98rem; line-height: 1.55; color: $muted; margin-bottom: 0.6em;
+    p{ display: inline; margin: 0; }
+  }
+  .reversefootnote{
+    text-decoration: none; margin-left: 0.3em;
+  }
+}
+html.dark .entry .footnotes{
+  hr{ border-top-color: $rule-dark; }
+  .footnotes-heading{ color: $muted-dark; }
+  li{ color: $muted-dark; }
+}
+
 //
 // Comments
 //
