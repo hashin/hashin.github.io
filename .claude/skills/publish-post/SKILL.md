@@ -27,19 +27,33 @@ directory — never hand-generate the frontmatter yourself, run the script.
 ## Steps
 
 1. **Read the shared file as-is.** If it has YAML frontmatter already,
-   pull `title`/`categories`/`image`/`date`/`published` from it directly
-   instead of asking. If the body opens with a `# Title` line that
-   duplicates the intended title, strip that line from the body (it
-   shouldn't appear twice).
+   pull `image`/`date`/`published` from it directly instead of asking
+   about those. If the body opens with a `# Title` line, strip that line
+   from the body regardless (the title only lives in frontmatter, never
+   repeated in the body) — but don't treat it, or any frontmatter `title`,
+   as final; title is always confirmed with Hashin per step 2.
 
-2. **Fill gaps with exactly one question, not several round-trips.** Use
-   AskUserQuestion in a single call to collect whatever is still missing
-   among: categories (offer the known vocabulary as multi-select options),
-   hero image URL (optional, allow skipping), and published vs. draft.
-   Don't ask about slug/filename/date unless the title is non-Latin script
-   (e.g. Malayalam) — `new_post.sh` can't transliterate that automatically,
-   so ask for an explicit `--slug` only in that case. Default date is "now"
-   unless Hashin wants to backdate it.
+2. **Always ask, in exactly one AskUserQuestion call (not several
+   round-trips):**
+   - **Title** — every single time, even if the file already has a
+     `title` in frontmatter or an `# H1` line. Offer the detected
+     title (from frontmatter/H1/filename) as one option and "I'll type
+     a different title" as another; Hashin can also free-type via
+     "Other".
+   - **Categories** — always show the *entire* known vocabulary as
+     multi-select options so Hashin picks from all of them, not just a
+     pre-filtered subset: `politics`, `philosophy`, `personal`,
+     `policy`, `books`, `malayalam`, `tech`. If the source file already
+     has `categories` in frontmatter, that's fine as a hint but still
+     show all options — don't pre-decide for him.
+   - **Hero image URL** (optional, allow skipping — pre-fill the
+     option text with the frontmatter image if one exists).
+   - **Published vs. draft.**
+
+   Don't ask about slug/filename/date unless the title is non-Latin
+   script (e.g. Malayalam) — `new_post.sh` can't transliterate that
+   automatically, so ask for an explicit `--slug` only in that case.
+   Default date is "now" unless Hashin wants to backdate it.
 
 3. **Generate the post file with the script**, e.g.:
 
