@@ -1,5 +1,5 @@
 ---
-categories: [philosophy]
+categories: [philosophy, politics]
 
 layout: post
 title:  It takes more than one to organise.
