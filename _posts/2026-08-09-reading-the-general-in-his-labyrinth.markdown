@@ -1,0 +1,40 @@
+---
+categories: [books, philosophy, politics]
+
+layout: post
+title: "Reading The General in His Labyrinth"
+image: "https://www.historytoday.com/sites/default/files/bolivardeath.jpg"
+date: '2026-08-09 13:15:45'
+published: true
+---
+My last article on [reading the Feast of the Goat](https://blog.hashin.me/2026/08/02/on-reading-the-feast-of-the-goat/) speaks nothing of the book. It is clear that I loved the book, but that article was more about my thoughts on [the genre](https://en.wikipedia.org/wiki/Dictator_novel). Before stumbling upon these books some five years ago, I was entirely unaware of their existence. An honorable mention goes to [the last interview series](https://www.penguinrandomhouse.com/series/TLI/the-last-interview-series/), which was an arguably expensive voyage that helped me skim over the lives of these authors. Especially important was Gabriel Garcia Márquez, whose infinite fluidity with prose kept motivating me to dream more and more about crafting something unique.
+
+And then, I fell into an abyss.
+
+The last five years were great, but my literary pursuits had to hit a tremendous boulder in the way I got myself *involved* in the workings of the larger society. As and when I started to get more ferocious about politics and political action, my mind moved too fast - and at times even violent bouts of diffidence wouldn't *calm* me down. The speed was unbearable, for the body should also cope with the way dreams keep racing towards ends otherwise difficult to achieve. Lucky are the men[^1] who could just let themselves be discouraged by history and the enormities of change. I am still naive enough to pursue the dreams of youth. At a critical juncture, I believe that pausing to read these books will do me good. At 32, at least a third of my life, and a veritable half of my *good life* is past me. Still, I can feel the young boy kicking within, clamoring endlessly for change; an amelioration of the human condition. Let's see how far we can go.
+
+Coming back, if the Feast of the Goat took us across the state apparatus and primarily concerned itself with the ways of those *who sustain power*, The General in His Labyrinth, follows the *inner world* of a General who is well past his prime. What makes it so terrifying is the way it demystifies a mind that is now deserted by every *entanglement of power.* The book does not seek to educate us on the equations and theories that underpin the General's power. Rather, it concerns itself with what such intrigues have done to this man, who is on his final journey towards oblivion. The greatness that is built around him fails to save him from a ravaging pestilence, just like his very many illustrious love affairs fail to quench his *unrequited desire* for being understood in the truest sense. ***A great manipulator in the ways of power will be a great manipulator in the ways of love too***; but seldom do we explore the way such deceits hollow out the heart of the perpetrator. If men who seek power are to be tamed, they must be shown how this *disease* [^2] kills them. In that sense, *the General in His Labyrinth* is educative as well.
+
+Márquez paints a damning picture of what awaits minds consumed by the ultimate desire for power. They are always in a state of flux, which simply doesn't make any sense to *ordinary* people. Just like their minds are different, their *reward mechanisms* are different too - which makes it all the more difficult for people to *understand* them. What they don't understand, they tend to *worship*. And it is a *feed forward system* that boosts the odds of success for demagogues over systems that tend to tame them.
+
+The book made me ruminate on the purpose of life and the absurdities of lives that seek ultimate power. In the last article, we obsessively linked the pursuit of power with its tenuous relationship with Truth. Truth tends to be the arbiter of outcomes, irrespective of the way it could flip the nature of reality. However for the General, his primary enemy was mortality that found him through the tuberculosis that destroyed him. The irony of dying before fulfilling a great dream gets more and more petrifying as the achievements towards that end accumulate. It is easy to die when you have *achieved naught* towards a great dream. But when you have done so much, death is a bitter enemy that you would fight with all of your strength. But what damns you is not the failure in the fight against death, but the loss of dignity that invariably accompanies it.
+
+That hurts.
+
+And that made me cry at many instances in the book. Why should a *modern democrat* cry at the misfortunes of a military dictator[^3] who died two hundred years ago? My answer is in the reality that the *pursuit of power* hasn't changed much over the course of human history. And it helps us to understand it thoroughly before we set out to *understand* our leaders.
+
+Perhaps the obscure reasons I have for reading these books wouldn't find larger currency. But, I am sure that an honest exposition of power benefits all. It makes it more and more difficult for demagogues to keep deploying the same tools that worked a thousand years ago. And some of them work even today (ah, the scourge of communalism!); so we stand to benefit from understanding the workings of a mind that seeks, wins and preserves power.
+
+Another important feature of this book is the way it makes us think about the relationship shared by the *men* around him. Most of them are brought to him by the chance of life - but also they share a common desire in the way they are wedded to the pursuit of power. All his compatriots are thrown into the intrigues of politics, even when they were content as military leaders chasing glory. Power politics acts as the ultimate leveler, for it robs these men of their glory.
+
+And for this reason, I favor more and more religion in politics. Nothing is more sobering than the pangs of a fanatic who has tested his ideology in battle and has failed. His legacy may be preserved in his martyrdom, but the death of his fanaticism begins at the altar of *material pursuits for power*. Long live the revolution because it is a furnace of moribund ideals too!
+
+A word about the author! The descriptive beauty of his prose keeps us anchored to the book. It paints a beautiful picture of the landscapes through which the general sails for *one last time*. The geography, the myths, the people and their aspirations - all meld together into a tragicomic symphony as we slowly meander towards the general's inevitable demise. The prose humanizes the many opaque chapters in history. It seeks to act as a magical *(realism?)* potion that bridges the gap between what is known conclusively and what could *(or rather should)* be the truth. As I argued in the [last article](https://blog.hashin.me/2026/08/02/on-reading-the-feast-of-the-goat/), truth has redemptive qualities for all parties involved - including the ones who actively seek to disparage or worse, destroy it.
+
+And hence, this beautiful book covers the journey of a dying Simón Bolívar as he decays into a package of a brittle scaffolding of bones and poisoned flesh held together by a parching leather that was once his plump skin. As we all march towards an obscure destiny, perhaps the sober ones will choose humanity over everything else - including themselves.
+
+It is here that literature becomes prayer. A prayer more powerful than god, because how can we see God if not for the words that describe Him?
+
+[^1]: "men" across this article must be understood to include women and others who don't attach any particular gender to their identity.
+[^2]: Of course, they don't look at their conquests as symptoms of a larger malaise.
+[^3]: It is a slight misfortune that I have to use this word. General Simón Bolívar thought of himself as a great liberator and republican. But as we shall see, sometimes *great men* are insulated from Truth, and it becomes increasingly difficult to pay true tributes to them.
