@@ -2,7 +2,7 @@
 categories: [books, philosophy, politics]
 
 layout: post
-title: "Reading The General in His Labyrinth"
+title: "On Reading The General in His Labyrinth"
 image: "https://www.historytoday.com/sites/default/files/bolivardeath.jpg"
 date: '2026-08-09 13:15:45'
 published: true
