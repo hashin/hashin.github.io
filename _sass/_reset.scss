@@ -52,6 +52,20 @@ em, i {
 strong, b {
 	font-weight: bold;
 }
+sup {
+	font-size: 0.7em;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+	top: -0.5em;
+}
+sub {
+	font-size: 0.7em;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+	bottom: -0.25em;
+}
 // Apply a natural box layout model to all elements
 // from: http://www.paulirish.com/2012/box-sizing-border-box-ftw/
 *, *:before, *:after {

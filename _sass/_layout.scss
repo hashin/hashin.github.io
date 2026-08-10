@@ -186,6 +186,13 @@ html.dark .entry blockquote{ border-left-color: $rule-dark; }
 }
 html.dark .fn-content{ border-left-color: $rule-dark; color: $muted-dark; }
 
+// Footnote reference markers in the article body — kramdown already
+// wraps these in <sup>, restored by the reset fix above; just drop the
+// underline so the citation reads as a clean numeral, not a link.
+.entry sup a.footnote{
+  text-decoration: none;
+}
+
 // Standard kramdown footnotes block (rendered via [^n] syntax in post body)
 .entry .footnotes{
   margin-top: 3em;
