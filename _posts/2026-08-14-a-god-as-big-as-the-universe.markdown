@@ -3,7 +3,7 @@ categories: [philosophy, politics, personal]
 
 layout: post
 title: "A God as Big as the Universe"
-image: "https://i.postimg.cc/G2WvKTgj/corrupted-god-of-hunger-v0-dq33s13m3nwc1.webp"
+image: "https://i.pinimg.com/1200x/0e/cf/e2/0ecfe29007edc6a0c59026b86c8d4462.jpg"
 date: '2026-08-14 13:48:13'
 published: true
 ---
