@@ -39,8 +39,8 @@ footer-links:
 # You can find your shortname on the Settings page of your Disqus account
 disqus: hashin
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-38434239-2
+# Enter your Google Analytics 4 Measurement ID (e.g. G-XXXXXXXXXX) to activate tracking
+google_analytics: G-1XPRRMNKM3
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
