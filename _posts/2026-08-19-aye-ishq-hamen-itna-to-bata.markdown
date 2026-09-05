@@ -3,7 +3,7 @@ categories: [philosophy, personal]
 
 layout: post
 title: "Aye Ishq Hamen Itna To Bata"
-image: "https://i.tribune.com.pk/media/images/424823-Pashtomusicil_1735799875/424823-Pashtomusicil_1735799875-640x480.webp"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Layla_and_Majnun2.jpg/960px-Layla_and_Majnun2.jpg"
 date: '2026-08-19 22:30:41'
 published: true
 ---
